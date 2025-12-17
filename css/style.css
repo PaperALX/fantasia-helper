@@ -1,0 +1,388 @@
+/* =========================================================
+   FONT DEFINITIONS
+   ========================================================= */
+@font-face {
+  font-family: 'VI Hai Duong';
+  src: url('../fonts/VI-Hai-Duong-Normal.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* =========================================================
+   GLOBAL / BODY STYLING
+   ========================================================= */
+body {
+  cursor: url('../background/cursor.png') 0 0, auto;
+  font-family: Verdana, Geneva, sans-serif;
+  color: #333;
+  background: url('../background/elliniaBG.png') no-repeat center center fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+/* =========================================================
+   PAGE CONTAINER
+   ========================================================= */
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px 40px;
+  color: #2c2c2c;
+  background: linear-gradient(to bottom right, rgba(255,250,240), rgba(245, 230, 210));
+  border: 3px solid #b08d57;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* =========================================================
+   HEADERS / TITLE AREA
+   ========================================================= */
+.header-with-images {
+  position: relative;
+  font-size: 2.8rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Header side images */
+.header-with-images .header-icon:first-child {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(100px, -50%);
+}
+
+.header-with-images .header-icon:last-child {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translate(-100px, -50%);
+}
+
+/* Heading typography */
+h1,
+h2 {
+  font-family: 'VI Hai Duong', sans-serif;
+  color: #323b5e;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+/* Title text container */
+.h1-container {
+  background: #f6e8d8;
+  padding: 12px 20px;
+  border-radius: 12px;
+  border: 2px solid #d4b57f;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+}
+
+/* =========================================================
+   SEARCH INPUT & AUTOCOMPLETE DROPDOWN
+   ========================================================= */
+.search-area {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+#search {
+  width: 400px;
+  max-width: 90%;
+  padding: 10px 14px;
+  font-size: 1.05rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  outline: none;
+}
+
+/* Dropdown container */
+.dropdown {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 400px;
+  max-width: 90%;
+  max-height: 220px;
+  overflow-y: auto;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-top: none;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  z-index: 1000;
+}
+
+/* Dropdown items */
+.dropdown li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  cursor: pointer;
+}
+
+.dropdown li:hover {
+  background: #f0f0f0;
+}
+
+.dropdown li.highlight {
+  background: #3498db;
+  color: #fff;
+}
+
+/* Dropdown icons */
+.dropdown .thumb {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+/* Dropdown item type indicators */
+.dropdown li.monster {
+  border-left: 4px solid #e74c3c;
+  padding-left: 6px;
+}
+
+.dropdown li.item {
+  border-left: 4px solid #3498db;
+  padding-left: 6px;
+}
+
+/* =========================================================
+   RESULT AREA – GENERAL TEXT & MEDIA
+   ========================================================= */
+.result p {
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+.result ul {
+  list-style: disc;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+.result ul li {
+  margin: 4px 0;
+}
+
+.result img {
+  display: block;
+  margin: 10px 0;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+/* =========================================================
+   MONSTER HEADER
+   ========================================================= */
+.monster-header {
+  text-align: center;
+}
+
+.monster-header img {
+  display: block;
+  margin: 10px auto;
+  height: auto;
+}
+
+/* =========================================================
+   NOTES BOX
+   ========================================================= */
+.result .notes::before {
+  content: "Note:";
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.result .notes {
+  background: linear-gradient(to bottom, #fff6ea, #f1dcc2);
+  border: 2px solid #c9a86a;
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin: 14px 0;
+  color: #3f2f1f;
+  box-shadow:
+    0 4px 10px rgba(0,0,0,0.25),
+    0 0 8px rgba(255, 215, 140, 0.35);
+  line-height: 1.5;
+}
+
+/* =========================================================
+   EPISODE BOX
+   ========================================================= */
+.result .episode::before {
+  content: "Episode:";
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.result .episode {
+  background: linear-gradient(to bottom, #eef3e6, #dde6cf);
+  border: 2px solid #a9b98c;
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin: 14px 0;
+  color: #2f3a24;
+  box-shadow:
+    0 4px 10px rgba(0,0,0,0.25),
+    0 0 8px rgba(190, 215, 160, 0.35);
+  line-height: 1.5;
+}
+
+.result .episode-text {
+  white-space: pre-wrap;
+}
+
+/* =========================================================
+   STATS (LEVEL / HP / MP / EXP)
+   ========================================================= */
+.stat {
+  font-weight: bold;
+  color: #fff;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+
+.stat-level { background-color: #7f8c8d; }
+.stat-hp    { background-color: #e74c3c; }
+.stat-mp    { background-color: #3498db; }
+.stat-exp   { background-color: #2ecc71; }
+
+/* =========================================================
+   DROPS & ITEM GRIDS
+   ========================================================= */
+.drops-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.drops-grid.monster-list {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* Item slot styling */
+.drop-item {
+  background: #f6e8d8;
+  border: 2px solid #d4b57f;
+  border-radius: 6px;
+  padding: 8px;
+  text-align: center;
+  box-shadow:
+    0 0 0 2px #ffffff inset,
+    0 1px 3px rgba(0,0,0,0.15);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.drop-item:hover {
+  transform: scale(1.05);
+  box-shadow:
+    0 0 0 2px #ffffff inset,
+    0 3px 6px rgba(0,0,0,0.25);
+}
+
+/* Monster icons inside item grids */
+.monster-list .drop-item img.thumb {
+  max-width: 100%;
+  max-height: 100px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+
+/* =========================================================
+   LOCATIONS
+   ========================================================= */
+.locations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.location-chip {
+  background: #f6e8d8;
+  border: 1px solid #d4b57f;
+  border-radius: 6px;
+  padding: 4px 8px;
+  white-space: nowrap;
+}
+
+/* =========================================================
+   RESPONSIVE ADJUSTMENTS
+   ========================================================= */
+@media (max-width: 600px) {
+  .container {
+    margin: 20px auto;
+    padding: 20px;
+  }
+
+  #search {
+    padding: 10px;
+    font-size: 0.95rem;
+  }
+
+  .result img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+/* ==============================
+   DROPDOWN ITEM LAYOUT
+   ============================== */
+.dropdown-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  cursor: pointer;
+}
+
+.dropdown-item.monster {
+  border-left: 4px solid #e74c3c; /* red border for monsters */
+  padding-left: 6px;
+}
+
+.dropdown-item.item {
+  border-left: 4px solid #3498db; /* blue border for items */
+  padding-left: 6px;
+}
+
+.dropdown-item:hover {
+  background: #f0f0f0;
+}
+
+.dropdown-item.highlight {
+  background: #3498db;
+  color: #fff;
+}
+
+.dropdown-item .thumb {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
