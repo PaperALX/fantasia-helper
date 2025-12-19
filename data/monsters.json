@@ -900,7 +900,10 @@
     "hp": "450",
     "mp": "0",
     "exp": "37",
-    "locations": "",
+    "locations": [
+      "The Burning Sands: Outside the West Entrance of Ariant",
+      "Hidden Street: Young Catthus Desert"
+    ],
     "drops": [
       "Cactus Stem",
       "Orange Potion",
@@ -936,7 +939,17 @@
     "hp": "450",
     "mp": "0",
     "exp": "42",
-    "locations": "",
+    "locations": [
+      "Ludibrium: Eos Tower 43rd Floor",
+      "Ludibrium: Eos Tower 44th Floor",
+      "Ludibrium: Eos Tower 45th Floor",
+      "Ludibrium: Eos Tower 56th Floor",
+      "Ludibrium: Eos Tower 71st Floor",
+      "Ludibrium: Eos Tower 72nd Floor",
+      "Ludibrium: Eos Tower 73rd Floor",
+      "Ludibrium: Eos Tower 93rd Floor",
+      "Ludibrium: Eos Tower 94th Floor"
+    ],
     "drops": [
       "Spiderweb",
       "Orange Potion",
@@ -975,7 +988,15 @@
     "hp": "600",
     "mp": "10",
     "exp": "48",
-    "locations": "",
+    "locations": [
+      "Orbis: Orbis Tower <20th Floor>",
+      "Orbis: Orbis Tower <19th Floor>",
+      "Orbis: Orbis Tower <18th Floor>",
+      "Orbis: Orbis Tower <17th Floor>",
+      "Orbis: Orbis Tower <16th Floor>",
+      "Orbis: Orbis Tower <9th Floor>",
+      "Orbis: Orbis Tower <8th Floor>"
+    ],
     "drops": [
       "Jr. Sentinel Shellpiece",
       "Orange Potion",
@@ -1007,7 +1028,11 @@
     "hp": "500",
     "mp": "0",
     "exp": "42",
-    "locations": "",
+    "locations": [
+      "Hidden Street: Fish Resting Spot",
+      "Aqua Road: Mushroom Coral Hill",
+      "Aqua Road: The Sharp Unknown"
+    ],
     "drops": [
       "Sea Horse Tail",
       "Orange Potion",
@@ -1083,7 +1108,10 @@
     "hp": "500",
     "mp": "0",
     "exp": "42",
-    "locations": "",
+    "locations": [
+      "The Burning Sands: White Rock Desert",
+      "Hidden Street: Bellamoa\u2019s Cave"
+    ],
     "drops": [
       "Snake Rattle",
       "Orange Potion",
@@ -1376,7 +1404,11 @@
     "hp": "550",
     "mp": "0",
     "exp": "47",
-    "locations": "",
+    "locations": [
+      "The Burning Sands: Outside the West Entrance of Ariant",
+      "The Burning Sands: Cactus Desert 1",
+      "The Burning Sands: Cactus Desert 2"
+    ],
     "drops": [
       "Cactus Thorn",
       "Orange Potion",
@@ -1409,7 +1441,15 @@
     "hp": "270",
     "mp": "40",
     "exp": "50",
-    "locations": "",
+    "locations": [
+      "Dungeon: Deep Ant Tunnel I",
+      "Dungeon: Deep Ant Tunnel II",
+      "Dungeon: Ant Tunnel Park",
+      "Dungeon: The Cave of Evil Eye I",
+      "Dungeon: The Cave of Evil Eye II",
+      "Dungeon: The Cave of Evil Eye III",
+      "Dungeon: The Cave of Evil Eye IV"
+    ],
     "drops": [
       "Evil Eye Tail",
       "White Potion",
@@ -1513,7 +1553,10 @@
     "hp": "780",
     "mp": "0",
     "exp": "55",
-    "locations": "",
+    "locations": [
+      "Ludibrium: Eos Tower 56th Floor",
+      "Ludibrium: Eos Tower 71st Floor"
+    ],
     "drops": [
       "Sticky Spiderweb",
       "White Potion",
@@ -1547,7 +1590,10 @@
     "hp": "750",
     "mp": "0",
     "exp": "55",
-    "locations": "",
+    "locations": [
+      "The Burning Sands: Cactus Desert 2",
+      "Hidden Street: Royal Cactus Desert"
+    ],
     "drops": [
       "Cactus' Flower",
       "Blue Potion",
@@ -1580,7 +1626,11 @@
     "hp": "790",
     "mp": "0",
     "exp": "58",
-    "locations": "",
+    "locations": [
+      "Hidden Street: The Hidden Town",
+      "Aqua Road: Sand Castle Playground",
+      "Aqua Road: Big Fish Valley"
+    ],
     "drops": [
       "Flamboyant Petal",
       "Orange Potion",
@@ -1744,7 +1794,15 @@
     "hp": "950",
     "mp": "0",
     "exp": "60",
-    "locations": "",
+    "locations": [
+      "Ludibrium: Cloud Terrace<5>",
+      "Ludibrium: Cloud Terrace<4>",
+      "Ludibrium: Cloud Terrace<3>",
+      "Ludibrium: Cloud Terrace<1>",
+      "Ludibrium: Terrace Hall",
+      "Ludibrium: Sky Terrace<1>",
+      "Ludibrium: Sky Terrace<2>"
+    ],
     "drops": [
       "Teddy's Cotton",
       "White Potion",
@@ -2245,7 +2303,10 @@
     "hp": "700",
     "mp": "50",
     "exp": "50",
-    "locations": "",
+    "locations": [
+      "Singapore: Central Way 1",
+      "Singapore: Central Way 2"
+    ],
     "drops": [
       "Metal Pole",
       "Stop Sign",
@@ -2384,7 +2445,10 @@
     "hp": "700",
     "mp": "40",
     "exp": "55",
-    "locations": "",
+    "locations": [
+      "Masteria: Jungle Clearing",
+      "Masteria: Jungle Valley"
+    ],
     "drops": [
       "Boomer Core",
       "White Potion",
@@ -2448,7 +2512,7 @@
     "hp": "300",
     "mp": "20",
     "exp": "37",
-    "locations": "",
+    "locations": "Haunted House: Library",
     "drops": [
       "Orange Potion",
       "Orange",
@@ -2479,7 +2543,13 @@
     "hp": "850",
     "mp": "500",
     "exp": "59",
-    "locations": "",
+    "locations": [
+      "Haunted House: Hallway",
+      "Haunted House: Vanity Room",
+      "Haunted House: Study",
+      "Haunted House: Toy Room",
+      "Haunted House: Toy Workshop"
+    ],
     "drops": [
       "White Potion",
       "Blue Potion",
@@ -3392,7 +3462,7 @@
     "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Spirit\nSpecial Trait : -50% Sanctity Attribute Damage.\n\nA monster that has a unique appearance which resembles a round ball. It can cast deadly magic that weakens or temporarily disables its opponent's skills. A number of adventures have claimed that they were attacked by this monster while hunting Wild Bores, so keep that in mind and always remain alert if you're a Wild Bore hunter. Fortunately, this monster travels alone, so if you're of a certain level, you should be able to easily defeat this monster.",
     "image": "jr-boogie-1.png"
   },
   {
@@ -3884,7 +3954,7 @@
       "Blue Calas (Male)"
     ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Enchanted\nSpecial Trait : -50% Electricity Attribute Damage. -50% Ice Attribute Damage. Vulnerable to Fire Attribute Attacks.\n\nDoes rank determine prowess? Ever since a group of Bloctopuses in Eos Tower have put on a toy crown, they have become even stronger and powerful, earning them the name King Bloctopus. Some adventurers suspected that the toy crowns worn by these monsters were the source of their power, but... to their surprise, the toy crowns were nothing but a silly trinket. Then where do they derive their power? They are no different than regular Bloctopuses aside from the crown... hence, the origination of their exceptional strength still remains a mystery.",
     "image": "king-bloctopus.png"
   },
   {
@@ -3925,7 +3995,7 @@
       "Scroll for Earring for INT 10%"
     ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Enchanted\n\nA blue toy airplane that appears near the outer walls of Eos Tower in Ludibrium. It is the biggest and the heaviest of all toy airplanes. The Planey occasionally crashes into the passersby because it struggles to support its own weight.",
     "image": "planey.png"
   },
   {
@@ -4355,9 +4425,32 @@
     "mp": "125",
     "exp": "95",
     "locations": "",
-    "drops": "",
+    "drops": [
+      "Acorn",
+      "Leather",
+      "White Potion",
+      "Blue Potion",
+      "Steel Ore",
+      "Gold Ore",
+      "Split Bullet",
+      "Jousting Helmet",
+      "Pink Moon Conehat",
+      "White Guiltian",
+      "Dagger Forging Stimulator",
+      "One-Handed Blunt Weapon Forging Stimulator",
+      "Scroll for Helmet for DEF 60%",
+      "Neozard",
+      "Knuckler Production Stimulator",
+      "Silver Fitted Mail (Female)",
+      "Blue Legolia Pants (Female)",
+      "Blue Legolia (Female)",
+      "Yellow Duke",
+      "Blue Starlight (Male)",
+      "Bloody Mantis (Female)",
+      "Bloody Mantis Pants (Female)"
+    ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Mammal\n\nA type of squirrel that lives only in the Sky Forest. They are bigger and smarter compared to regular squirrels. They have the tendency to move by rolling and balancing on an acorn, and that is because they are trying to flatten the outer layer to facilitate the peeling process to get to the core. They are generally mild-tempered until provoked, so be careful when you explore the Sky Forest.",
     "image": "chipmunk.png"
   },
   {
@@ -4394,7 +4487,7 @@
       "Vaulter 2000"
     ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Spirit\nSpecial Trait : Vulnerable to Fire Attribute Attacks. Vulnerable to Ice Attribute Attacks.\n\nA creature that lives only in the desert. It is composed of sand, and has a hobby of deceiving people to believe that it is an oasis, then scaring them. Although not frequent, some have said that the Desert Giants do sometimes transform into an oasis; hence, you shouldn\u2019t defeat them in a rash manner.",
     "image": "desert-giant.png"
   },
   {
@@ -4566,9 +4659,28 @@
     "mp": "150",
     "exp": "99",
     "locations": "",
-    "drops": "",
+    "drops": [
+      "Thimble",
+      "White Potion",
+      "Blue Potion",
+      "Steel Ore",
+      "DEX Crystal Ore",
+      "Black Blue-Lines Shoes",
+      "Dark Moonlight (Female)",
+      "Maroon Moon Pants (Female)",
+      "Brown Leather Krag",
+      "Scroll for Topwear for HP 100%",
+      "Pole Arm Forging Stimulator",
+      "Staff Production Stimulator",
+      "Wand Production Stimulator",
+      "Gloves Production Stimulator",
+      "Steel Slain",
+      "Scroll for Shield for DEF 60%",
+      "Pansy Earrings",
+      "Orange Golden Circlet"
+    ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Mammal\n\nA type of porcupine that only lives in Sky Forest. A group of porcupines traveling the underground of Maple World settled here, exponentially expanding their population and battling against the Chipmunks over acorns.",
     "image": "red-porky.png"
   },
   {
@@ -4882,7 +4994,7 @@
     "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Mammal\n\nA type of porcupine that only lives in Sky Forest. The Black Porkies share the same physical features as the Red Porkies. However, they are stronger than the Red Porkies, which explains their notable contribution in the battle against the Chipmunks. Calling them a family of warrior porcupines would not be an overstatement.",
     "image": "black-porky.png"
   },
   {
@@ -5309,8 +5421,23 @@
     "hp": "2550",
     "mp": "0",
     "exp": "110",
-    "locations": "",
-    "drops": "",
+    "locations": "Alcadno Research Institute: Lab \u2013 Area A-3",
+    "drops": [
+      "Hardened Piece of Steel",
+      "Blue Potion",
+      "White Potion",
+      "Mithril Ore",
+      "Silver Ore",
+      "Power Crystal Ore",
+      "Mithril Crusader Helm",
+      "Mithril Brist",
+      "Maroon Moon (Female)",
+      "Bow Production Stimulator",
+      "Two-Handed Mace Forging Stimulator",
+      "Scroll for Two-handed Sword for ATT 10%",
+      "Scroll for Overall Armor for DEF 60%",
+      "Arc Staff"
+    ],
     "notes": "",
     "episode": "",
     "image": "reinforced-iron-mutae.png"
@@ -6457,7 +6584,13 @@
     "hp": "2800",
     "mp": "80",
     "exp": "120",
-    "locations": "",
+    "locations": [
+      "Kerning City Subway: Line 1 <Area 3>",
+      "Kerning City Subway: Line 1 <Area 4>",
+      "Kerning City Subway: Line 2 <Area 2>",
+      "Kerning City Subway: Line 2 <Area 3>",
+      "Line 3 Construction Site: B3 <Subway Depot>"
+    ],
     "drops": [
       "Medicine With Weird Vibes",
       "White Potion",
@@ -6690,7 +6823,14 @@
     "hp": "3800",
     "mp": "40",
     "exp": "155",
-    "locations": "",
+    "locations": [
+      "Korean Folk Town: Black Mountain <Corner>",
+      "Korean Folk Town: A Small Well",
+      "Korean Folk Town: Around the Pond",
+      "Korean Folk Town: Tiger Forest I",
+      "Korean Folk Town: Tiger Forest II",
+      "Korean Folk Town: Tiger Ridge"
+    ],
     "drops": [
       "Tiger Stamp",
       "Leather",
@@ -6917,7 +7057,10 @@
     "hp": "4000",
     "mp": "200",
     "exp": "165",
-    "locations": "",
+    "locations": [
+      "Orbis: Cloud Park V",
+      "Orbis: Cloud Park VI"
+    ],
     "drops": [
       "Luster Pixie's Sunpiece",
       "Soft Feather",
@@ -7138,7 +7281,12 @@
     "hp": "4200",
     "mp": "160",
     "exp": "170",
-    "locations": "",
+    "locations": [
+      "Herb Town: 60-Year-Old-Herb Garden",
+      "Herb Town: 80-Year-Old-Herb Garden",
+      "Herb Town: 100-Year-Old-Herb Garden",
+      "Herb Town: Bellflower Valley"
+    ],
     "drops": [
       "Bellflower",
       "White Potion",
@@ -7210,9 +7358,32 @@
     "mp": "160",
     "exp": "178",
     "locations": "",
-    "drops": "",
+    "drops": [
+      "100-Year-Old-Bellflower",
+      "White Potion",
+      "Blue Potion",
+      "Sapphire Ore",
+      "Dark Crystal Ore",
+      "The Magic Rock",
+      "Black Hunter",
+      "Dark Brown Stealer (Male)",
+      "Green Plasteer",
+      "Scroll for Shield for HP 60%",
+      "Brown China (Male)",
+      "Brown China Pants (Male)",
+      "Blue-Lined Kismet (Male)",
+      "Blue Shouldermail (Male)",
+      "Blue Shouldermail Pants (Male)",
+      "Red Orientican (Male)",
+      "Red Orientican Pants (Male)",
+      "Scroll for Topwear for LUK 60%",
+      "Gloves Production Stimulator",
+      "One-Handed Axe Forging Stimulator",
+      "Two-Handed Sword Forging Stimulator",
+      "Venon"
+    ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Plant\n\nA plant that closely resembles a ginseng. Although Bellflower Roots have been said to fall way below in medicinal effects compared to ginseng, this Sr. Bellflower Root can be even more effective than ginseng at times. It may look weak and weary, making you feel guilty about hunting this monster, but take advantage of its use as medicinal herb. After all, it's only a Bellflower Root.",
     "image": "sr-bellflower-root.png"
   },
   {
@@ -7246,7 +7417,7 @@
       "Burning Hell",
       "Shoes Production Stimulator"
     ],
-    "notes": "Seems to share the same episode lore as Neo Huroid?",
+    "notes": "Seems to share the same episode lore as Neo Huroid? Locations tab is currently a mess, displaying over four pages of \"Critical Error\" which was the name of the mini dungeon that is removed on Fantasia.",
     "episode": "Form : Enchanted\n\nA robot built by alchemists in Magatia. It is small but has the power that will exceed your expectation, and also has an extremely intricate internal structure.",
     "image": "roid.png"
   },
@@ -7300,7 +7471,13 @@
     "hp": "4000",
     "mp": "120",
     "exp": "170",
-    "locations": "",
+    "locations": [
+      "Warning Street: Henesys Dungeon Entrance",
+      "Hidden Street: The Breathing Rock",
+      "Victoria Road: The Entrance of Golem\u2019s Temple",
+      "Victoria Road: Golem\u2019s Temple I",
+      "Victoria Road: Golem\u2019s Temple II"
+    ],
     "drops": [
       "Stone Golem Rubble",
       "Blue Potion",
@@ -7341,7 +7518,15 @@
     "hp": "4600",
     "mp": "50",
     "exp": "185",
-    "locations": "",
+    "locations": [
+      "El Nath: Watch Out for Icy Path I",
+      "El Nath: Watch Out for Icy Path II",
+      "El Nath: Cold Field I",
+      "El Nath: Cold Field II",
+      "El Nath: Wolf Territory I",
+      "El Nath: Wolf Territory II",
+      "El Nath: Icy Cold Field"
+    ],
     "drops": [
       "Hector Tail",
       "Leather",
@@ -7384,7 +7569,11 @@
     "hp": "4500",
     "mp": "150",
     "exp": "175",
-    "locations": "",
+    "locations": [
+      "Mu Lung: Foggy Forest",
+      "Mu Lung: Virtuous Forest",
+      "Mu Lung: Goblin Forest 1"
+    ],
     "drops": [
       "Old Paper",
       "The Book Ghost's Sheet of Paper",
@@ -7474,7 +7663,11 @@
     "hp": "4800",
     "mp": "150",
     "exp": "185",
-    "locations": "",
+    "locations": [
+      "Mu Lung: Wild Bear Area 1",
+      "Mu Lung: Wild Bear Area 2",
+      "Mu Lung: Wild Bear Area 3"
+    ],
     "drops": [
       "Yellow Belt",
       "Bear Foot",
@@ -7513,7 +7706,13 @@
     "hp": "4600",
     "mp": "100",
     "exp": "195",
-    "locations": "",
+    "locations": [
+      "Victoria Road: Remains <Tomb> II",
+      "Victoria Road: Remains <Tomb> III",
+      "Victoria Road: Camp 1",
+      "Victoria Road: Camp 2",
+      "Victoria Road: Camp 3"
+    ],
     "drops": [
       "Rib",
       "Blue Potion",
@@ -7553,7 +7752,13 @@
     "hp": "4500",
     "mp": "110",
     "exp": "190",
-    "locations": "",
+    "locations": [
+      "El Nath: Forest of Dead Trees I",
+      "El Nath: Forest of Dead Trees II",
+      "El Nath: Forest of Dead Trees III",
+      "El Nath: Forest of Dead Trees IV",
+      "Zipangu: Cemetery Full of Ghosts"
+    ],
     "drops": [
       "Zombie's Lost Tooth",
       "Blue Potion",
@@ -7598,7 +7803,12 @@
     "hp": "4500",
     "mp": "110",
     "exp": "190",
-    "locations": "",
+    "locations": [
+      "El Nath: Dead Mine I",
+      "El Nath: Dead Mine II",
+      "El Nath: Dead Mine III",
+      "El Nath: Dead Mine IV"
+    ],
     "drops": [
       "Zombie's Lost Tooth",
       "Zombie's Lost Gold Tooth",
@@ -7643,7 +7853,14 @@
     "hp": "4800",
     "mp": "150",
     "exp": "200",
-    "locations": "",
+    "locations": [
+      "Dungeon: Sleepy Dungeon III",
+      "Dungeon: Sleepy Dungeon IV",
+      "Dungeon: Sleepy Dungeon V",
+      "Dungeon: The forest of Golem",
+      "Victoria Road: Golem\u2019s Temple III",
+      "Zipangu: Road to Cemetery"
+    ],
     "drops": [
       "Dark Stone Golem Rubble",
       "Blue Potion",
@@ -7690,7 +7907,18 @@
     "hp": "5800",
     "mp": "100",
     "exp": "235",
-    "locations": "",
+    "locations": [
+      "El Nath: Cold Field I",
+      "El Nath: Cold Field II",
+      "Hidden Street: The Crown-Flyer",
+      "El Nath: Ice Valley I",
+      "El Nath: Wolf Territory I",
+      "El Nath: Wolf Territory II",
+      "El Nath: Wolf Territory III",
+      "El Nath: Wolf Territory IV",
+      "El Nath: Wolf Territory V",
+      "El Nath: Icy Cold Field"
+    ],
     "drops": [
       "White Fang Tail",
       "Leather",
@@ -7813,7 +8041,11 @@
     "hp": "6000",
     "mp": "150",
     "exp": "210",
-    "locations": "",
+    "locations": [
+      "Dungeon: Sleepy Dungeon V",
+      "Dungeon: The forest of Golem",
+      "Victoria Road: Golem\u2019s Temple IV"
+    ],
     "drops": [
       "Mixed Block",
       "Blue Potion",
@@ -10480,7 +10712,7 @@
     "level": "80",
     "hp": "27000",
     "mp": "300",
-    "exp": "?",
+    "exp": "850",
     "locations": "",
     "drops": "",
     "notes": "",
@@ -11722,7 +11954,7 @@
       "Dark Emperor",
       "Dark Enigma Shoes",
       "Green Pireta Hat",
-      "[Storybook] Black Book",
+      "[Storybook] Black book",
       "Staff Production Stimulator",
       "Knuckler Production Stimulator",
       "Scroll for Claw for ATT 10%",
@@ -12500,7 +12732,7 @@
     "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Mammal\n\nThe oldest snail in Maple World. It has a huge body that has developed over the years and white mustache that suits his old age. He enjoys the morning dew, so one may frequently spot him wandering around to consume the dew on green leaves every morning. If fortunate enough, one can acquire a Rainbow-colored Snail Shell which is said to grant its owner a wish.",
     "image": "mano.png"
   },
   {
@@ -12512,7 +12744,7 @@
     "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Plant\n\nAccording to Winston, who has devoted a good chunk of his life to studying the plateaus of Perion, Perion in ancient times was not a dry and barren land. Rather, he suggests that it was a place of which bountiful forests rivaled those of current Ellinia. The soil in Perion had been saturated with moisture and nutrients in the past, supporting the necessary conditions for huge plants like Stumpy to grow. However, it has turned into a dry land, and Stumpy, which can be considered a legacy of ancient Perion, now survives on what, little, is left of the barren land.",
     "image": "stumpy.png"
   },
   {
@@ -12560,7 +12792,7 @@
     "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Fish\n\nA A beautiful blue-shelled crab that has migrated to Florina Beach from the Tropics. It usually hides inside its shell until someone awakens it by tapping its shell. When attacked by its pincers that usually remain hidden inside the shell, one will become temporarily immobile.",
     "image": "giant-centipede.png"
   },
   {
@@ -12763,13 +12995,13 @@
       "Scroll for Cape for MP 60%",
       "Scroll for Shield for DEF 10%",
       "Mithril Planet",
-      "Mithril Platine",
-      "Bloody Platina",
-      "Dark Requiem",
-      "Dark Requierre",
-      "Dark Linnex",
-      "Dark Lineros",
-      "Purple Mystique",
+      "Mithril Platine (Male)",
+      "Bloody Platina (Female)",
+      "Dark Requiem (Male)",
+      "Dark Requierre (Female)",
+      "Dark Linnex (Male)",
+      "Dark Lineros (Female)",
+      "Purple Mystique (Female)",
       "Dark Husk",
       "Dark Lorin",
       "Gold Rover",
@@ -12782,7 +13014,7 @@
       "Scroll for Topwear for LUK 10%",
       "Scroll for Shield for STR 10%",
       "Dark Patriot",
-      "Dark Studded Top",
+      "Dark Studded Top (Male)",
       "Dark Infinium Circlet",
       "Blood Nightfox",
       "Dark Eyes",
@@ -12844,7 +13076,7 @@
     "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Devil\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nAn ancient evil spirit which possesses huge wings and sharp claws. It can be found in the Cursed Sanctuary located deep inside the Sleepywood Dungeon in central Victoria Island. It still remains unknown as to how the Jr. Balrog was released inside the dungeon, but it is no mystery that the Jr. Balrog has high attack rate as well as powerful magic skill that will well exceed your expectation, especially its lethal magic attack called Meteo Magic during which the Balrog drops meteorites it has summoned. It is the most challenging monster to defeat in Victoria Island.",
     "image": "jr-balrog.png"
   },
   {
@@ -12854,7 +13086,63 @@
     "mp": "320",
     "exp": "?",
     "locations": "",
-    "drops": "",
+    "drops": [
+      "Mana Elixir",
+      "Wizard Potion",
+      "Elixir",
+      "Solid Horn",
+      "Lucida Tail",
+      "Bronze Arrow for Bow",
+      "Bronze Arrow for Crossbow",
+      "Leather",
+      "Gold Ore",
+      "Black Crystal Ore",
+      "The Magic Rock",
+      "Scroll for Shoes for Speed 60%",
+      "Scroll for Cape for HP 60%",
+      "Scroll for Wand for Magic Att. 60%",
+      "Scroll for Spear for ATT 60%",
+      "Scroll for Cape for DEX 60%",
+      "Scroll for Pole Arm for ATT 60%",
+      "Scroll for Helmet for DEF 60%",
+      "Scroll for Earring for INT 60%",
+      "Scroll for Topwear for DEF 60%",
+      "Scroll for Dagger for ATT 60%",
+      "Scroll for Spear for ATT 10%",
+      "Scroll for Cape for DEX 10%",
+      "Scroll for Pole Arm for ATT 10%",
+      "Scroll for Helmet for DEF 10%",
+      "Scroll for Earring for INT 10%",
+      "Dark Crystal Ore",
+      "White Marquini",
+      "Red Brave Hamal",
+      "Black Markintz",
+      "Red Martier",
+      "Scroll for One-Handed Sword for Accuracy 60%",
+      "Scroll for Two-Handed Axe for Accuracy 10%",
+      "Scroll for Two-Handed BW for Accuracy 10%",
+      "Dark Grace Helmet",
+      "Black Oriental Fury Hat",
+      "Dark Arlic Helmet",
+      "Red Osfa Hat",
+      "Dark Imperial",
+      "Dark Pachone",
+      "Dark Focus",
+      "Dark Mystra",
+      "Dark War Greave",
+      "Dark Neli Shoes",
+      "Dark Ades Shoes",
+      "Purple Osfa Boots",
+      "Fairy\u2019s Honey",
+      "Dark Commodore (Male)",
+      "Dark Valkyrie (Female)",
+      "Black Oriental Fury Coat (Male)",
+      "Black Oriental Fury Coat (Female)",
+      "Dark Ades (Male)",
+      "Dark Anes (Female)",
+      "Purple Osfa Suit (Male)",
+      "Purple Osfa Suit (Female)"
+    ],
     "notes": "",
     "episode": "",
     "image": "eliza.png"
@@ -12935,7 +13223,7 @@
     "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Mammal\n\nAccording to legend, this Snowman was born between a human and a Snow Spirit. It has the soul of a human but was born with the appearance of a monster which caused him much grief growing up as he was constantly taunted by other humans. The Snow Spirit, who watched Snowman's sad situation, froze up an entire mountain range for Snowman and called it El Nath. Snowman doesn't like humans and hence stays away from them as much as possible, but he'd never attack a human first on his own. However, it will mercilessly attack anyone who breaks the Fragment of the Snow Spirit.",
     "image": "snowman.png"
   },
   {
@@ -12983,7 +13271,7 @@
     "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Devil\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nA monster that attacks the ship of adventurers near the continent of Ossyria. It looks similar to the Jr. Balrogs that are found near Victoria Island, but the Crimson Balrogs fly using their huge wings. Some say that the habitat of Crimson Balrogs is an island like Orbis, but such claim has not been confirmed. Due to its force of attack and magic skills that will surpass your expectation, it is suggested that you evade to a safe area rather than hastily attack back should you find yourself in the midst of their attack. They are vulnerable to sanctity attribute.",
     "image": "crimson-balrog.png"
   },
   {
@@ -13293,12 +13581,35 @@
   },
   {
     "name": "Female Boss",
-    "level": "",
-    "hp": "",
-    "mp": "",
+    "level": "130",
+    "hp": "75000000",
+    "mp": "10000",
     "exp": "?",
     "locations": "",
-    "drops": "",
+    "drops": [
+      "Lady Boss\u2019s Comb",
+      "Mana Elixir Pill",
+      "Elixir",
+      "Cheesecake",
+      "Yakisoba",
+      "Takoyaki (Octopus Ball)",
+      "Strawberry Earrings",
+      "Red Willow",
+      "Yellow Snowshoes",
+      "Angelic Betrayal",
+      "Dark Ritual",
+      "Red Pirate Skirt",
+      "Gold Aquila Shield",
+      "Varkit",
+      "Devil\u2019s Sunrise",
+      "Magicodar",
+      "Vifennis",
+      "Hellslayer",
+      "Leomite",
+      "Fairfrozen",
+      "Casters",
+      "Poppy Knuckle"
+    ],
     "notes": "",
     "episode": "",
     "image": "female-boss.png"
