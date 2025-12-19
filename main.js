@@ -36,7 +36,7 @@ const resultDiv = document.getElementById('result');
 // ==============================
 // LOAD MONSTER DATA & BUILD DROP MAP
 // ==============================
-fetch('data/monsters.json')
+fetch(`data/monsters.json?v=${Date.now()}`)
   .then(r => r.ok ? r.json() : Promise.reject(r.status))
   .then(data => {
     monsters = data.map(normalizeMonster);
