@@ -313,24 +313,6 @@ h2 {
 }
 
 /* =========================================================
-   LOCATIONS
-   ========================================================= */
-.locations {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-bottom: 10px;
-}
-
-.location-chip {
-  background: #f6e8d8;
-  border: 1px solid #d4b57f;
-  border-radius: 6px;
-  padding: 4px 8px;
-  white-space: nowrap;
-}
-
-/* =========================================================
    RESPONSIVE ADJUSTMENTS
    ========================================================= */
 @media (max-width: 600px) {
