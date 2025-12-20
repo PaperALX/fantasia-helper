@@ -5,47 +5,6 @@
     "hp": "8",
     "mp": "0",
     "exp": "3",
-    "locations": [
-      "Maple Road: Snail Hunting Ground I",
-      "Maple Road: Snail Hunting Ground II",
-      "Maple Road: Snail Hunting Ground III",
-      "Rainbow Street: The Field West of Amherst",
-      "Rainbow Street: In a Small Forest",
-      "Rainbow Street: Dangerous Forest",
-      "Rainbow Street: Mushroom Garden",
-      "Rainbow Street: Snail Garden",
-      "Rainbow Street: Hunting Ground Middle of the Forest",
-      "Rainbow Street: Snail Field of Flowers",
-      "Rainbow Street: The Field East of Amherst",
-      "Rainbow Street: Tomato Field",
-      "Victoria Road: The Forest East of Henesys",
-      "Victoria Road: The Forest South of Ellinia",
-      "Victoria Road: The Forest of Wisdom",
-      "Victoria Road: The Tree That Grew I",
-      "Victoria Road: The Tree That Grew II",
-      "Victoria Road: The Forest North of Ellinia",
-      "Victoria Road: East Domain of Perion",
-      "Victoria Road: Rocky Road II",
-      "Victoria Road: Rocky Road I",
-      "Victoria Road: Perion Street Corner",
-      "Victoria Road: West Domain of Perion",
-      "Victoria Road: L Forest II",
-      "Victoria Road: L Forest III",
-      "Victoria Road: Kerning City Middle Forest III",
-      "Victoria Road: Thicket Around the Beach I",
-      "Victoria Road: Thicket Around the Beach II",
-      "Victoria Road: Thicket Around the Beach III",
-      "Victoria Road: 3-Way Road-Split",
-      "Hidden Street: Beach Hunting Ground",
-      "Victoria Road: Forest West of Henesys",
-      "Victoria Road: Henesys Hunting Ground II",
-      "Dungeon: Deep Forest",
-      "Dungeon: Hunting Ground in the Deep Forest I",
-      "Dungeon: Hunting Ground in the Deep Forest II",
-      "Victoria Road: Southern Cliffs I",
-      "Victoria Road: Southern Cliffs II",
-      "Victoria Road: Southern Cliffs III"
-    ],
     "drops": [
       "Snail Shell",
       "Red Potion",
@@ -68,7 +27,6 @@
     "hp": "15",
     "mp": "15",
     "exp": "4",
-    "locations": "",
     "drops": [
       "Blue Snail Shell",
       "Red Potion",
@@ -94,7 +52,6 @@
     "hp": "20",
     "mp": "15",
     "exp": "5",
-    "locations": "",
     "drops": [
       "Mushroom Spore",
       "Red Potion",
@@ -120,7 +77,6 @@
     "hp": "50",
     "mp": "30",
     "exp": "8",
-    "locations": "",
     "drops": [
       "Tree Branch",
       "Red Potion",
@@ -149,7 +105,6 @@
     "hp": "45",
     "mp": "30",
     "exp": "8",
-    "locations": "",
     "drops": [
       "Red Snail Shell",
       "Red Potion",
@@ -179,7 +134,6 @@
     "hp": "50",
     "mp": "35",
     "exp": "10",
-    "locations": "",
     "drops": [
       "Squishy Liquid",
       "Slime Bubble",
@@ -211,7 +165,6 @@
     "hp": "75",
     "mp": "40",
     "exp": "15",
-    "locations": "",
     "drops": [
       "Leather",
       "Red Potion",
@@ -243,7 +196,6 @@
     "hp": "80",
     "mp": "45",
     "exp": "15",
-    "locations": "",
     "drops": [
       "Orange Mushroom Cap",
       "Bronze Ore",
@@ -273,7 +225,6 @@
     "hp": "250",
     "mp": "10",
     "exp": "18",
-    "locations": "",
     "drops": [
       "Leaf",
       "Red Potion",
@@ -308,7 +259,6 @@
     "hp": "120",
     "mp": "45",
     "exp": "20",
-    "locations": "",
     "drops": [
       "Pig's Ribbon",
       "Leather",
@@ -341,7 +291,6 @@
     "hp": "200",
     "mp": "50",
     "exp": "24",
-    "locations": "",
     "drops": [
       "Octopus Leg",
       "Red Potion",
@@ -371,7 +320,6 @@
     "hp": "250",
     "mp": "25",
     "exp": "26",
-    "locations": "",
     "drops": [
       "Green Mushroom Cap",
       "Red Potion",
@@ -414,10 +362,6 @@
     "hp": "240",
     "mp": "10",
     "exp": "26",
-    "locations": [
-      "Kerning City Subway: Line 1 <Area 1>",
-      "Line 3 Construction Site: B1 <Subway Depot>"
-    ],
     "drops": [
       "Bubbling's Huge Bubble",
       "Red Potion",
@@ -455,11 +399,6 @@
     "hp": "75",
     "mp": "45",
     "exp": "15",
-    "locations": [
-      "Thailand: Frog Pond",
-      "Thailand: Brilliant Swamp",
-      "Thailand: Small Jungle"
-    ],
     "drops": [
       "Frog Legs",
       "Orange Potion",
@@ -485,11 +424,6 @@
     "hp": "230",
     "mp": "25",
     "exp": "28",
-    "locations": [
-      "Thailand: Frog Pond",
-      "Thailand: Isolated House",
-      "Thailand: Small Jungle"
-    ],
     "drops": [
       "Chicken",
       "White Egg",
@@ -520,7 +454,6 @@
     "hp": "300",
     "mp": "30",
     "exp": "30",
-    "locations": "",
     "drops": [
       "Firewood",
       "Red Potion",
@@ -555,10 +488,6 @@
     "hp": "330",
     "mp": "35",
     "exp": "33",
-    "locations": [
-      "Victoria Road: Excavation Site I",
-      "Victoria Road: Excavation Site II"
-    ],
     "drops": [
       "Seedling",
       "Red Potion",
@@ -597,7 +526,6 @@
     "hp": "350",
     "mp": "30",
     "exp": "32",
-    "locations": "",
     "drops": [
       "Blue Mushroom Cap",
       "White Potion",
@@ -640,13 +568,6 @@
     "hp": "300",
     "mp": "10",
     "exp": "33",
-    "locations": [
-      "Kerning City Subway: Transfer Area",
-      "Kerning City Subway: Line 1 <Area 2>",
-      "Kerning City Subway: Line 1 <Area 3>",
-      "Dungeon: Dark Cave",
-      "Dungeon: Dangerous Steam"
-    ],
     "drops": [
       "Stirge Wing",
       "Orange Potion",
@@ -684,10 +605,6 @@
     "hp": "350",
     "mp": "0",
     "exp": "32",
-    "locations": [
-      "The Burning Sands: Tent of the Entertainers",
-      "The Burning Sands: Outside East Entrance of Ariant"
-    ],
     "drops": [
       "Clover",
       "Stiff Feather",
@@ -720,7 +637,6 @@
     "hp": "400",
     "mp": "0",
     "exp": "34",
-    "locations": "",
     "drops": [
       "Carrot",
       "Stiff Feather",
@@ -753,7 +669,6 @@
     "hp": "285",
     "mp": "20",
     "exp": "38",
-    "locations": "",
     "drops": [
       "Jr. Necki Skin",
       "Orange Potion",
@@ -783,7 +698,6 @@
     "hp": "300",
     "mp": "35",
     "exp": "35",
-    "locations": "",
     "drops": [
       "Horny Mushroom Cap",
       "Orange Potion",
@@ -824,7 +738,6 @@
     "hp": "550",
     "mp": "40",
     "exp": "38",
-    "locations": "",
     "drops": [
       "Firewood",
       "Axe",
@@ -863,10 +776,6 @@
     "hp": "400",
     "mp": "0",
     "exp": "36",
-    "locations": [
-      "Aqua Road: Mushroom Coral Hill",
-      "Aqua Road: The Sharp Unknown"
-    ],
     "drops": [
       "Needle",
       "Orange Potion",
@@ -900,10 +809,6 @@
     "hp": "450",
     "mp": "0",
     "exp": "37",
-    "locations": [
-      "The Burning Sands: Outside the West Entrance of Ariant",
-      "Hidden Street: Young Catthus Desert"
-    ],
     "drops": [
       "Cactus Stem",
       "Orange Potion",
@@ -939,17 +844,6 @@
     "hp": "450",
     "mp": "0",
     "exp": "42",
-    "locations": [
-      "Ludibrium: Eos Tower 43rd Floor",
-      "Ludibrium: Eos Tower 44th Floor",
-      "Ludibrium: Eos Tower 45th Floor",
-      "Ludibrium: Eos Tower 56th Floor",
-      "Ludibrium: Eos Tower 71st Floor",
-      "Ludibrium: Eos Tower 72nd Floor",
-      "Ludibrium: Eos Tower 73rd Floor",
-      "Ludibrium: Eos Tower 93rd Floor",
-      "Ludibrium: Eos Tower 94th Floor"
-    ],
     "drops": [
       "Spiderweb",
       "Orange Potion",
@@ -988,15 +882,6 @@
     "hp": "600",
     "mp": "10",
     "exp": "48",
-    "locations": [
-      "Orbis: Orbis Tower <20th Floor>",
-      "Orbis: Orbis Tower <19th Floor>",
-      "Orbis: Orbis Tower <18th Floor>",
-      "Orbis: Orbis Tower <17th Floor>",
-      "Orbis: Orbis Tower <16th Floor>",
-      "Orbis: Orbis Tower <9th Floor>",
-      "Orbis: Orbis Tower <8th Floor>"
-    ],
     "drops": [
       "Jr. Sentinel Shellpiece",
       "Orange Potion",
@@ -1028,11 +913,6 @@
     "hp": "500",
     "mp": "0",
     "exp": "42",
-    "locations": [
-      "Hidden Street: Fish Resting Spot",
-      "Aqua Road: Mushroom Coral Hill",
-      "Aqua Road: The Sharp Unknown"
-    ],
     "drops": [
       "Sea Horse Tail",
       "Orange Potion",
@@ -1069,7 +949,6 @@
     "hp": "500",
     "mp": "0",
     "exp": "42",
-    "locations": "",
     "drops": [
       "Wooden Board",
       "Orange Potion",
@@ -1108,10 +987,6 @@
     "hp": "500",
     "mp": "0",
     "exp": "42",
-    "locations": [
-      "The Burning Sands: White Rock Desert",
-      "Hidden Street: Bellamoa\u2019s Cave"
-    ],
     "drops": [
       "Snake Rattle",
       "Orange Potion",
@@ -1148,7 +1023,6 @@
     "hp": "500",
     "mp": "50",
     "exp": "42",
-    "locations": "",
     "drops": [
       "Charm of the Undead",
       "White Potion",
@@ -1191,10 +1065,6 @@
     "hp": "500",
     "mp": "50",
     "exp": "45",
-    "locations": [
-      "Aqua Road: Blue Seaweed Road",
-      "Aqua Road: Mushroom Coral Hill"
-    ],
     "drops": [
       "Flamboyant Scale Skin",
       "Orange Potion",
@@ -1229,7 +1099,6 @@
     "hp": "600",
     "mp": "0",
     "exp": "45",
-    "locations": "",
     "drops": [
       "Slate",
       "Orange Potion",
@@ -1263,7 +1132,6 @@
     "hp": "550",
     "mp": "0",
     "exp": "45",
-    "locations": "",
     "drops": [
       "Earmuff",
       "Blue Potion",
@@ -1297,7 +1165,6 @@
     "hp": "600",
     "mp": "0",
     "exp": "47",
-    "locations": "",
     "drops": [
       "Wooden Hammer",
       "Orange Potion",
@@ -1328,7 +1195,6 @@
     "hp": "550",
     "mp": "0",
     "exp": "42",
-    "locations": "",
     "drops": [
       "Sea Horse Horn",
       "Sniper Potion",
@@ -1362,7 +1228,6 @@
     "hp": "550",
     "mp": "55",
     "exp": "42",
-    "locations": "",
     "drops": [
       "Wild Boar Tooth",
       "Leather",
@@ -1404,11 +1269,6 @@
     "hp": "550",
     "mp": "0",
     "exp": "47",
-    "locations": [
-      "The Burning Sands: Outside the West Entrance of Ariant",
-      "The Burning Sands: Cactus Desert 1",
-      "The Burning Sands: Cactus Desert 2"
-    ],
     "drops": [
       "Cactus Thorn",
       "Orange Potion",
@@ -1441,15 +1301,6 @@
     "hp": "270",
     "mp": "40",
     "exp": "50",
-    "locations": [
-      "Dungeon: Deep Ant Tunnel I",
-      "Dungeon: Deep Ant Tunnel II",
-      "Dungeon: Ant Tunnel Park",
-      "Dungeon: The Cave of Evil Eye I",
-      "Dungeon: The Cave of Evil Eye II",
-      "Dungeon: The Cave of Evil Eye III",
-      "Dungeon: The Cave of Evil Eye IV"
-    ],
     "drops": [
       "Evil Eye Tail",
       "White Potion",
@@ -1489,7 +1340,6 @@
     "hp": "700",
     "mp": "0",
     "exp": "50",
-    "locations": "",
     "drops": [
       "Ragged Scarf",
       "Orange Potion",
@@ -1519,7 +1369,6 @@
     "hp": "740",
     "mp": "40",
     "exp": "52",
-    "locations": "",
     "drops": [
       "Bubble Fish's Thoughts",
       "White Potion",
@@ -1553,10 +1402,6 @@
     "hp": "780",
     "mp": "0",
     "exp": "55",
-    "locations": [
-      "Ludibrium: Eos Tower 56th Floor",
-      "Ludibrium: Eos Tower 71st Floor"
-    ],
     "drops": [
       "Sticky Spiderweb",
       "White Potion",
@@ -1590,10 +1435,6 @@
     "hp": "750",
     "mp": "0",
     "exp": "55",
-    "locations": [
-      "The Burning Sands: Cactus Desert 2",
-      "Hidden Street: Royal Cactus Desert"
-    ],
     "drops": [
       "Cactus' Flower",
       "Blue Potion",
@@ -1626,11 +1467,6 @@
     "hp": "790",
     "mp": "0",
     "exp": "58",
-    "locations": [
-      "Hidden Street: The Hidden Town",
-      "Aqua Road: Sand Castle Playground",
-      "Aqua Road: Big Fish Valley"
-    ],
     "drops": [
       "Flamboyant Petal",
       "Orange Potion",
@@ -1662,7 +1498,6 @@
     "hp": "780",
     "mp": "0",
     "exp": "54",
-    "locations": "",
     "drops": [
       "Telescope",
       "Stiff Feather",
@@ -1697,7 +1532,6 @@
     "hp": "780",
     "mp": "0",
     "exp": "58",
-    "locations": "",
     "drops": [
       "Scorpion Sting",
       "Orange Potion",
@@ -1730,7 +1564,6 @@
     "hp": "900",
     "mp": "50",
     "exp": "60",
-    "locations": "",
     "drops": [
       "Sentinel Shellpiece",
       "Orange Potion",
@@ -1765,7 +1598,6 @@
     "hp": "800",
     "mp": "175",
     "exp": "120",
-    "locations": "",
     "drops": [
       "Fierry's Tentacle",
       "Orange Potion",
@@ -1794,15 +1626,6 @@
     "hp": "950",
     "mp": "0",
     "exp": "60",
-    "locations": [
-      "Ludibrium: Cloud Terrace<5>",
-      "Ludibrium: Cloud Terrace<4>",
-      "Ludibrium: Cloud Terrace<3>",
-      "Ludibrium: Cloud Terrace<1>",
-      "Ludibrium: Terrace Hall",
-      "Ludibrium: Sky Terrace<1>",
-      "Ludibrium: Sky Terrace<2>"
-    ],
     "drops": [
       "Teddy's Cotton",
       "White Potion",
@@ -1833,7 +1656,6 @@
     "hp": "900",
     "mp": "50",
     "exp": "55",
-    "locations": "",
     "drops": [
       "Shrimp Meat",
       "White Potion",
@@ -1868,7 +1690,6 @@
     "hp": "870",
     "mp": "50",
     "exp": "60",
-    "locations": "",
     "drops": [
       "Kiyo's Beak",
       "Stiff Feather",
@@ -1898,7 +1719,6 @@
     "hp": "900",
     "mp": "50",
     "exp": "60",
-    "locations": "",
     "drops": [
       "Ice Sentinel Shellpiece",
       "Orange Potion",
@@ -1929,7 +1749,6 @@
     "hp": "900",
     "mp": "50",
     "exp": "60",
-    "locations": "",
     "drops": [
       "Fire Sentinel Shellpiece",
       "Orange Potion",
@@ -1963,7 +1782,6 @@
     "hp": "550",
     "mp": "20",
     "exp": "42",
-    "locations": "",
     "drops": [
       "Crow Feather",
       "Mana Elixir",
@@ -1993,7 +1811,6 @@
     "hp": "900",
     "mp": "50",
     "exp": "55",
-    "locations": "",
     "drops": [
       "Raccoon Firewood",
       "Red Potion",
@@ -2025,7 +1842,6 @@
     "hp": "920",
     "mp": "50",
     "exp": "55",
-    "locations": "",
     "drops": [
       "Cloud Foxtail",
       "Red Potion",
@@ -2057,7 +1873,6 @@
     "hp": "340",
     "mp": "30",
     "exp": "33",
-    "locations": "",
     "drops": [
       "Chicken Feet",
       "Stiff Feather",
@@ -2090,7 +1905,6 @@
     "hp": "380",
     "mp": "35",
     "exp": "37",
-    "locations": "",
     "drops": [
       "Duck Egg",
       "Wizard Potion",
@@ -2124,7 +1938,6 @@
     "hp": "550",
     "mp": "50",
     "exp": "42",
-    "locations": "",
     "drops": [
       "Sheep Skin",
       "Stiff Feather",
@@ -2157,7 +1970,6 @@
     "hp": "900",
     "mp": "0",
     "exp": "58",
-    "locations": "",
     "drops": [
       "White Horn",
       "Magic Potion",
@@ -2190,7 +2002,6 @@
     "hp": "500",
     "mp": "30",
     "exp": "40",
-    "locations": "",
     "drops": [
       "Wild Dog Tail",
       "Leather",
@@ -2225,7 +2036,6 @@
     "hp": "550",
     "mp": "30",
     "exp": "43",
-    "locations": "",
     "drops": [
       "Wild Dog Shades",
       "Leather",
@@ -2255,7 +2065,6 @@
     "hp": "280",
     "mp": "30",
     "exp": "30",
-    "locations": "",
     "drops": [
       "Recycled Water Bottle",
       "Waste Paper",
@@ -2291,7 +2100,6 @@
     "hp": "450",
     "mp": "50",
     "exp": "40",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -2303,10 +2111,6 @@
     "hp": "700",
     "mp": "50",
     "exp": "50",
-    "locations": [
-      "Singapore: Central Way 1",
-      "Singapore: Central Way 2"
-    ],
     "drops": [
       "Metal Pole",
       "Stop Sign",
@@ -2339,7 +2143,6 @@
     "hp": "320",
     "mp": "20",
     "exp": "35",
-    "locations": "",
     "drops": [
       "Red Potion",
       "Blue Potion",
@@ -2365,7 +2168,6 @@
     "hp": "350",
     "mp": "30",
     "exp": "37",
-    "locations": "",
     "drops": [
       "White Potion",
       "Orange Potion",
@@ -2406,7 +2208,6 @@
     "hp": "730",
     "mp": "45",
     "exp": "60",
-    "locations": "",
     "drops": [
       "White Potion",
       "Orange Potion",
@@ -2445,10 +2246,6 @@
     "hp": "700",
     "mp": "40",
     "exp": "55",
-    "locations": [
-      "Masteria: Jungle Clearing",
-      "Masteria: Jungle Valley"
-    ],
     "drops": [
       "Boomer Core",
       "White Potion",
@@ -2480,7 +2277,6 @@
     "hp": "950",
     "mp": "40",
     "exp": "65",
-    "locations": "",
     "drops": [
       "Orange Potion",
       "Blue Potion",
@@ -2512,7 +2308,6 @@
     "hp": "300",
     "mp": "20",
     "exp": "37",
-    "locations": "Haunted House: Library",
     "drops": [
       "Orange Potion",
       "Orange",
@@ -2533,7 +2328,7 @@
       "Yellow Windshoes",
       "Eagle Crow"
     ],
-    "notes": "The grounded ghouls give 36 EXP and the flying ghouls give 37 EXP.",
+    "notes": "The grounded ghouls give 36 EXP and the flying ghouls give 37 EXP. Drops \"Wad of Gum\" despite not being in the drop list.",
     "episode": "Form : Immortal\n\nThe Glutton Ghouls can be seen floating around the Haunted Mansion on the outskirts of the Phantom Forest. It is said that they are the embodiment of the gluttony that brought the townspeople to ruin. They are rather harmless, but bumping into one has been said to be \u201crather unpleasant\u201d, as their half-immaterial body interacts in strange ways with real matter.",
     "image": "glutton-ghoul.png"
   },
@@ -2543,13 +2338,6 @@
     "hp": "850",
     "mp": "500",
     "exp": "59",
-    "locations": [
-      "Haunted House: Hallway",
-      "Haunted House: Vanity Room",
-      "Haunted House: Study",
-      "Haunted House: Toy Room",
-      "Haunted House: Toy Workshop"
-    ],
     "drops": [
       "White Potion",
       "Blue Potion",
@@ -2583,7 +2371,6 @@
     "hp": "720",
     "mp": "100",
     "exp": "58",
-    "locations": "",
     "drops": [
       "Toad Poisoin",
       "Blue Potion",
@@ -2612,7 +2399,6 @@
     "hp": "500",
     "mp": "55",
     "exp": "46",
-    "locations": "",
     "drops": [
       "Lizard Tail",
       "Lemon",
@@ -2640,7 +2426,6 @@
     "hp": "800",
     "mp": "0",
     "exp": "62",
-    "locations": "",
     "drops": [
       "Worn-Out Goggle",
       "Stiff Feather",
@@ -2680,7 +2465,6 @@
     "hp": "950",
     "mp": "0",
     "exp": "60",
-    "locations": "",
     "drops": [
       "Toy Drum",
       "White Potion",
@@ -2723,7 +2507,6 @@
     "hp": "1100",
     "mp": "40",
     "exp": "60",
-    "locations": "",
     "drops": [
       "Ligator Skin",
       "White Potion",
@@ -2759,7 +2542,6 @@
     "hp": "1000",
     "mp": "60",
     "exp": "60",
-    "locations": "",
     "drops": [
       "Fire Boar's Tooth",
       "Orange Potion",
@@ -2802,7 +2584,6 @@
     "hp": "1050",
     "mp": "0",
     "exp": "65",
-    "locations": "",
     "drops": [
       "Teddy's Yellow Ribbon",
       "White Potion",
@@ -2840,7 +2621,6 @@
     "hp": "1000",
     "mp": "0",
     "exp": "65",
-    "locations": "",
     "drops": [
       "Rat trap",
       "Leather",
@@ -2878,7 +2658,6 @@
     "hp": "1000",
     "mp": "40",
     "exp": "65",
-    "locations": "",
     "drops": [
       "Leatty Furball",
       "White Potion",
@@ -2918,7 +2697,6 @@
     "hp": "1000",
     "mp": "0",
     "exp": "65",
-    "locations": "",
     "drops": [
       "Hard Needle",
       "White Potion",
@@ -2959,7 +2737,6 @@
     "hp": "1000",
     "mp": "0",
     "exp": "60",
-    "locations": "",
     "drops": [
       "Empty Sack",
       "Blue Potion",
@@ -2991,10 +2768,6 @@
     "hp": "1000",
     "mp": "0",
     "exp": "62",
-    "locations": [
-      "Zenumist Research Institute: Lab \u2013 Unit 101",
-      "Zenumist Research Institute: Lab \u2013 Unit 102"
-    ],
     "drops": [
       "Gelatin",
       "White Potion",
@@ -3029,7 +2802,6 @@
     "hp": "1000",
     "mp": "40",
     "exp": "62",
-    "locations": "",
     "drops": [
       "Flaming Desert",
       "Blue Potion",
@@ -3062,7 +2834,6 @@
     "hp": "1100",
     "mp": "70",
     "exp": "65",
-    "locations": "",
     "drops": [
       "Solid Horn",
       "Leather",
@@ -3104,7 +2875,6 @@
     "hp": "1100",
     "mp": "70",
     "exp": "65",
-    "locations": "",
     "drops": [
       "Solid Horn",
       "Leather",
@@ -3143,7 +2913,6 @@
     "hp": "1100",
     "mp": "70",
     "exp": "65",
-    "locations": "",
     "drops": [
       "Solid Horn",
       "Leather",
@@ -3186,7 +2955,6 @@
     "hp": "1100",
     "mp": "60",
     "exp": "70",
-    "locations": "",
     "drops": [
       "Dark Leatty Furball",
       "White Potion",
@@ -3222,7 +2990,6 @@
     "hp": "1200",
     "mp": "0",
     "exp": "70",
-    "locations": "",
     "drops": [
       "Toy Duckling",
       "Soft Feather",
@@ -3260,7 +3027,6 @@
     "hp": "1150",
     "mp": "0",
     "exp": "70",
-    "locations": "",
     "drops": [
       "Hard Walnut",
       "Leather",
@@ -3300,7 +3066,6 @@
     "hp": "1100",
     "mp": "0",
     "exp": "70",
-    "locations": "",
     "drops": [
       "Clock Spring",
       "White Potion",
@@ -3340,7 +3105,6 @@
     "hp": "1250",
     "mp": "65",
     "exp": "70",
-    "locations": "",
     "drops": [
       "Curse Eye Tail",
       "White Potion",
@@ -3381,7 +3145,6 @@
     "hp": "1200",
     "mp": "80",
     "exp": "70",
-    "locations": "",
     "drops": [
       "Tablecloth",
       "White Potion",
@@ -3416,7 +3179,6 @@
     "hp": "1300",
     "mp": "100",
     "exp": "72",
-    "locations": "",
     "drops": [
       "Star Pixie's Starpiece",
       "Stiff Feather",
@@ -3459,7 +3221,6 @@
     "hp": "1700",
     "mp": "300",
     "exp": "150",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "Form : Spirit\nSpecial Trait : -50% Sanctity Attribute Damage.\n\nA monster that has a unique appearance which resembles a round ball. It can cast deadly magic that weakens or temporarily disables its opponent's skills. A number of adventures have claimed that they were attacked by this monster while hunting Wild Bores, so keep that in mind and always remain alert if you're a Wild Bore hunter. Fortunately, this monster travels alone, so if you're of a certain level, you should be able to easily defeat this monster.",
@@ -3471,7 +3232,6 @@
     "hp": "1300",
     "mp": "0",
     "exp": "72",
-    "locations": "",
     "drops": [
       "Bloctopus Key Chain",
       "White Potion",
@@ -3509,7 +3269,6 @@
     "hp": "1400",
     "mp": "70",
     "exp": "75",
-    "locations": "",
     "drops": [
       "Jr. Pepe's Fish",
       "White Potion",
@@ -3552,7 +3311,6 @@
     "hp": "1400",
     "mp": "70",
     "exp": "75",
-    "locations": "",
     "drops": [
       "Flask",
       "White Potion",
@@ -3589,7 +3347,6 @@
     "hp": "1400",
     "mp": "0",
     "exp": "77",
-    "locations": "",
     "drops": [
       "Panda Doll",
       "White Potion",
@@ -3626,7 +3383,6 @@
     "hp": "1350",
     "mp": "0",
     "exp": "77",
-    "locations": "",
     "drops": [
       "Propeller",
       "White Potion",
@@ -3666,7 +3422,6 @@
     "hp": "1430",
     "mp": "0",
     "exp": "80",
-    "locations": "",
     "drops": [
       "Snorkle",
       "Air Bubble",
@@ -3704,7 +3459,6 @@
     "hp": "1400",
     "mp": "0",
     "exp": "78",
-    "locations": "",
     "drops": [
       "Sunflower Seed",
       "White Potion",
@@ -3743,7 +3497,6 @@
     "hp": "1500",
     "mp": "100",
     "exp": "77",
-    "locations": "",
     "drops": [
       "Lupin's Banana",
       "Stiff Feather",
@@ -3790,7 +3543,6 @@
     "hp": "1950",
     "mp": "10",
     "exp": "90",
-    "locations": "",
     "drops": [
       "Lorang Claw",
       "Blue Potion",
@@ -3835,7 +3587,6 @@
     "hp": "1700",
     "mp": "0",
     "exp": "82",
-    "locations": "",
     "drops": [
       "Motor",
       "White Potion",
@@ -3881,7 +3632,6 @@
     "hp": "1750",
     "mp": "30",
     "exp": "82",
-    "locations": "",
     "drops": [
       "Cog",
       "White Potion",
@@ -3920,10 +3670,6 @@
     "hp": "1850",
     "mp": "110",
     "exp": "85",
-    "locations": [
-      "Ludibrium: Eos Tower 22nd Floor",
-      "Ludibrium: Eos Tower 23rd Floor"
-    ],
     "drops": [
       "Plastic Crown",
       "White Potion",
@@ -3963,7 +3709,6 @@
     "hp": "1830",
     "mp": "0",
     "exp": "85",
-    "locations": "",
     "drops": [
       "Plane Controller",
       "White Potion",
@@ -4004,7 +3749,6 @@
     "hp": "1850",
     "mp": "0",
     "exp": "85",
-    "locations": "",
     "drops": [
       "Toy Baby Seal",
       "White Potion",
@@ -4043,10 +3787,6 @@
     "hp": "1850",
     "mp": "0",
     "exp": "85",
-    "locations": [
-      "Zenumist Research Institute: Lab \u2013 Unit 102",
-      "Zenumist Research Institute: Lab \u2013 Unit 103"
-    ],
     "drops": [
       "Flask",
       "White Potion",
@@ -4091,7 +3831,6 @@
     "hp": "1900",
     "mp": "0",
     "exp": "85",
-    "locations": "",
     "drops": [
       "Small Egg",
       "Soft Feather",
@@ -4135,7 +3874,6 @@
     "hp": "1920",
     "mp": "0",
     "exp": "92",
-    "locations": "",
     "drops": [
       "Toy Trojan Sword",
       "Tree Branch",
@@ -4176,7 +3914,6 @@
     "hp": "2000",
     "mp": "50",
     "exp": "85",
-    "locations": "",
     "drops": [
       "Cold Eye Tail",
       "Mana Elixir",
@@ -4219,7 +3956,6 @@
     "hp": "1800",
     "mp": "100",
     "exp": "90",
-    "locations": "",
     "drops": [
       "Cursed Doll",
       "Stiff Feather",
@@ -4261,10 +3997,6 @@
     "hp": "1900",
     "mp": "50",
     "exp": "95",
-    "locations": [
-      "Ludibrium: Crossroad of Time",
-      "Ludibrium: Whirlpool of Time"
-    ],
     "drops": [
       "Table Clock",
       "White Potion",
@@ -4302,7 +4034,6 @@
     "hp": "1930",
     "mp": "130",
     "exp": "95",
-    "locations": "",
     "drops": [
       "Space Food",
       "White Potion",
@@ -4341,7 +4072,6 @@
     "hp": "1900",
     "mp": "120",
     "exp": "95",
-    "locations": "",
     "drops": [
       "Poopa Egg",
       "Air Bubble",
@@ -4383,7 +4113,6 @@
     "hp": "1910",
     "mp": "130",
     "exp": "97",
-    "locations": "",
     "drops": [
       "Poison Poopa's Poisonous Spikes",
       "Air Bubble",
@@ -4424,7 +4153,6 @@
     "hp": "1900",
     "mp": "125",
     "exp": "95",
-    "locations": "",
     "drops": [
       "Acorn",
       "Leather",
@@ -4459,7 +4187,6 @@
     "hp": "1800",
     "mp": "100",
     "exp": "95",
-    "locations": "",
     "drops": [
       "Sand",
       "Blue Potion",
@@ -4496,7 +4223,6 @@
     "hp": "1600",
     "mp": "80",
     "exp": "95",
-    "locations": "",
     "drops": [
       "Fly-Eye Wing",
       "Stiff Feather",
@@ -4536,7 +4262,6 @@
     "hp": "2000",
     "mp": "0",
     "exp": "99",
-    "locations": "",
     "drops": [
       "Cheap Battery",
       "White Potion",
@@ -4577,7 +4302,6 @@
     "hp": "2050",
     "mp": "50",
     "exp": "99",
-    "locations": "",
     "drops": [
       "Cog",
       "White Potion",
@@ -4617,7 +4341,6 @@
     "hp": "2080",
     "mp": "150",
     "exp": "99",
-    "locations": "",
     "drops": [
       "Mateon's Tentacle",
       "White Potion",
@@ -4658,7 +4381,6 @@
     "hp": "2000",
     "mp": "150",
     "exp": "99",
-    "locations": "",
     "drops": [
       "Thimble",
       "White Potion",
@@ -4689,7 +4411,6 @@
     "hp": "2100",
     "mp": "120",
     "exp": "99",
-    "locations": "",
     "drops": [
       "Nependeath Seed",
       "White Potion",
@@ -4727,7 +4448,6 @@
     "hp": "2200",
     "mp": "60",
     "exp": "99",
-    "locations": "",
     "drops": [
       "Iron Hog's Metal Hoof",
       "White Potion",
@@ -4761,7 +4481,6 @@
     "hp": "2400",
     "mp": "0",
     "exp": "102",
-    "locations": "",
     "drops": [
       "Yellow Toy Block",
       "White Potion",
@@ -4800,7 +4519,6 @@
     "hp": "2300",
     "mp": "55",
     "exp": "102",
-    "locations": "",
     "drops": [
       "Small Spaceship",
       "White Potion",
@@ -4839,7 +4557,6 @@
     "hp": "2300",
     "mp": "150",
     "exp": "102",
-    "locations": "",
     "drops": [
       "Seal Skin",
       "Seal Meat",
@@ -4878,7 +4595,6 @@
     "hp": "2400",
     "mp": "0",
     "exp": "102",
-    "locations": "",
     "drops": [
       "Piece of Steel",
       "White Potion",
@@ -4917,7 +4633,6 @@
     "hp": "2300",
     "mp": "20",
     "exp": "102",
-    "locations": "",
     "drops": [
       "Jr. Cerebes Tooth",
       "Stiff Feather",
@@ -4956,7 +4671,6 @@
     "hp": "2400",
     "mp": "150",
     "exp": "103",
-    "locations": "",
     "drops": [
       "Seal Tooth",
       "Seal Meat",
@@ -4991,8 +4705,29 @@
     "hp": "2400",
     "mp": "150",
     "exp": "103",
-    "locations": "",
-    "drops": "",
+    "drops": [
+      "Needle Pouch",
+      "White Potion",
+      "Blue Potion",
+      "Opal Ore",
+      "Black Crystal Ore",
+      "LUK Crystal Ore",
+      "Mokbi Throwing-Stars",
+      "Claw Production Stimulator",
+      "Scroll for One-Handed Axe for Accuracy 10%",
+      "Brown Double Boots",
+      "Pole Arm Forging Stimulator",
+      "Gun Production Stimulator",
+      "Scroll for Gloves for HP 100%",
+      "One-Handed Axe Forging Stimulator",
+      "Crescent Polearm",
+      "Scroll for Pet Equip. for Jump 60%",
+      "Scroll for Bow for ATT 60%",
+      "Dark Piettra (Female)",
+      "Dark Piettra Skirt (Female)",
+      "Emerald Dome",
+      "Olympus"
+    ],
     "notes": "",
     "episode": "Form : Mammal\n\nA type of porcupine that only lives in Sky Forest. The Black Porkies share the same physical features as the Red Porkies. However, they are stronger than the Red Porkies, which explains their notable contribution in the battle against the Chipmunks. Calling them a family of warrior porcupines would not be an overstatement.",
     "image": "black-porky.png"
@@ -5003,7 +4738,6 @@
     "hp": "2480",
     "mp": "0",
     "exp": "105",
-    "locations": "",
     "drops": [
       "Plateon's Helmet",
       "White Potion",
@@ -5043,7 +4777,6 @@
     "hp": "2450",
     "mp": "0",
     "exp": "105",
-    "locations": "",
     "drops": [
       "Mechanical Heart",
       "White Potion",
@@ -5080,7 +4813,6 @@
     "hp": "2450",
     "mp": "0",
     "exp": "107",
-    "locations": "",
     "drops": [
       "Skeledog's Bone",
       "White Potion",
@@ -5118,7 +4850,6 @@
     "hp": "2500",
     "mp": "115",
     "exp": "105",
-    "locations": "",
     "drops": [
       "Lunar Pixie's Moonpiece",
       "Stiff Feather",
@@ -5162,7 +4893,6 @@
     "hp": "2700",
     "mp": "150",
     "exp": "120",
-    "locations": "",
     "drops": [
       "Drake Skull",
       "Dragon Skin",
@@ -5202,7 +4932,6 @@
     "hp": "2600",
     "mp": "0",
     "exp": "110",
-    "locations": "",
     "drops": [
       "Blue Toy Block",
       "White Potion",
@@ -5248,7 +4977,6 @@
     "hp": "2550",
     "mp": "170",
     "exp": "110",
-    "locations": "",
     "drops": [
       "Receiving Apparatus",
       "White Potion",
@@ -5289,7 +5017,6 @@
     "hp": "2600",
     "mp": "170",
     "exp": "110",
-    "locations": "",
     "drops": [
       "Pounder",
       "Leather",
@@ -5326,7 +5053,6 @@
     "hp": "2650",
     "mp": "0",
     "exp": "115",
-    "locations": "",
     "drops": [
       "Iron Boar Armor",
       "White Potion",
@@ -5359,7 +5085,6 @@
     "hp": "2550",
     "mp": "0",
     "exp": "110",
-    "locations": "",
     "drops": [
       "Necki Swimming Cap",
       "Snake Leather",
@@ -5390,7 +5115,6 @@
     "hp": "2550",
     "mp": "0",
     "exp": "110",
-    "locations": "",
     "drops": [
       "Necki Flower",
       "Snake Leather",
@@ -5421,7 +5145,6 @@
     "hp": "2550",
     "mp": "0",
     "exp": "110",
-    "locations": "Alcadno Research Institute: Lab \u2013 Area A-3",
     "drops": [
       "Hardened Piece of Steel",
       "Blue Potion",
@@ -5448,7 +5171,6 @@
     "hp": "2600",
     "mp": "60",
     "exp": "110",
-    "locations": "",
     "drops": [
       "Dark Cloud Foxtail",
       "Red Potion",
@@ -5476,7 +5198,6 @@
     "hp": "1920",
     "mp": "50",
     "exp": "93",
-    "locations": "",
     "drops": [
       "Worn Paper Lantern",
       "Warrior Potion",
@@ -5505,7 +5226,6 @@
     "hp": "2800",
     "mp": "50",
     "exp": "130",
-    "locations": "",
     "drops": [
       "Extra A's Badge",
       "Mana Elixir",
@@ -5537,7 +5257,6 @@
     "hp": "1250",
     "mp": "50",
     "exp": "71",
-    "locations": "",
     "drops": [
       "Black Horn",
       "Emerald Ore",
@@ -5570,7 +5289,6 @@
     "hp": "1200",
     "mp": "0",
     "exp": "66",
-    "locations": "",
     "drops": [
       "Nose Ring",
       "Soft Feather",
@@ -5602,7 +5320,6 @@
     "hp": "1800",
     "mp": "0",
     "exp": "86",
-    "locations": "",
     "drops": [
       "Plow",
       "Leather",
@@ -5635,7 +5352,6 @@
     "hp": "1500",
     "mp": "100",
     "exp": "79",
-    "locations": "",
     "drops": [
       "Black Fur",
       "White Potion",
@@ -5666,7 +5382,6 @@
     "hp": "1550",
     "mp": "35",
     "exp": "81",
-    "locations": "",
     "drops": [
       "Yeti Key Chain",
       "White Potion",
@@ -5698,7 +5413,6 @@
     "hp": "1400",
     "mp": "35",
     "exp": "81",
-    "locations": "",
     "drops": [
       "Jr. Pepe Key Chain",
       "Blue Potion",
@@ -5729,7 +5443,6 @@
     "hp": "1900",
     "mp": "100",
     "exp": "88",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -5741,7 +5454,6 @@
     "hp": "1900",
     "mp": "100",
     "exp": "88",
-    "locations": "",
     "drops": [
       "Yellow Bubble",
       "Opal Ore",
@@ -5773,7 +5485,6 @@
     "hp": "1900",
     "mp": "100",
     "exp": "88",
-    "locations": "",
     "drops": [
       "Green Bubble",
       "Mithril Ore",
@@ -5804,7 +5515,6 @@
     "hp": "1850",
     "mp": "100",
     "exp": "95",
-    "locations": "",
     "drops": [
       "Monkey Bike",
       "Steel Ore",
@@ -5835,7 +5545,6 @@
     "hp": "2300",
     "mp": "30",
     "exp": "102",
-    "locations": "",
     "drops": [
       "Wild Dog Denture",
       "Leather",
@@ -5867,7 +5576,6 @@
     "hp": "1000",
     "mp": "60",
     "exp": "60",
-    "locations": "",
     "drops": [
       "Speed Limit Sign",
       "Metal Pole",
@@ -5900,7 +5608,6 @@
     "hp": "1900",
     "mp": "10",
     "exp": "80",
-    "locations": "",
     "drops": [
       "Fire Extinguisher",
       "Blue Potion",
@@ -5937,7 +5644,6 @@
     "hp": "2150",
     "mp": "60",
     "exp": "120",
-    "locations": "",
     "drops": [
       "Ink",
       "White Potion",
@@ -5976,7 +5682,6 @@
     "hp": "1450",
     "mp": "250",
     "exp": "85",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -5988,7 +5693,6 @@
     "hp": "1600",
     "mp": "80",
     "exp": "95",
-    "locations": "",
     "drops": [
       "White Potion",
       "Blue Potion",
@@ -6028,7 +5732,6 @@
     "hp": "2490",
     "mp": "100",
     "exp": "120",
-    "locations": "",
     "drops": [
       "White Potion",
       "Elixir",
@@ -6064,7 +5767,6 @@
     "hp": "1930",
     "mp": "2000",
     "exp": "120",
-    "locations": "",
     "drops": [
       "Firewood",
       "White Potion",
@@ -6097,7 +5799,6 @@
     "hp": "100",
     "mp": "100",
     "exp": "10",
-    "locations": "",
     "drops": [
       "Magic Potion",
       "Speed Potion",
@@ -6137,7 +5838,6 @@
     "hp": "2800",
     "mp": "70",
     "exp": "120",
-    "locations": "",
     "drops": [
       "White Potion",
       "Blue Potion",
@@ -6161,7 +5861,7 @@
       "The Morningstar",
       "Steely Throwing-Knives"
     ],
-    "notes": "Drops \"Lucky Charm\" despite not being listed. Has an attack that inflicts stun.",
+    "notes": "Drops \"Lucky Charm\" despite not being listed. Has an attack that inflicts stun. Immune to Ice attacks.",
     "episode": "Form : Devil\nSpecial Trait : Vulnerable to Holy Attribute Attacks.\n\nThe Leprechaun is a legless devil in a raggedy top-hat wielding a lollipop for a weapon. It likes to disappear and re-appearing to toy with its prey, just as it enjoys pretending to be a bag of mesos to lure people closer. Get within range of this devil, and it will whack you over the head with its lollipop to daze you, before inhaling and blowing a strange energy as a finishing move.",
     "image": "leprechaun.png"
   },
@@ -6171,7 +5871,6 @@
     "hp": "1100",
     "mp": "70",
     "exp": "65",
-    "locations": "",
     "drops": [
       "Cellion Tail",
       "Soft Feather",
@@ -6207,7 +5906,6 @@
     "hp": "1550",
     "mp": "65",
     "exp": "85",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -6219,7 +5917,6 @@
     "hp": "1900",
     "mp": "60",
     "exp": "90",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -6231,7 +5928,6 @@
     "hp": "1920",
     "mp": "120",
     "exp": "95",
-    "locations": "",
     "drops": [
       "Lizard Tongue",
       "Lemon",
@@ -6258,14 +5954,6 @@
     "hp": "2600",
     "mp": "170",
     "exp": "110",
-    "locations": [
-      "Omega Sector: Boswell Field III",
-      "Omega Sector: Boswell Field IV",
-      "Omega Sector: Boswell Field V",
-      "Hidden Street: Mecateon Field",
-      "Omega Sector: Boswell Field VI",
-      "Hidden Street: Defeat Monsters"
-    ],
     "drops": [
       "Mecateon's Laser Gun",
       "White Potion",
@@ -6305,10 +5993,6 @@
     "hp": "2550",
     "mp": "100",
     "exp": "110",
-    "locations": [
-      "Florina Road: Clang and Lorang",
-      "Florina Road: Hot Sand"
-    ],
     "drops": [
       "Tortie Shell",
       "White Potion",
@@ -6348,10 +6032,6 @@
     "hp": "2600",
     "mp": "70",
     "exp": "115",
-    "locations": [
-      "Ludibrium: The Path of Time <4>",
-      "Ludibrium: Lost Time <2>"
-    ],
     "drops": [
       "Cog",
       "White Potion",
@@ -6397,7 +6077,6 @@
     "hp": "2700",
     "mp": "135",
     "exp": "115",
-    "locations": "",
     "drops": [
       "Dark Nependeath Seed",
       "White Potion",
@@ -6437,7 +6116,6 @@
     "hp": "11000",
     "mp": "220",
     "exp": "720",
-    "locations": "",
     "drops": [
       "Rombot's Memory Card",
       "White Potion",
@@ -6478,7 +6156,6 @@
     "hp": "2750",
     "mp": "0",
     "exp": "117",
-    "locations": "",
     "drops": [
       "Dirty Bandage",
       "White Potion",
@@ -6518,10 +6195,6 @@
     "hp": "2700",
     "mp": "100",
     "exp": "117",
-    "locations": [
-      "Herb Town: 10-Year-Old Herb Garden",
-      "Herb Town: 50-Year-Old Herb Garden"
-    ],
     "drops": [
       "Broken Piece of Pot",
       "White Potion",
@@ -6553,10 +6226,6 @@
     "hp": "2750",
     "mp": "0",
     "exp": "117",
-    "locations": [
-      "Alcadno Research Institute: Lab \u2013 Area A-1",
-      "Alcadno Research Institute: Lab \u2013 Area B-1"
-    ],
     "drops": [
       "Piece of Mithril",
       "Blue Potion",
@@ -6584,13 +6253,6 @@
     "hp": "2800",
     "mp": "80",
     "exp": "120",
-    "locations": [
-      "Kerning City Subway: Line 1 <Area 3>",
-      "Kerning City Subway: Line 1 <Area 4>",
-      "Kerning City Subway: Line 2 <Area 2>",
-      "Kerning City Subway: Line 2 <Area 3>",
-      "Line 3 Construction Site: B3 <Subway Depot>"
-    ],
     "drops": [
       "Medicine With Weird Vibes",
       "White Potion",
@@ -6630,11 +6292,6 @@
     "hp": "3000",
     "mp": "50",
     "exp": "128",
-    "locations": [
-      "Florina Road: Lorang and Clang",
-      "Florina Road: Clang and Lorang",
-      "Florina Road: Hot Sand"
-    ],
     "drops": [
       "Clang Claw",
       "Blue Potion",
@@ -6670,12 +6327,6 @@
     "hp": "2800",
     "mp": "100",
     "exp": "123",
-    "locations": [
-      "Herb Town: 10-Year-Old Herb Garden",
-      "Herb Town: 50-Year-Old Herb Garden",
-      "Herb Town: 60-Year-Old Herb Garden",
-      "Herb Town: 80-Year-Old Herb Garden"
-    ],
     "drops": [
       "Ginseng-Boiled Water",
       "White Potion",
@@ -6711,7 +6362,6 @@
     "hp": "9000",
     "mp": "220",
     "exp": "580",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -6723,13 +6373,6 @@
     "hp": "3200",
     "mp": "100",
     "exp": "140",
-    "locations": [
-      "Dungeon: Drake Hunting Ground",
-      "Dungeon: The Tunnel That Lost Light I",
-      "Dungeon: The Tunnel That Lost Light II",
-      "Dungeon: Drake\u2019s Meal Table",
-      "Dungeon: Drake Area"
-    ],
     "drops": [
       "Drake Skull",
       "Dragon Skin",
@@ -6775,14 +6418,6 @@
     "hp": "3700",
     "mp": "20",
     "exp": "145",
-    "locations": [
-      "El Nath: Watch Out for Icy Path I",
-      "El Nath: Watch Out for Icy Path II",
-      "El Nath: Ice Valley I",
-      "Hidden Street: Valley of Snowman",
-      "El Nath: Sharp Cliff I",
-      "MesoGears: Ice Chamber"
-    ],
     "drops": [
       "Jr. Yeti Skin",
       "Leather",
@@ -6823,14 +6458,6 @@
     "hp": "3800",
     "mp": "40",
     "exp": "155",
-    "locations": [
-      "Korean Folk Town: Black Mountain <Corner>",
-      "Korean Folk Town: A Small Well",
-      "Korean Folk Town: Around the Pond",
-      "Korean Folk Town: Tiger Forest I",
-      "Korean Folk Town: Tiger Forest II",
-      "Korean Folk Town: Tiger Ridge"
-    ],
     "drops": [
       "Tiger Stamp",
       "Leather",
@@ -6867,11 +6494,6 @@
     "hp": "3000",
     "mp": "40",
     "exp": "135",
-    "locations": [
-      "Mu Lung: Practice Field : Beginner",
-      "Mu Lung: Practice Field : Easy Level",
-      "Mu Lung: Practice Field : Normal Level"
-    ],
     "drops": [
       "Straw Doll",
       "White Potion",
@@ -6905,7 +6527,6 @@
     "hp": "3000",
     "mp": "40",
     "exp": "135",
-    "locations": "Alcadno Research Institute: Lab \u2013 Area A-1",
     "drops": [
       "Hardened Piece of Mithril",
       "White Potion",
@@ -6940,7 +6561,6 @@
     "hp": "3600",
     "mp": "42",
     "exp": "152",
-    "locations": "",
     "drops": [
       "Firebomb Flame",
       "White Potion",
@@ -6979,7 +6599,6 @@
     "hp": "3200",
     "mp": "40",
     "exp": "142",
-    "locations": "",
     "drops": [
       "Wooden Doll",
       "White Potion",
@@ -7014,11 +6633,6 @@
     "hp": "3800",
     "mp": "75",
     "exp": "170",
-    "locations": [
-      "Warning Street: Dangerous Croco I",
-      "Warning Street: Dangerous Croco II",
-      "Thailand: Deep Jungle"
-    ],
     "drops": [
       "Croco Skin",
       "White Potion",
@@ -7057,10 +6671,6 @@
     "hp": "4000",
     "mp": "200",
     "exp": "165",
-    "locations": [
-      "Orbis: Cloud Park V",
-      "Orbis: Cloud Park VI"
-    ],
     "drops": [
       "Luster Pixie's Sunpiece",
       "Soft Feather",
@@ -7105,10 +6715,6 @@
     "hp": "4200",
     "mp": "160",
     "exp": "170",
-    "locations": [
-      "Orbis: Garden of Red II",
-      "Orbis: Stairway to the Sky I"
-    ],
     "drops": [
       "Cellion Tail",
       "Soft Feather",
@@ -7151,10 +6757,6 @@
     "hp": "4200",
     "mp": "160",
     "exp": "170",
-    "locations": [
-      "Orbis: Garden of Yellow II",
-      "Orbis: Stairway to the Sky I"
-    ],
     "drops": [
       "Lioner Tail",
       "Soft Feather",
@@ -7196,10 +6798,6 @@
     "hp": "4200",
     "mp": "160",
     "exp": "170",
-    "locations": [
-      "Orbis: Garden of Green II",
-      "Orbis: Stairway to the Sky I"
-    ],
     "drops": [
       "Grupin Tail",
       "Soft Feather",
@@ -7244,7 +6842,6 @@
     "hp": "4500",
     "mp": "160",
     "exp": "175",
-    "locations": "",
     "drops": [
       "Tiger Skin",
       "Leather",
@@ -7281,12 +6878,6 @@
     "hp": "4200",
     "mp": "160",
     "exp": "170",
-    "locations": [
-      "Herb Town: 60-Year-Old-Herb Garden",
-      "Herb Town: 80-Year-Old-Herb Garden",
-      "Herb Town: 100-Year-Old-Herb Garden",
-      "Herb Town: Bellflower Valley"
-    ],
     "drops": [
       "Bellflower",
       "White Potion",
@@ -7318,7 +6909,6 @@
     "hp": "13500",
     "mp": "170",
     "exp": "980",
-    "locations": "",
     "drops": [
       "MT-09's Fuel",
       "White Potion",
@@ -7357,7 +6947,6 @@
     "hp": "4400",
     "mp": "160",
     "exp": "178",
-    "locations": "",
     "drops": [
       "100-Year-Old-Bellflower",
       "White Potion",
@@ -7392,7 +6981,6 @@
     "hp": "4400",
     "mp": "160",
     "exp": "168",
-    "locations": "",
     "drops": [
       "Wires",
       "White Potion",
@@ -7427,10 +7015,6 @@
     "hp": "4000",
     "mp": "90",
     "exp": "175",
-    "locations": [
-      "Hidden Street: The Forest of Evil I",
-      "Hidden Street: The Forest of Evil II"
-    ],
     "drops": [
       "Malady's Experimental Frog",
       "White Potion",
@@ -7471,13 +7055,6 @@
     "hp": "4000",
     "mp": "120",
     "exp": "170",
-    "locations": [
-      "Warning Street: Henesys Dungeon Entrance",
-      "Hidden Street: The Breathing Rock",
-      "Victoria Road: The Entrance of Golem\u2019s Temple",
-      "Victoria Road: Golem\u2019s Temple I",
-      "Victoria Road: Golem\u2019s Temple II"
-    ],
     "drops": [
       "Stone Golem Rubble",
       "Blue Potion",
@@ -7518,15 +7095,6 @@
     "hp": "4600",
     "mp": "50",
     "exp": "185",
-    "locations": [
-      "El Nath: Watch Out for Icy Path I",
-      "El Nath: Watch Out for Icy Path II",
-      "El Nath: Cold Field I",
-      "El Nath: Cold Field II",
-      "El Nath: Wolf Territory I",
-      "El Nath: Wolf Territory II",
-      "El Nath: Icy Cold Field"
-    ],
     "drops": [
       "Hector Tail",
       "Leather",
@@ -7569,11 +7137,6 @@
     "hp": "4500",
     "mp": "150",
     "exp": "175",
-    "locations": [
-      "Mu Lung: Foggy Forest",
-      "Mu Lung: Virtuous Forest",
-      "Mu Lung: Goblin Forest 1"
-    ],
     "drops": [
       "Old Paper",
       "The Book Ghost's Sheet of Paper",
@@ -7612,7 +7175,6 @@
     "hp": "4400",
     "mp": "40",
     "exp": "180",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -7624,7 +7186,6 @@
     "hp": "4500",
     "mp": "120",
     "exp": "185",
-    "locations": "",
     "drops": [
       "Three-Tailed Foxtail",
       "Leather",
@@ -7663,11 +7224,6 @@
     "hp": "4800",
     "mp": "150",
     "exp": "185",
-    "locations": [
-      "Mu Lung: Wild Bear Area 1",
-      "Mu Lung: Wild Bear Area 2",
-      "Mu Lung: Wild Bear Area 3"
-    ],
     "drops": [
       "Yellow Belt",
       "Bear Foot",
@@ -7706,13 +7262,6 @@
     "hp": "4600",
     "mp": "100",
     "exp": "195",
-    "locations": [
-      "Victoria Road: Remains <Tomb> II",
-      "Victoria Road: Remains <Tomb> III",
-      "Victoria Road: Camp 1",
-      "Victoria Road: Camp 2",
-      "Victoria Road: Camp 3"
-    ],
     "drops": [
       "Rib",
       "Blue Potion",
@@ -7752,13 +7301,6 @@
     "hp": "4500",
     "mp": "110",
     "exp": "190",
-    "locations": [
-      "El Nath: Forest of Dead Trees I",
-      "El Nath: Forest of Dead Trees II",
-      "El Nath: Forest of Dead Trees III",
-      "El Nath: Forest of Dead Trees IV",
-      "Zipangu: Cemetery Full of Ghosts"
-    ],
     "drops": [
       "Zombie's Lost Tooth",
       "Blue Potion",
@@ -7803,12 +7345,6 @@
     "hp": "4500",
     "mp": "110",
     "exp": "190",
-    "locations": [
-      "El Nath: Dead Mine I",
-      "El Nath: Dead Mine II",
-      "El Nath: Dead Mine III",
-      "El Nath: Dead Mine IV"
-    ],
     "drops": [
       "Zombie's Lost Tooth",
       "Zombie's Lost Gold Tooth",
@@ -7853,14 +7389,6 @@
     "hp": "4800",
     "mp": "150",
     "exp": "200",
-    "locations": [
-      "Dungeon: Sleepy Dungeon III",
-      "Dungeon: Sleepy Dungeon IV",
-      "Dungeon: Sleepy Dungeon V",
-      "Dungeon: The forest of Golem",
-      "Victoria Road: Golem\u2019s Temple III",
-      "Zipangu: Road to Cemetery"
-    ],
     "drops": [
       "Dark Stone Golem Rubble",
       "Blue Potion",
@@ -7907,18 +7435,6 @@
     "hp": "5800",
     "mp": "100",
     "exp": "235",
-    "locations": [
-      "El Nath: Cold Field I",
-      "El Nath: Cold Field II",
-      "Hidden Street: The Crown-Flyer",
-      "El Nath: Ice Valley I",
-      "El Nath: Wolf Territory I",
-      "El Nath: Wolf Territory II",
-      "El Nath: Wolf Territory III",
-      "El Nath: Wolf Territory IV",
-      "El Nath: Wolf Territory V",
-      "El Nath: Icy Cold Field"
-    ],
     "drops": [
       "White Fang Tail",
       "Leather",
@@ -7967,7 +7483,6 @@
     "hp": "5600",
     "mp": "200",
     "exp": "220",
-    "locations": "",
     "drops": [
       "Broken Deer Horn",
       "Soft Feather",
@@ -8004,10 +7519,6 @@
     "hp": "5600",
     "mp": "200",
     "exp": "205",
-    "locations": [
-      "Alcadno Research Institute: Lab \u2013 Area C-2",
-      "Alcadno Research Institute: Lab \u2013 Area C-3"
-    ],
     "drops": [
       "Plug",
       "Blue Potion",
@@ -8041,11 +7552,6 @@
     "hp": "6000",
     "mp": "150",
     "exp": "210",
-    "locations": [
-      "Dungeon: Sleepy Dungeon V",
-      "Dungeon: The forest of Golem",
-      "Victoria Road: Golem\u2019s Temple IV"
-    ],
     "drops": [
       "Mixed Block",
       "Blue Potion",
@@ -8084,7 +7590,6 @@
     "hp": "6000",
     "mp": "120",
     "exp": "240",
-    "locations": "",
     "drops": [
       "Drake Skull",
       "Dragon Skin",
@@ -8134,7 +7639,6 @@
     "hp": "7200",
     "mp": "100",
     "exp": "260",
-    "locations": "",
     "drops": [
       "Pepe Beak",
       "Mana Elixir",
@@ -8175,7 +7679,6 @@
     "hp": "7000",
     "mp": "170",
     "exp": "450",
-    "locations": "",
     "drops": [
       "Broom",
       "Mana Elixir",
@@ -8212,11 +7715,6 @@
     "hp": "6500",
     "mp": "100",
     "exp": "245",
-    "locations": [
-      "Mu Lung: Wild Bear Area 2",
-      "Mu Lung: Wild Bear Area 3",
-      "Mu Lung: Territory of Wandering Bear"
-    ],
     "drops": [
       "Red Belt",
       "Bear Foot",
@@ -8253,10 +7751,6 @@
     "hp": "7100",
     "mp": "100",
     "exp": "270",
-    "locations": [
-      "Zipangu: A Desolate Cemetery",
-      "Zipangu: Cemetery Full of Ghosts"
-    ],
     "drops": [
       "Triangular Bandana of the Nightghost",
       "Grape Juice",
@@ -8288,10 +7782,6 @@
     "hp": "7100",
     "mp": "150",
     "exp": "255",
-    "locations": [
-      "Zipangu: Vanished Village",
-      "Zipangu: Encounter with the Buddha"
-    ],
     "drops": [
       "Cucumber",
       "Mana Elixir",
@@ -8322,12 +7812,6 @@
     "hp": "2800",
     "mp": "50",
     "exp": "139",
-    "locations": [
-      "Zipangu: Showa Street 1",
-      "Zipangu: Showa Street 2",
-      "Zipangu: Showa Street 3",
-      "Zipangu: The Nightmarish Last Days"
-    ],
     "drops": [
       "Extra B's Name Plate",
       "Steel Ore",
@@ -8359,7 +7843,6 @@
     "hp": "3100",
     "mp": "50",
     "exp": "148",
-    "locations": "",
     "drops": [
       "Extra C's Necklace",
       "Fried Chicken",
@@ -8386,7 +7869,6 @@
     "hp": "2800",
     "mp": "50",
     "exp": "117",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -8398,7 +7880,6 @@
     "hp": "6000",
     "mp": "400",
     "exp": "280",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -8410,7 +7891,6 @@
     "hp": "3000",
     "mp": "50",
     "exp": "130",
-    "locations": "",
     "drops": [
       "Batteries",
       "Headlight",
@@ -8451,7 +7931,6 @@
     "hp": "2900",
     "mp": "80",
     "exp": "130",
-    "locations": "Singapore: Mysterious Path 1",
     "drops": [
       "Small Poop",
       "White Potion",
@@ -8492,7 +7971,6 @@
     "hp": "3200",
     "mp": "100",
     "exp": "140",
-    "locations": "Singapore: Mysterious Path 1",
     "drops": [
       "Big Poop",
       "White Potion",
@@ -8526,10 +8004,6 @@
     "hp": "5000",
     "mp": "150",
     "exp": "200",
-    "locations": [
-      "Singapore: Mysterious Path 2",
-      "Singapore: Ghost ship 1"
-    ],
     "drops": [
       "Pink Essence",
       "Blue Potion",
@@ -8566,7 +8040,6 @@
     "hp": "5500",
     "mp": "120",
     "exp": "220",
-    "locations": "",
     "drops": [
       "Blue Essence",
       "Chocolate",
@@ -8599,10 +8072,6 @@
     "hp": "3300",
     "mp": "120",
     "exp": "180",
-    "locations": [
-      "Masteria: Mountain Cliffs",
-      "Masteria: Highlands"
-    ],
     "drops": [
       "Soft Feather",
       "Blue Potion",
@@ -8640,10 +8109,30 @@
     "hp": "1800",
     "mp": "150",
     "exp": "115",
-    "locations": "",
-    "drops": "",
-    "notes": "Defeating \"Sophilia Doll Ground\" gives 55 EXP.",
-    "episode": "",
+    "drops": [
+      "Lock of Doll\u2019s Hair",
+      "White Potion",
+      "Blue Potion",
+      "Elixir",
+      "Heartstopper",
+      "Mokbi Throwing-Stars",
+      "Zard",
+      "Maroon Jangoon Shoes",
+      "Red Guiltian",
+      "Red Pilfer",
+      "Blue Moon Earring",
+      "Silver Crusader Helm",
+      "Orange Calaf (Female)",
+      "Blue Moon Pants (Female)",
+      "Blue Moon (Female)",
+      "Blue-Lined Kismet (Male)",
+      "Gold Hildon Boots",
+      "Scroll for Cape for INT 10%",
+      "Scroll for Overall Armor for DEF 60%",
+      "Blue Brace Look"
+    ],
+    "notes": "Defeating \"Sophilia Doll Ground\" gives 55 EXP. Drops \"Stretchy Material\" despite not being listed.",
+    "episode": "Form : Enchanted\n\nThe decapitated head of a doll resembling Prendergast\u2019s daughter\u2019s favorite doll. These dolls have been produced in immense numbers, and roam the hallways of the Haunted Mansion. Which child could possibly have a use for this many dolls?",
     "image": "sophilia-doll.png"
   },
   {
@@ -8652,7 +8141,6 @@
     "hp": "6800",
     "mp": "200",
     "exp": "250",
-    "locations": "",
     "drops": [
       "Mana Elixir",
       "Heartstopper",
@@ -8684,10 +8172,29 @@
     "hp": "6800",
     "mp": "200",
     "exp": "250",
-    "locations": "",
-    "drops": "",
-    "notes": "",
-    "episode": "",
+    "drops": [
+      "Mana Elixir",
+      "Heartstopper",
+      "Red Shouldermail (Female)",
+      "Red Shouldermail Pants (Female)",
+      "Orange Calas (Male)",
+      "Brown Sontata",
+      "Brown China (Male)",
+      "Brown China Pants (Male)",
+      "Orihalcon Camel Boots",
+      "Steal Pow",
+      "Black Basile Boots",
+      "Dark Clench",
+      "Brown Requierre (Female)",
+      "Dark Garner",
+      "Skylar",
+      "Blue Carzen Boots",
+      "Brown Nightfox",
+      "Blue Patriot",
+      "Scroll for Wand for Magic Att. 60%"
+    ],
+    "notes": "Drops \"Duct Tape\" despite not being listed.",
+    "episode": "Form : Enchanted\n\nA purple doll that seems to have found a purpose as a pincushion\u2026? This rather macabre exercise has left the doll with a haunting appearance. Could this really be the work of a child?",
     "image": "hoodoo.png"
   },
   {
@@ -8696,8 +8203,15 @@
     "hp": "3500",
     "mp": "50",
     "exp": "122",
-    "locations": "",
-    "drops": "",
+    "drops": [
+      "Firewood",
+      "Speed Potion",
+      "White Potion",
+      "Sap of Ancient Tree",
+      "Brown Leather Ocean Hat",
+      "Gold Moon Shoes",
+      "Dark Calaf (Female)"
+    ],
     "notes": "",
     "episode": "Form : Plant\nSpecial Trait : Vulnerable to Fire Attribute Attacks.\n\nThe Crimson Trees are all that remain of the once beloved tres that made up the Crimsonwood Forest. After the war between the Keep and the Krakians, the trees became haunted by the spirits of Krakians who sought refuge in them. By cutting down the trees, and taking their seeds, perhaps one can help cleanse the forest of this terrible curse\u2026?",
     "image": "phantom-tree.png"
@@ -8708,10 +8222,31 @@
     "hp": "6000",
     "mp": "200",
     "exp": "230",
-    "locations": "",
-    "drops": "",
+    "drops": [
+      "Snake Scale",
+      "Snake Skin",
+      "Watermelon",
+      "Blue Potion",
+      "Mana Elixir",
+      "Hot Dog Supreme",
+      "Steel Ore",
+      "DEX Crystal Ore",
+      "Scroll for Topwear for DEF 60%",
+      "Dark Clench",
+      "Black Bisk",
+      "Yellow Pierre Shoes",
+      "Orange Calas (Male)",
+      "Blue Lapiz Sandals",
+      "Green Maro",
+      "Red Shouldermail (Female)",
+      "Brown China (Male)",
+      "Blood Gigantic",
+      "Scroll for Crossbow for ATT 60%",
+      "Fury Claw",
+      "Scroll for Helmet for DEF 60%"
+    ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Reptile\n\nThe terrifying Python is the king of the jungle around the Floating Market. Its thick and scaly skin forms a formidable barrier to incoming projectiles. Additionally, much like certain specimen of eel, it has mastered the art of lightning, which is occasionally uses to strike enemies from afar. Only the strongest of adventurers can defeat the Python.",
     "image": "python.png"
   },
   {
@@ -8720,10 +8255,6 @@
     "hp": "6000",
     "mp": "100",
     "exp": "240",
-    "locations": [
-      "Zipangu: The Secret Spa (M)",
-      "Zipangu: The Secret Spa (F)"
-    ],
     "drops": [
       "Red Arrow for Bow",
       "Kinoko Ramen(salt)",
@@ -8751,7 +8282,6 @@
     "hp": "7400",
     "mp": "80",
     "exp": "270",
-    "locations": "Ludibrium: Warped Path of Time<1>",
     "drops": [
       "Buffy Hat",
       "Orihalcon Ore",
@@ -8798,11 +8328,6 @@
     "hp": "5500",
     "mp": "100",
     "exp": "240",
-    "locations": [
-      "Dungeon: The Tunnel That Lost Light II",
-      "Dungeon: Drake\u2019s Meal Table",
-      "Dungeon: Wild Cargo\u2019s Area"
-    ],
     "drops": [
       "Wild Kargo Eye",
       "Mana Elixir",
@@ -8853,11 +8378,6 @@
     "hp": "7500",
     "mp": "100",
     "exp": "275",
-    "locations": [
-      "Mu Lung: Peach Farm 1",
-      "Mu Lung: Peach Farm 2",
-      "Mu Lung: Peach Farm 3"
-    ],
     "drops": [
       "Peach Seed",
       "Leather",
@@ -8891,13 +8411,6 @@
     "hp": "7500",
     "mp": "100",
     "exp": "260",
-    "locations": [
-      "Victoria Road: Remains <Tomb> IV",
-      "Victoria Road: Remains <Cliff>",
-      "Victoria Road: Camp 1",
-      "Victoria Road: Camp 2",
-      "Victoria Road: Camp 3"
-    ],
     "drops": [
       "Pelvic Bone",
       "White Potion",
@@ -8944,7 +8457,6 @@
     "hp": "7600",
     "mp": "100",
     "exp": "265",
-    "locations": "Ludibrium: Forgotten Path of Time<1>",
     "drops": [
       "Zombie Teddy Bear",
       "White Potion",
@@ -8995,7 +8507,6 @@
     "hp": "7600",
     "mp": "100",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -9007,11 +8518,6 @@
     "hp": "7700",
     "mp": "130",
     "exp": "270",
-    "locations": [
-      "Dungeon: Drake Area",
-      "Dungeon: Cold Cradle",
-      "Dungeon: Drake's Nest"
-    ],
     "drops": [
       "Ice Backbone",
       "Mana Elixir",
@@ -9058,7 +8564,6 @@
     "hp": "7800",
     "mp": "80",
     "exp": "265",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -9070,11 +8575,6 @@
     "hp": "7800",
     "mp": "100",
     "exp": "290",
-    "locations": [
-      "Herb Town: Old Swamp",
-      "Herb Town: Red-Nose Pirate Den 1",
-      "Herb Town: Isolated Swamp"
-    ],
     "drops": [
       "Mr Alli's Leather",
       "Soft Feather",
@@ -9115,11 +8615,6 @@
     "hp": "11000",
     "mp": "80",
     "exp": "330",
-    "locations": [
-      "El Nath: Ice Valley I",
-      "Hidden Street: Valley of Snowman",
-      "El Nath: Ice Valley II"
-    ],
     "drops": [
       "Yeti Horn",
       "Mana Elixir",
@@ -9157,7 +8652,6 @@
     "hp": "11000",
     "mp": "80",
     "exp": "255",
-    "locations": "Zenumist Research Institute: Lab - Unit 201",
     "drops": [
       "Beaker",
       "Mana Elixir",
@@ -9199,7 +8693,6 @@
     "hp": "9400",
     "mp": "80",
     "exp": "330",
-    "locations": "Ludibrium: Warped Path of Time<1>",
     "drops": [
       "Lazy Buffy Marble",
       "White Potion",
@@ -9244,7 +8737,6 @@
     "hp": "9000",
     "mp": "200",
     "exp": "305",
-    "locations": "",
     "drops": [
       "Cat Doll",
       "Soft Feather",
@@ -9278,7 +8770,6 @@
     "hp": "11000",
     "mp": "100",
     "exp": "365",
-    "locations": "",
     "drops": [
       "Free Spirit",
       "Leather",
@@ -9320,10 +8811,6 @@
     "hp": "13000",
     "mp": "140",
     "exp": "375",
-    "locations": [
-      "Dungeon: Cold Cradle",
-      "Dungeon: Drake\u2019s Nest"
-    ],
     "drops": [
       "Dark Drake's Horn",
       "Dragon Skin",
@@ -9367,7 +8854,6 @@
     "hp": "13000",
     "mp": "100",
     "exp": "365",
-    "locations": "",
     "drops": [
       "Dark Yeti Horn",
       "Leather",
@@ -9410,12 +8896,6 @@
     "hp": "12500",
     "mp": "100",
     "exp": "365",
-    "locations": [
-      "Herb Town: Old Swamp",
-      "Herb Town: Red-Nose Pirate Den 1",
-      "Herb Town: Red-Nose Pirate Den 2",
-      "Herb Town: Red-Nose Pirate Den 3"
-    ],
     "drops": [
       "Mark of the Pirate",
       "White Potion",
@@ -9452,11 +8932,6 @@
     "hp": "13000",
     "mp": "100",
     "exp": "265",
-    "locations": [
-      "Zenumist Research Institute: Lab \u2013 Unit 201",
-      "Zenumist Research Institute: Lab \u2013 Unit 203",
-      "Hidden Street: Authorized Personnel Only"
-    ],
     "drops": [
       "Entry Pass",
       "Mana Elixir",
@@ -9493,7 +8968,6 @@
     "hp": "15000",
     "mp": "180",
     "exp": "470",
-    "locations": "Ludibrium: Forgotten Path of Time<2>",
     "drops": [
       "Sealed-up Grandpa Clock",
       "Mana Elixir",
@@ -9542,7 +9016,6 @@
     "hp": "15000",
     "mp": "200",
     "exp": "505",
-    "locations": "",
     "drops": [
       "Tauromacis Horn",
       "Mana Elixir",
@@ -9585,7 +9058,6 @@
     "hp": "25000",
     "mp": "200",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -9597,7 +9069,6 @@
     "hp": "25000",
     "mp": "200",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Mana Elixir",
       "Dexterity Potion",
@@ -9635,7 +9106,6 @@
     "hp": "25000",
     "mp": "200",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -9647,11 +9117,6 @@
     "hp": "14500",
     "mp": "150",
     "exp": "495",
-    "locations": [
-      "Leafre: West Leafre Forest",
-      "Leafre: Minar Forest : West Border",
-      "Leafre: Rash Forest"
-    ],
     "drops": [
       "Rash's Furball",
       "Mana Elixir",
@@ -9691,11 +9156,6 @@
     "hp": "15000",
     "mp": "100",
     "exp": "442",
-    "locations": [
-      "Herb Town: Red-Nose Pirate Den 1",
-      "Herb Town: Red-Nose Pirate Den 2",
-      "Herb Town: Red-Nose Pirate Den 3"
-    ],
     "drops": [
       "Captain's Hat",
       "White Potion",
@@ -9732,7 +9192,6 @@
     "hp": "15200",
     "mp": "120",
     "exp": "535",
-    "locations": "",
     "drops": [
       "Cerebes Tooth",
       "Antidote",
@@ -9777,10 +9236,6 @@
     "hp": "15200",
     "mp": "120",
     "exp": "505",
-    "locations": [
-      "Leafre: Beetle Forest",
-      "Leafre : East Forest"
-    ],
     "drops": [
       "Beetle's Horn",
       "Mana Elixir",
@@ -9817,10 +9272,6 @@
     "hp": "15000",
     "mp": "150",
     "exp": "495",
-    "locations": [
-      "Leafre: Minar Forest : West Border",
-      "Leafre: Cranky Forest"
-    ],
     "drops": [
       "Hobi's Shorts",
       "Mana Elixir",
@@ -9853,10 +9304,6 @@
     "hp": "15300",
     "mp": "200",
     "exp": "495",
-    "locations": [
-      "Victoria Road: Remains <Tomb> IV",
-      "Victoria Road: Remains <Cliff>"
-    ],
     "drops": [
       "Horse Skull",
       "Mana Elixir",
@@ -9899,12 +9346,6 @@
     "hp": "15500",
     "mp": "240",
     "exp": "520",
-    "locations": [
-      "Orbis: Stairway to the Sky II",
-      "Orbis: Garden of Darkness I",
-      "Orbis: Garden of Darkness II",
-      "Zipangu: Hall of Mushroom"
-    ],
     "drops": [
       "Lucida Tail",
       "Mana Elixir",
@@ -9954,10 +9395,6 @@
     "hp": "15500",
     "mp": "240",
     "exp": "500",
-    "locations": [
-      "Zenumist Research Institute: Lab - Unit 202",
-      "Zenumist Research Institute: Lab - Unit 203"
-    ],
     "drops": [
       "May Mist",
       "Elixir",
@@ -10005,10 +9442,6 @@
     "hp": "16000",
     "mp": "120",
     "exp": "495",
-    "locations": [
-      "Ludibrium: Warped Path of Time<2>",
-      "Ludibrium: Warped Path of Time<3>"
-    ],
     "drops": [
       "Buffoon's Grandpa Clock",
       "Orange Potion",
@@ -10054,11 +9487,6 @@
     "hp": "15500",
     "mp": "150",
     "exp": "505",
-    "locations": [
-      "Leafre: West Leafre Forest",
-      "Leafre: Minar Forest : West Border",
-      "Leafre: Rash Forest"
-    ],
     "drops": [
       "Dark Rash's Furball",
       "Mana Elixir",
@@ -10097,7 +9525,6 @@
     "hp": "16000",
     "mp": "150",
     "exp": "550",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -10109,7 +9536,6 @@
     "hp": "16000",
     "mp": "150",
     "exp": "550",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -10121,10 +9547,6 @@
     "hp": "18000",
     "mp": "220",
     "exp": "580",
-    "locations": [
-      "Dungeon: Sanctuary Entrance III",
-      "Dungeon: Sanctuary Entrance IV"
-    ],
     "drops": [
       "Taurospear Horn",
       "Black Crystal Ore",
@@ -10169,12 +9591,6 @@
     "hp": "15100",
     "mp": "200",
     "exp": "500",
-    "locations": [
-      "Zipangu: Parking Lot",
-      "Zipangu: Finance of Flaming Raccoon",
-      "Zipangu: Parlor",
-      "Zipangu: The Nightmarish Last Days"
-    ],
     "drops": [
       "Extra D's Fingernail",
       "Mana Elixir Pill",
@@ -10207,13 +9623,6 @@
     "hp": "10000",
     "mp": "50",
     "exp": "355",
-    "locations": [
-      "Zipangu: Showa Street 2",
-      "Zipangu: Showa Street 3",
-      "Zipangu: Finance of Flaming Raccoon",
-      "Zipangu: Parlor",
-      "Zipangu: The Nightmarish Last Days"
-    ],
     "drops": [
       "Leader A's Shades",
       "Fat Sausage",
@@ -10248,13 +9657,6 @@
     "hp": "9000",
     "mp": "350",
     "exp": "320",
-    "locations": [
-      "Zipangu: Showa Street 2",
-      "Zipangu: Showa Street 3",
-      "Zipangu: Parking Lot",
-      "Zipangu: Parlor",
-      "Zipangu: The Nightmarish Last Days"
-    ],
     "drops": [
       "Leader B's Charm",
       "Kinoko Ramen(roasted pork)",
@@ -10287,10 +9689,6 @@
     "hp": "5800",
     "mp": "100",
     "exp": "250",
-    "locations": [
-      "Singapore: Mysterious Path 3",
-      "Singapore: Ghost Ship 2"
-    ],
     "drops": [
       "Green Essence",
       "Mana Elixir",
@@ -10328,7 +9726,6 @@
     "hp": "11500",
     "mp": "100",
     "exp": "355",
-    "locations": "Singapore: Ghost Ship 6",
     "drops": [
       "Red Essence",
       "White Potion",
@@ -10363,18 +9760,6 @@
     "hp": "16000",
     "mp": "400",
     "exp": "560",
-    "locations": [
-      "Phantom Forest: Phantom Road",
-      "Phantom Forest: Crossroads",
-      "Crimsonwood Mountain: Lower Ascent",
-      "Crimsonwood Mountain: Upper Ascent",
-      "Crimsonwood Mountain: Cavern of Pain",
-      "Crimsonwood Mountain: Cavern of Shame",
-      "Crimsonwood Mountain: Cavern of Honor",
-      "Crimsonwood Mountain: Cavern of Fortitude",
-      "Crimsonwood Mountain: Cavern of Valor",
-      "Crimsonwood Keep: Tornado Corridor"
-    ],
     "drops": [
       "Dexterity Potion",
       "Wizard Potion",
@@ -10403,7 +9788,6 @@
     "hp": "3500",
     "mp": "50",
     "exp": "122",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -10415,7 +9799,6 @@
     "hp": "18000",
     "mp": "200",
     "exp": "560",
-    "locations": "Ludibrium: Forgotten Path of Time<2>",
     "drops": [
       "Evil Spirit",
       "Orihalcon Ore",
@@ -10465,10 +9848,6 @@
     "hp": "18000",
     "mp": "200",
     "exp": "540",
-    "locations": [
-      "Leafre: Minar Forest : East Border",
-      "Leafre: Beetle Forest"
-    ],
     "drops": [
       "Dual Beetle's Horn",
       "Mana Elixir",
@@ -10504,10 +9883,6 @@
     "hp": "18000",
     "mp": "200",
     "exp": "540",
-    "locations": [
-      "Leafre: Minar Forest : West Border",
-      "Leafre: Steep Hill"
-    ],
     "drops": [
       "Green Hobi's Charm",
       "Mana Elixir",
@@ -10542,10 +9917,47 @@
     "hp": "19000",
     "mp": "140",
     "exp": "590",
-    "locations": "",
-    "drops": "",
+    "drops": [
+      "Deep Buffoon\u2019s Rock Piece",
+      "White Potion",
+      "Emerald Ore",
+      "Gold Ore",
+      "Sniper Pill",
+      "Elixir",
+      "Dark Crystal Ore",
+      "One-Handed Axe Forging Stimulator",
+      "White Anakarune (Female)",
+      "Brown Polyfeather Hat",
+      "Crossbow Production Stimulator",
+      "Blood Camel Boots",
+      "Blue Nightfox",
+      "Bloody Platine (Female)",
+      "Blood Platine Pants (Female)",
+      "Blue Linnex (Male)",
+      "Brown Lorin",
+      "Gold Ancient Shield",
+      "Blue Halfglove",
+      "Gloves Production Stimulator",
+      "Dark Patriot",
+      "Red Infinium Circlet",
+      "Blue Studded Top (Male)",
+      "Blue Studded Pants (Male)",
+      "Chrono",
+      "Black Scarab",
+      "Scroll for Earring for LUK 60%",
+      "Scroll for Overall Armor for STR 10%",
+      "Half Earrings",
+      "Dark Enigma (Female)",
+      "Green Pris (Male)",
+      "Red Pirate Boots",
+      "Blood Emperor",
+      "One-Handed Sword Forging Stimulator",
+      "Scroll for Two-handed Sword for ATT 60%",
+      "Scroll for Cape for STR 60%",
+      "Scroll for One-Handed Axe for Accuracy 10%"
+    ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Devil\nSpecial Trait : Vulnerable to Ice Attribute Attacks. -50% Fire Attribute Damage.\n\nThe monsters who worked the operation room of the Clocktower in Ludibrium. Due to the Dimensional Schism, the souls of these workers were consumed by the force of darkness, turning them into buffoons of time. They attack the lost adventurers with the huge wall clock, which was used to keep time at the Clocktower. Every time the Deep Buffoons shake the wall clock, the time is penetrated and fractured.",
     "image": "deep-buffoon.png"
   },
   {
@@ -10554,10 +9966,6 @@
     "hp": "20000",
     "mp": "100",
     "exp": "455",
-    "locations": [
-      "Hidden Street: Valley of Snowman",
-      "El Nath: Ice Valley II"
-    ],
     "drops": [
       "Pepe Beak",
       "Yeti Horn",
@@ -10620,10 +10028,6 @@
     "hp": "20000",
     "mp": "100",
     "exp": "615",
-    "locations": [
-      "Leafre: Cranky Forest",
-      "Leafre: Steep Hill"
-    ],
     "drops": [
       "Hankie's Pan Flute",
       "Mana Elixir",
@@ -10656,10 +10060,9 @@
     "hp": "27000",
     "mp": "300",
     "exp": "1050",
-    "locations": "",
     "drops": "",
     "notes": "Able to summon one Werewolf.",
-    "episode": "",
+    "episode": "Form : Mammal\nSpecial Trait : -50% Ice Attribute Damage. Vulnerable to Fire Attribute Attacks.\n\nA monster that appears in the form of a giant wolf, occasionally found deep inside the valley of the snowfield. It walks on two feet like a human, and attacks with its sharp claws. Furthermore, it has high defense rate against physical and magic attacks, not to mention its ability to summon Werewolves when it finds itself at a disadvantageous situation. It is resistant against cold air but vulnerable to fire, so it would be wise to attack with fire attribute when hunting Lycanthrope.",
     "image": "lycanthrope.png"
   },
   {
@@ -10668,11 +10071,6 @@
     "hp": "27000",
     "mp": "300",
     "exp": "850",
-    "locations": [
-      "Leafre: Sky Nest II",
-      "Leafre: Sky Nest I",
-      "Leafre: Entrance to Sky Nest"
-    ],
     "drops": [
       "Harp's Tail Feather",
       "Mana Elixir",
@@ -10713,7 +10111,6 @@
     "hp": "27000",
     "mp": "300",
     "exp": "850",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -10725,7 +10122,6 @@
     "hp": "29000",
     "mp": "150",
     "exp": "715",
-    "locations": "",
     "drops": "",
     "notes": "Separated Dark Pepe gives 700 EXP and Separated Dark Yeti gives 715 EXP.",
     "episode": "",
@@ -10737,7 +10133,6 @@
     "hp": "30000",
     "mp": "160",
     "exp": "1300",
-    "locations": "Ludibrium: Warped Path of Time<3>",
     "drops": [
       "Ghost Pirate Key",
       "Mana Elixir",
@@ -10782,10 +10177,6 @@
     "hp": "30000",
     "mp": "160",
     "exp": "1100",
-    "locations": [
-      "Leafre: Sky Nest II",
-      "Leafre: Sky Nest I"
-    ],
     "drops": [
       "Blood Harp's Crown",
       "Mana Elixir",
@@ -10827,7 +10218,6 @@
     "hp": "32000",
     "mp": "180",
     "exp": "1350",
-    "locations": "Ludibrium: Forgotten Path of Time<3>",
     "drops": [
       "Sealed Teddy Bear",
       "Mana Elixir",
@@ -10882,7 +10272,6 @@
     "hp": "17000",
     "mp": "150",
     "exp": "1400",
-    "locations": "",
     "drops": [
       "A Bundle of Goby",
       "Mana Elixir",
@@ -10928,11 +10317,6 @@
     "hp": "32000",
     "mp": "150",
     "exp": "1420",
-    "locations": [
-      "Leafre: Forest : Crossroad",
-      "Leafre: Valley of the Antelope",
-      "Leafre: Entrance to Sky Nest"
-    ],
     "drops": [
       "Birk's Chewed Grass",
       "Mana Elixir",
@@ -10968,7 +10352,6 @@
     "hp": "35000",
     "mp": "200",
     "exp": "1500",
-    "locations": "Hidden Street: Unbalanced Time",
     "drops": [
       "Dual Pirate's Propeller",
       "Mana Elixir",
@@ -11022,12 +10405,6 @@
     "hp": "37000",
     "mp": "200",
     "exp": "1600",
-    "locations": [
-      "Leafre: Battlefield of Fire and Darkness",
-      "Leafre: Griffey Forest",
-      "Leafre: The Area of Black Kentaurus",
-      "Leafre: Battlefield of Water and Darkness"
-    ],
     "drops": [
       "Kentaurus's Skull",
       "Mana Elixir",
@@ -11067,12 +10444,6 @@
     "hp": "37000",
     "mp": "200",
     "exp": "1600",
-    "locations": [
-      "Leafre: The Area of Red Kentaurus",
-      "Leafre: Battlefield of Fire and Darkness",
-      "Leafre: Griffey Forest",
-      "Leafre: Battlefield of Fire and Water"
-    ],
     "drops": [
       "Kentaurus's Flame",
       "Mana Elixir",
@@ -11116,12 +10487,6 @@
     "hp": "37000",
     "mp": "200",
     "exp": "1600",
-    "locations": [
-      "Leafre: Battlefield of Water and Darkness",
-      "Leafre: The Area of Blue Kentaurus",
-      "Leafre: Manon\u2019s Forest",
-      "Leafre: Battlefield of Fire and Water"
-    ],
     "drops": [
       "Kentaurus's Marrow",
       "Mana Elixir",
@@ -11164,10 +10529,6 @@
     "hp": "37000",
     "mp": "200",
     "exp": "1620",
-    "locations": [
-      "Leafre: Forest : Crossroad",
-      "Valley of the Antelope"
-    ],
     "drops": [
       "Dual Birk's Tiny Tail",
       "Mana Elixir",
@@ -11209,7 +10570,6 @@
     "hp": "40000",
     "mp": "190",
     "exp": "1720",
-    "locations": "Hidden Street: Lost Time",
     "drops": [
       "Binding Bridle",
       "Topaz Ore",
@@ -11255,11 +10615,6 @@
     "hp": "45000",
     "mp": "190",
     "exp": "1800",
-    "locations": [
-      "El Nath: The Cave of Trial III",
-      "Zipangu: WanWan Spa of Hell",
-      "Zipangu: Armory"
-    ],
     "drops": [
       "Bain's Spiky Collar",
       "Mana Elixir",
@@ -11305,10 +10660,6 @@
     "hp": "40000",
     "mp": "150",
     "exp": "1780",
-    "locations": [
-      "Leafre: Entrance to Dragon Forest",
-      "Leafre: Dragon Forest I"
-    ],
     "drops": [
       "Cracked Shell",
       "Mana Elixir",
@@ -11320,7 +10671,7 @@
       "Scroll for Overall Armor for LUK 100%",
       "Two-Handed Mace Forging Stimulator",
       "Blue Halfglove",
-      "Green Grave Helmet",
+      "Green Grace Helmet",
       "Purple Osfa Suit (Male)",
       "Purple Osfa Pants (Male)",
       "Purple Valkyrie (Female)",
@@ -11349,7 +10700,6 @@
     "hp": "28000",
     "mp": "350",
     "exp": "1100",
-    "locations": "",
     "drops": [
       "Black Crystal Ore",
       "Steel Ore",
@@ -11391,7 +10741,6 @@
     "hp": "45000",
     "mp": "10000",
     "exp": "2350",
-    "locations": "Party Quest: Mage Mastery Room",
     "drops": [
       "Mana Elixir",
       "Power Elixir",
@@ -11423,16 +10772,6 @@
     "hp": "38000",
     "mp": "5000",
     "exp": "1480",
-    "locations": [
-      "Phantom Forest: Forgotten Path",
-      "Crimsonwood Mountain: Lower Ascent",
-      "Crimsonwood Mountain: Upper Ascent",
-      "Crimsonwood Mountain: Cavern of Fear",
-      "Crimsonwood Mountain: Caven of Pain",
-      "Crimsonwood Mountain: Cavern of Valor",
-      "Crimsonwood Keep: Stormhall",
-      "Party Quest: Mage Mastery Room"
-    ],
     "drops": [
       "Mana Elixir",
       "Power Elixir",
@@ -11468,10 +10807,6 @@
     "hp": "42500",
     "mp": "190",
     "exp": "2000",
-    "locations": [
-      "Aqua Road: Deep Sea Gorge I",
-      "Aqua Road: Deep Sea Gorge II"
-    ],
     "drops": [
       "Lime Powder Bottle",
       "Mana Elixir",
@@ -11517,11 +10852,6 @@
     "hp": "49000",
     "mp": "160",
     "exp": "2100",
-    "locations": [
-      "Leafre: Entrance to Dragon Forest",
-      "Leafre: Dragon Forest I",
-      "Hidden Street: The Hidden Dragon Tomb I"
-    ],
     "drops": [
       "Red Shell",
       "Mana Elixir",
@@ -11559,7 +10889,6 @@
     "hp": "50000",
     "mp": "190",
     "exp": "2100",
-    "locations": "Ludibrium: Warped Path of Time<4>",
     "drops": [
       "Viking Sail",
       "Mana Elixir",
@@ -11609,11 +10938,6 @@
     "hp": "46000",
     "mp": "190",
     "exp": "2200",
-    "locations": [
-      "Aqua Road: Dangerous Sea Gorge I",
-      "Aqua Road: Dangerous Sea Gorge II",
-      "Party Quest: Pirate Mastery Room"
-    ],
     "drops": [
       "Ink Bottle",
       "White Potion",
@@ -11662,7 +10986,6 @@
     "hp": "53000",
     "mp": "200",
     "exp": "2300",
-    "locations": "Ludibrium: Forgotten Path of Time<4>",
     "drops": [
       "Sealed Bottle",
       "White Potion",
@@ -11709,7 +11032,6 @@
     "hp": "50000",
     "mp": "200",
     "exp": "2280",
-    "locations": "Leafre: Dragon Forest II",
     "drops": [
       "Rexton Leather",
       "Mana Elixir",
@@ -11749,7 +11071,6 @@
     "hp": "55000",
     "mp": "200",
     "exp": "2500",
-    "locations": "Leafre: Dragon Forest III",
     "drops": [
       "Strange Egg",
       "Mana Elixir",
@@ -11787,11 +11108,6 @@
     "hp": "49000",
     "mp": "210",
     "exp": "2500",
-    "locations": [
-      "Aqua Road: Dangerous Sea Gorge I",
-      "Aqua Road: Dangerous Sea Gorge II",
-      "Party Quest: Pirate Mastery Room"
-    ],
     "drops": [
       "Butter-Toasted Squid",
       "Mana Elixir",
@@ -11839,13 +11155,6 @@
     "hp": "53000",
     "mp": "210",
     "exp": "2500",
-    "locations": [
-      "Leafre: The Dragon Canyon",
-      "Leafre: Canyon : Crossroad",
-      "Hidden Street: Red Wyvern\u2019s Nest",
-      "Leafre: Wyvern Canyon",
-      "Hidden Street: Leviathan\u2019s Canyon"
-    ],
     "drops": [
       "Wyvern Wing",
       "Mana Elixir",
@@ -11886,7 +11195,6 @@
     "hp": "58000",
     "mp": "220",
     "exp": "2600",
-    "locations": "Hidden Street: Twisted Time",
     "drops": [
       "Gigantic Viking Hat",
       "Mana Elixir",
@@ -11933,7 +11241,6 @@
     "hp": "60000",
     "mp": "220",
     "exp": "2800",
-    "locations": "Hidden Street: Forbidden Time",
     "drops": [
       "Ice Piece",
       "White Potion",
@@ -11980,14 +11287,6 @@
     "hp": "56000",
     "mp": "200",
     "exp": "3000",
-    "locations": [
-      "Leafre: Dragon Forest I",
-      "Leafre: The Burning Forest",
-      "Leafre: The Forest That Disappeared",
-      "Hidden Street: The Hidden Dragon Tomb I",
-      "Hidden Street: The Hidden Dragon Tomb II",
-      "Leafre: Dragon Forest II"
-    ],
     "drops": [
       "Wooden Shoulder Pad",
       "Cornian's Marrow",
@@ -12029,10 +11328,6 @@
     "hp": "56000",
     "mp": "230",
     "exp": "3000",
-    "locations": [
-      "Aqua Road: The Grave of a Wrecked Ship",
-      "Party Quest: Pirate Mastery Room"
-    ],
     "drops": [
       "Shark Denture",
       "Mana Elixir",
@@ -12078,13 +11373,6 @@
     "hp": "57000",
     "mp": "250",
     "exp": "3050",
-    "locations": [
-      "Leafre: The Dragon Canyon",
-      "Canyon : Crossroad",
-      "Hidden Street: Blue Wyvern\u2019s Nest",
-      "Leafre: Wyvern Canyon",
-      "Hidden Street: Leviathan\u2019s Canyon"
-    ],
     "drops": [
       "Wyvern Gill",
       "Mana Elixir",
@@ -12124,10 +11412,6 @@
     "hp": "58500",
     "mp": "240",
     "exp": "3100",
-    "locations": [
-      "Aqua Road: The Grave of a Wrecked Ship",
-      "Party Quest: Pirate Mastery Room"
-    ],
     "drops": [
       "Frozen Shark's Fin",
       "Mana Elixir",
@@ -12175,13 +11459,6 @@
     "hp": "60000",
     "mp": "250",
     "exp": "3150",
-    "locations": [
-      "Leafre: Canyon : East Road",
-      "Leafre: Canyon : West Road",
-      "Leafre: Wyvern Canyon",
-      "Hidden Street: Leviathan\u2019s Canyon",
-      "Leafre: Entrance to Dragon Nest"
-    ],
     "drops": [
       "Wyvern Toenail",
       "Mana Elixir",
@@ -12229,13 +11506,6 @@
     "hp": "67000",
     "mp": "200",
     "exp": "3700",
-    "locations": [
-      "Leafre: Dragon Forest I",
-      "Leafre: The Burning Forest",
-      "Leafre: The Forest That Disappeared",
-      "Hidden Street: The Hidden Dragon Tomb II",
-      "Leafre: Dragon Forest III"
-    ],
     "drops": [
       "Skull Shoulder Pad",
       "Busted Dagger",
@@ -12290,10 +11560,6 @@
     "hp": "68000",
     "mp": "200",
     "exp": "3800",
-    "locations": [
-      "Leafre: Destroyed Dragon Nest",
-      "Leafre: Dangerous Dragon Nest"
-    ],
     "drops": [
       "Egg Shell",
       "Mana Elixir",
@@ -12341,7 +11607,6 @@
     "hp": "68000",
     "mp": "350",
     "exp": "2800",
-    "locations": "Zipangu: Encounter with the Buddha",
     "drops": [
       "Kimono Piece",
       "Mana Elixir",
@@ -12371,7 +11636,6 @@
     "hp": "85000",
     "mp": "350",
     "exp": "5500",
-    "locations": "",
     "drops": [
       "Boss's Pomade",
       "Mana Elixir",
@@ -12404,7 +11668,6 @@
     "hp": "56000",
     "mp": "230",
     "exp": "3200",
-    "locations": "Crimsonwood Mountain: The Path of Peril",
     "drops": [
       "Waffle",
       "Unagi",
@@ -12437,14 +11700,6 @@
     "hp": "70000",
     "mp": "200",
     "exp": "3000",
-    "locations": [
-      "Crimsonwood Mountain: The Path of Strength",
-      "Crimsonwood Mountain: Upper Ascent",
-      "Crimsonwood Mountain: Caven of Honor",
-      "Crimsonwood Mountain: Cavern of Fortitude",
-      "Crimsonwood Mountain",
-      "Cavern of Valor"
-    ],
     "drops": [
       "Power Elixir",
       "Mana Elixir",
@@ -12466,7 +11721,7 @@
       "Scroll for Claw for ATT 10%",
       "Infinity's Wrath"
     ],
-    "notes": "Drops \"Nightshadow Badge\" despite not being listed.",
+    "notes": "Drops \"Nightshadow Badge\" despite not being listed. Immune to Ice attacks.",
     "episode": "Form : Enchanted\n\nOne of the strange soldiers of the Corrupted Army that Jack Barricade documented whilst exploring the Crimsonwood Keep. It seems to mimic the tactics of the ancient Shadowknights, but without finesse. It uses great stealth to slip in and out of the shadows, and delivers devastating blows to its enemies' weak spots.",
     "image": "nightshadow.png"
   },
@@ -12476,15 +11731,6 @@
     "hp": "51000",
     "mp": "500",
     "exp": "2480",
-    "locations": [
-      "Phantom Forest: Haunted Hil",
-      "Phantom Forest: Phantom Road",
-      "Phantom Forest: Forgotten Path",
-      "Phantom Forest: Evil Rising",
-      "Phantom Forest: The Evil Dead",
-      "Crimsonwood Mountain: The Path of Strength",
-      "Party Quest: Mage Mastery Room"
-    ],
     "drops": [
       "Power Elixir",
       "Mana Elixir",
@@ -12501,7 +11747,7 @@
       "Brown Osfa Suit (Male)",
       "Khan"
     ],
-    "notes": "Drops \"Elder Ashes\" and \"Soiled Rags\" despite not being listed.",
+    "notes": "Drops \"Elder Ashes\" and \"Soiled Rags\" despite not being listed. Immune to Ice Attacks.",
     "episode": "Form : Immortal\nSpecial Trait : Vulnerable to Holy Attribute Attacks.\n\nElderwraiths are heroes of the Crimsonwood Keep who were slain in battle, but not given a proper burial. Now, they wander the scarred forest aimlessly, terrorizing anyone who has the misfortune of crossing paths with them. Perhaps, by defeating them, one can set their miserable souls free...?",
     "image": "elderwraith.png"
   },
@@ -12511,10 +11757,9 @@
     "hp": "78000",
     "mp": "200",
     "exp": "4300",
-    "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Devil\nSpecial Trait : -50% Electricity Attribute Damage.\n\nA powerful gate guard that Papulatus summoned to prevent any form of intrusion into the operation room of the Clocktower. It will make everyone and everything shiver in fear should anyone try to step into the warped corridor of the Clocktower.",
     "image": "gatekeeper.png"
   },
   {
@@ -12523,10 +11768,9 @@
     "hp": "70000",
     "mp": "300",
     "exp": "4100",
-    "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Devil\nSpecial Trait : Vulnerable to Sanctity Attribute Attacks. -50% Ice Attribute Damage.\n\nA creature of an alternate dimension that Papulatus summoned to prevent any form of intrusion into the operation room of the Clocktower. It is a wizard of another dimension linked to the Dimensional Schism which attacks intruders using its magic skills.",
     "image": "thanatos.png"
   },
   {
@@ -12535,10 +11779,6 @@
     "hp": "80000",
     "mp": "240",
     "exp": "4500",
-    "locations": [
-      "Leafre: Nest of a Dead Dragon",
-      "Leafre: The Dragon Nest Left Behind"
-    ],
     "drops": [
       "Broken Horn",
       "Mana Elixir",
@@ -12590,11 +11830,6 @@
     "hp": "85000",
     "mp": "250",
     "exp": "4750",
-    "locations": [
-      "Leafre: Nest of a Dead Dragon",
-      "Leafre: The Dragon Nest Left Behind",
-      "Leafre: Peak of the Big Nest"
-    ],
     "drops": [
       "Old Neck Bone",
       "Mana Elixir",
@@ -12646,7 +11881,6 @@
     "hp": "80000",
     "mp": "240",
     "exp": "4450",
-    "locations": "",
     "drops": [
       "Destroyed Nest",
       "Mana Elixir",
@@ -12694,7 +11928,6 @@
     "hp": "120000",
     "mp": "2000",
     "exp": "6000",
-    "locations": "",
     "drops": [
       "Reindeer Milk",
       "Mana Elixir",
@@ -12729,7 +11962,6 @@
     "hp": "2000",
     "mp": "30",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "Form : Mammal\n\nThe oldest snail in Maple World. It has a huge body that has developed over the years and white mustache that suits his old age. He enjoys the morning dew, so one may frequently spot him wandering around to consume the dew on green leaves every morning. If fortunate enough, one can acquire a Rainbow-colored Snail Shell which is said to grant its owner a wish.",
@@ -12741,7 +11973,6 @@
     "hp": "7000",
     "mp": "120",
     "exp": "405",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "Form : Plant\n\nAccording to Winston, who has devoted a good chunk of his life to studying the plateaus of Perion, Perion in ancient times was not a dry and barren land. Rather, he suggests that it was a place of which bountiful forests rivaled those of current Ellinia. The soil in Perion had been saturated with moisture and nutrients in the past, supporting the necessary conditions for huge plants like Stumpy to grow. However, it has turned into a dry land, and Stumpy, which can be considered a legacy of ancient Perion, now survives on what, little, is left of the barren land.",
@@ -12753,7 +11984,6 @@
     "hp": "7700",
     "mp": "200",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -12765,7 +11995,6 @@
     "hp": "7800",
     "mp": "150",
     "exp": "330",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -12777,7 +12006,6 @@
     "hp": "9800",
     "mp": "100",
     "exp": "410",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -12789,7 +12017,6 @@
     "hp": "180000",
     "mp": "200",
     "exp": "1080",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "Form : Fish\n\nA A beautiful blue-shelled crab that has migrated to Florina Beach from the Tropics. It usually hides inside its shell until someone awakens it by tapping its shell. When attacked by its pincers that usually remain hidden inside the shell, one will become temporarily immobile.",
@@ -12801,7 +12028,6 @@
     "hp": "25000",
     "mp": "200",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "Spawns as a shell that must be destroyed to summon the boss. Shell has 4000 HP.",
     "episode": "",
@@ -12813,7 +12039,6 @@
     "hp": "21000",
     "mp": "200",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Clock Spring",
       "Table Clock",
@@ -12875,7 +12100,6 @@
     "hp": "20000",
     "mp": "200",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Mushmom Spore",
       "Scroll for Helmet for DEF 60%",
@@ -12915,7 +12139,6 @@
     "hp": "31000",
     "mp": "200",
     "exp": "810",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -12927,7 +12150,6 @@
     "hp": "35000",
     "mp": "220",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Poisonous Mushroom",
       "Scroll for One-Handed Axe for ATT 60%",
@@ -12957,7 +12179,7 @@
       "Ilbi Throwing-Stars"
     ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Immortal\n\nA mother figure to all Zombie Mushrooms. The Zombie Mushmom harbors a powerful force of darkness; the charm it possesses, which turned the Mushmom into an even more powerful monster, is believed to be the source of its power. It is occasionally found deep inside the Ant Tunnel, shaking the premise by jumping up and throwing its heavy body down to the ground, scaring the adventurers in the underground dungeon.",
     "image": "zombie-mushmom.png"
   },
   {
@@ -12966,7 +12188,6 @@
     "hp": "36000",
     "mp": "300",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -12978,7 +12199,6 @@
     "hp": "89000",
     "mp": "200",
     "exp": "2100",
-    "locations": "",
     "drops": [
       "Three-Tailed Foxtail",
       "Leather",
@@ -13049,10 +12269,9 @@
     "hp": "93000",
     "mp": "200",
     "exp": "2080",
-    "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Mammal\n\nAn apprentice of Mu Lung who had once trained to become a virtuous master, until it harmed a lot of people under the magic spell of the Priest Cat. It has, since then, chosen the path of penance, although it still occasionally harms people due to the lingering spell. Its physique of a trainee and its magic render this monster a difficult enemy to defeat.",
     "image": "tae-roon.png"
   },
   {
@@ -13061,7 +12280,6 @@
     "hp": "108000",
     "mp": "520",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13073,7 +12291,6 @@
     "hp": "50000",
     "mp": "500",
     "exp": "2000",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "Form : Devil\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nAn ancient evil spirit which possesses huge wings and sharp claws. It can be found in the Cursed Sanctuary located deep inside the Sleepywood Dungeon in central Victoria Island. It still remains unknown as to how the Jr. Balrog was released inside the dungeon, but it is no mystery that the Jr. Balrog has high attack rate as well as powerful magic skill that will well exceed your expectation, especially its lethal magic attack called Meteo Magic during which the Balrog drops meteorites it has summoned. It is the most challenging monster to defeat in Victoria Island.",
@@ -13085,7 +12302,6 @@
     "hp": "87000",
     "mp": "320",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Mana Elixir",
       "Wizard Potion",
@@ -13153,7 +12369,6 @@
     "hp": "96000",
     "mp": "350",
     "exp": "3000",
-    "locations": "",
     "drops": [
       "Wires",
       "Plug",
@@ -13208,7 +12423,6 @@
     "hp": "",
     "mp": "",
     "exp": "42300",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13220,7 +12434,6 @@
     "hp": "120000",
     "mp": "300",
     "exp": "5200",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "Form : Mammal\n\nAccording to legend, this Snowman was born between a human and a Snow Spirit. It has the soul of a human but was born with the appearance of a monster which caused him much grief growing up as he was constantly taunted by other humans. The Snow Spirit, who watched Snowman's sad situation, froze up an entire mountain range for Snowman and called it El Nath. Snowman doesn't like humans and hence stays away from them as much as possible, but he'd never attack a human first on his own. However, it will mercilessly attack anyone who breaks the Fragment of the Snow Spirit.",
@@ -13232,7 +12445,6 @@
     "hp": "200000",
     "mp": "190",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13244,7 +12456,6 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13256,7 +12467,6 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13268,7 +12478,6 @@
     "hp": "100000",
     "mp": "500",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "Form : Devil\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nA monster that attacks the ship of adventurers near the continent of Ossyria. It looks similar to the Jr. Balrogs that are found near Victoria Island, but the Crimson Balrogs fly using their huge wings. Some say that the habitat of Crimson Balrogs is an island like Orbis, but such claim has not been confirmed. Due to its force of attack and magic skills that will surpass your expectation, it is suggested that you evade to a safe area rather than hastily attack back should you find yourself in the midst of their attack. They are vulnerable to sanctity attribute.",
@@ -13280,7 +12489,6 @@
     "hp": "",
     "mp": "",
     "exp": "210000",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13292,7 +12500,6 @@
     "hp": "3500000",
     "mp": "5000",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Sunrise Dew",
       "Sorcerer Elixir",
@@ -13314,7 +12521,6 @@
     "hp": "3700000",
     "mp": "1500",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Power Elixir",
       "Elixir",
@@ -13385,7 +12591,6 @@
     "hp": "3700000",
     "mp": "1500",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Power Elixir",
       "Elixir",
@@ -13455,7 +12660,6 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "Summons \"Bloody Boom\" bombs which are stationary and passive. However, they will explode and deal upwards of 9000 damage if they are defeated.",
     "episode": "",
@@ -13467,7 +12671,6 @@
     "hp": "32000000",
     "mp": "10000000",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Stirge Wing",
       "Zombie Teddy Bear",
@@ -13501,7 +12704,6 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13513,7 +12715,6 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13525,7 +12726,6 @@
     "hp": "13400000",
     "mp": "3500",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Wyvern Gill",
       "Wyvern Toenail",
@@ -13573,10 +12773,9 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "All stuns and dispels can be avoided by staying on the top platforms. However, High Darkstar bombs may spawn on the upper platforms and deal upwards of 8000 damage.",
-    "episode": "",
+    "episode": "Form : Enchanted\n\nA monster from another world which landed here as a result of the Dimensional Schism. It may have numerous personalities, but all of those personalities are uniformly evil, having contributed to the progression of the Dimensional Schism with the force of Ludibrium, not to mention how it's turned all the toys of Ludibrium into monsters. They say that Papulatus is increasingly endowed with more and more power from the forces of the other world as the Dimensional Schism grows larger and larger over time.",
     "image": "papulatus.png"
   },
   {
@@ -13585,7 +12784,6 @@
     "hp": "75000000",
     "mp": "10000",
     "exp": "?",
-    "locations": "",
     "drops": [
       "Lady Boss\u2019s Comb",
       "Mana Elixir Pill",
@@ -13620,7 +12818,6 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13632,7 +12829,6 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
     "episode": "",
@@ -13644,10 +12840,9 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Devil\n\nA dormant spirit of the Zakum tree which previously was without any intellect. The tree started to show signs of life while being fueled by the passion-filled energy of the residents of the lava region. The lava region has been known to have survived by only the passions of its residents in the midst of all the darkness, burning flames and heat surrounding the region. Apparently the dark and shady emotions of the humans living in the area have somehow been absorbed by Zakum over time. Zakum used to be a small, neglected tree, but has now grown powerful thanks to the energy of the human residents of the lava region, who have harbored a great force that even exceeds that of humans...",
     "image": "zakum3.png"
   },
   {
@@ -13656,10 +12851,9 @@
     "hp": "",
     "mp": "",
     "exp": "?",
-    "locations": "",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Reptile\n\nThe first dragon that's ever stood up against the dragon chief, Nine Spirit, who was the former ruler over Minar Forest. Horntail assembled an army of evil dragons to create an evil force that instigated the historically-known Dragon War. Horntail seemed to be the more powerful one at the beginning, but Nine Spirit's longstanding experience and wisdom as a leader seemed to overpower Horntail's inexperience. In the end, Horntail broke the Pact between the dragons and Halflings and attacked the Halflings' village, stealing the egg of Nine Spirit which they were protecting. This was a crime that no dragon known as the guardian of order should have committed. Ultimately, Horntail overthrew the reign of Nine Spirit, and the forest was conquered by the demonic servants of Horntail. Since then, no traces of true, honorable dragons could be found in the forest. Horntail, who has three heads and, subsequently, three different minds, is currently hiding in a cave to heal his wounds, and plotting to rule the regions even past Leafre using the egg of Nine Spirit.",
     "image": "horntail.png"
   }
 ]
