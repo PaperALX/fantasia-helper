@@ -42,7 +42,7 @@ fetch(`data/monsters.json?v=${Date.now()}`)
     monsters = data.map(normalizeMonster);
     monsters.forEach(m => monsterMap.set(m.name, m));
 
-    // Build drop map for faster lookup
+    // Build drop map for fast item lookup
     dropMap = {};
     monsters.forEach(m => {
       m.dropsLower.forEach((dLower, i) => {
@@ -70,7 +70,6 @@ function normalizeMonster(m) {
     hp: m.hp || 0,
     mp: m.mp || 0,
     exp: m.exp || 0,
-    locations: Array.isArray(m.locations) ? m.locations : [],
     drops: Array.isArray(m.drops) ? m.drops : [],
     dropsLower: Array.isArray(m.drops) ? m.drops.map(d => d.toLowerCase()) : [],
     notes: m.notes || "",
@@ -79,10 +78,10 @@ function normalizeMonster(m) {
 }
 
 // ==============================
-// AUTOCOMPLETE INPUT HANDLER WITH DEBOUNCE
+// AUTOCOMPLETE INPUT (DEBOUNCED)
 // ==============================
 let debounceTimer;
-searchInput.addEventListener('input', e => {
+searchInput.addEventListener('input', () => {
   clearTimeout(debounceTimer);
   debounceTimer = setTimeout(handleAutocomplete, 150);
 });
@@ -98,12 +97,12 @@ function handleAutocomplete() {
 
   const names = new Set();
 
-  // Check monster names
+  // Match monster names
   monsters.forEach(m => {
     if (m.nameLower.includes(term)) names.add(m.name);
   });
 
-  // Check drops using dropMap (much faster than looping all drops)
+  // Match drops using dropMap
   for (const dropLower in dropMap) {
     if (dropLower.includes(term)) {
       dropMap[dropLower].forEach(m => {
@@ -145,7 +144,6 @@ function handleAutocomplete() {
     li.appendChild(span);
 
     li.onclick = () => chooseItem(li);
-
     fragment.appendChild(li);
   });
 
@@ -174,11 +172,7 @@ searchInput.addEventListener('keydown', e => {
       break;
     case 'Enter':
       e.preventDefault();
-      if (currentIndex >= 0 && currentIndex < items.length) {
-        chooseItem(items[currentIndex]);
-        return;
-      }
-      if (items.length > 0) chooseItem(items[0]);
+      chooseItem(items[currentIndex >= 0 ? currentIndex : 0]);
       break;
   }
 });
@@ -187,7 +181,7 @@ function highlightIndex(newIndex) {
   const items = dropdown.querySelectorAll('li');
   items.forEach(i => i.classList.remove('highlight'));
   currentIndex = newIndex;
-  if (currentIndex >= 0 && currentIndex < items.length) {
+  if (items[currentIndex]) {
     items[currentIndex].classList.add('highlight');
   }
 }
@@ -237,7 +231,6 @@ function showResult(termRaw) {
     return;
   }
 
-  // Use dropMap for fast lookup
   const holders = dropMap[term] || [];
   if (holders.length) {
     renderItem(termRaw, holders);
@@ -249,7 +242,7 @@ function showResult(termRaw) {
 }
 
 // ==============================
-// HELPER: RENDER MONSTER
+// RENDER MONSTER PAGE
 // ==============================
 function renderMonster(monster) {
   resultDiv.innerHTML = `
@@ -276,11 +269,6 @@ function renderMonster(monster) {
       `).join('')}
     </div>
 
-    <p><strong>Locations:</strong></p>
-    <div class="locations">
-      ${monster.locations.map(loc => `<span class="location-chip">${loc}</span>`).join('')}
-    </div>
-
     ${monster.episode ? `
       <div class="episode">
         <div class="episode-text">${monster.episode}</div>
@@ -290,7 +278,7 @@ function renderMonster(monster) {
 }
 
 // ==============================
-// HELPER: RENDER ITEM PAGE
+// RENDER ITEM PAGE
 // ==============================
 function renderItem(termRaw, holders) {
   resultDiv.innerHTML = `
@@ -311,7 +299,7 @@ function renderItem(termRaw, holders) {
 }
 
 // ==============================
-// HELPER: ATTACH CLICK HANDLERS
+// ATTACH CLICK HANDLERS
 // ==============================
 function attachClickHandlers(selector) {
   resultDiv.querySelectorAll(selector).forEach(el => {
