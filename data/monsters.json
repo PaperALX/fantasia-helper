@@ -5162,7 +5162,7 @@
       "Arc Staff"
     ],
     "notes": "",
-    "episode": "",
+    "episode": "A mechanical apparatus built by the alchemists in Magatia. While it is a modified Iron Mutae, it is still a simple machine to build for the novice alchemists in Alcadno.",
     "image": "reinforced-iron-mutae.png"
   },
   {
@@ -6364,7 +6364,7 @@
     "exp": "580",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Spirit\nSpecial Trait : -50% Damage of All Attributes.\n\nThe highest ranking Gray. The Chief Gray oversees all Grays but can rarely be seen, as it usually hides amongst groups of Grays. The Chief Gray is wise and powerful, and it exercises various supernatural powers. It occasionally summons Grays when necessary.",
     "image": "chief-gray.png"
   },
   {
@@ -7177,7 +7177,7 @@
     "exp": "180",
     "drops": "",
     "notes": "",
-    "episode": "",
+    "episode": "Form : Mammal\nSpecial Trait : Vulnerable to Sanctity Attribute Attacks.\n\nA yeti often spotted in the canyons far away from El Nath. They say that the Dark Jr. Yeti is the evil form of the good Jr. Yeti. It is much faster than the Jr. Yeti and is more advanced in terms of attack powers, defense strength, etc.. It is also made of completely different attributes which makes it particularly vulnerable to forces of Sanctity.",
     "image": "dark-jr-yeti.png"
   },
   {
@@ -8178,7 +8178,7 @@
       "Red Shouldermail (Female)",
       "Red Shouldermail Pants (Female)",
       "Orange Calas (Male)",
-      "Brown Sontata",
+      "Brown Sonata",
       "Brown China (Male)",
       "Brown China Pants (Male)",
       "Orihalcon Camel Boots",
@@ -12019,7 +12019,7 @@
     "exp": "1080",
     "drops": "",
     "notes": "",
-    "episode": "Form : Fish\n\nA A beautiful blue-shelled crab that has migrated to Florina Beach from the Tropics. It usually hides inside its shell until someone awakens it by tapping its shell. When attacked by its pincers that usually remain hidden inside the shell, one will become temporarily immobile.",
+    "episode": "",
     "image": "giant-centipede.png"
   },
   {
@@ -12030,7 +12030,7 @@
     "exp": "?",
     "drops": "",
     "notes": "Spawns as a shell that must be destroyed to summon the boss. Shell has 4000 HP.",
-    "episode": "",
+    "episode": "Form : Fish\n\nA A beautiful blue-shelled crab that has migrated to Florina Beach from the Tropics. It usually hides inside its shell until someone awakens it by tapping its shell. When attacked by its pincers that usually remain hidden inside the shell, one will become temporarily immobile.",
     "image": "king-clang.png"
   },
   {
