@@ -6,6 +6,12 @@ let monsterMap = new Map(); // O(1) lookup by monster name
 let dropMap = {};           // dropNameLower -> array of monsters
 
 // ==============================
+// BACK BUTTON HISTORY
+// ==============================
+let historyStack = [];
+let currentResult = null;
+
+// ==============================
 // RANDOMIZE HEADER IMAGES
 // ==============================
 document.addEventListener('DOMContentLoaded', () => {
@@ -32,6 +38,22 @@ function randomizeHeaderImages() {
 const searchInput = document.getElementById('search');
 const dropdown = document.getElementById('dropdown');
 const resultDiv = document.getElementById('result');
+
+
+// ==============================
+// BACK BUTTON
+// ==============================
+const backButton = document.getElementById('backButton');
+
+backButton.addEventListener('click', () => {
+  if (!historyStack.length) return;
+
+  const previous = historyStack.pop();
+  showResult(previous, true);
+
+  backButton.style.display = historyStack.length === 0 ? 'none' : 'inline-block';
+
+});
 
 // ==============================
 // LOAD MONSTER DATA & BUILD DROP MAP
@@ -219,8 +241,25 @@ function itemToFilename(itemName) {
 // ==============================
 // SHOW RESULT
 // ==============================
-function showResult(termRaw) {
+function showResult(termRaw, fromHistory = false) {
   window.scrollTo(0, 0);
+
+  // Save current result before navigating
+  if (!fromHistory && currentResult !== null && currentResult !== termRaw) {
+  historyStack.push(currentResult);
+}
+
+
+  currentResult = termRaw;
+
+backButton.style.display = historyStack.length === 0 ? 'none' : 'inline-block';
+
+
+  // Clear search UI
+  searchInput.value = '';
+  dropdown.style.display = 'none';
+  currentIndex = -1;
+
   const term = termRaw.toLowerCase();
   resultDiv.innerHTML = '';
 
@@ -240,6 +279,7 @@ function showResult(termRaw) {
 
   resultDiv.innerHTML = `<p>No results found for "${termRaw}"</p>`;
 }
+
 
 // ==============================
 // RENDER MONSTER PAGE
