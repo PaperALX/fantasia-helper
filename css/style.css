@@ -368,3 +368,48 @@ h2 {
   object-fit: contain;
   flex-shrink: 0;
 }
+
+/* =========================================================
+   BACK BUTTON STYLING (REFINED)
+   ========================================================= */
+.back-button {
+  display: none; /* JS controls visibility */
+  margin: 6px 0 0px 0;
+  padding: 6px 12px;
+
+  font-size: 1rem;
+  font-family: inherit;
+
+  background: #f6e8d8;
+  color: #2c2c2c;
+
+  border: 2px solid #d4b57f;
+  border-radius: 8px;
+
+  box-shadow:
+    0 0 0 2px #ffffff inset,
+    0 2px 4px rgba(0,0,0,0.2);
+
+  transition:
+    transform 0.1s ease,
+    box-shadow 0.1s ease;
+}
+
+.back-button:hover {
+  transform: scale(1.03);
+  box-shadow:
+    0 0 0 2px #ffffff inset,
+    0 3px 6px rgba(0,0,0,0.3);
+}
+
+.back-button:active {
+  transform: scale(0.98);
+  box-shadow:
+    0 0 0 2px #ffffff inset,
+    0 1px 3px rgba(0,0,0,0.25);
+}
+/* If it comes right after the back button, don’t add extra top margin */
+.back-button + .result h2,
+.back-button + .result .monster-header {
+  margin-top: 8px;
+}
