@@ -413,3 +413,10 @@ h2 {
 .back-button + .result .monster-header {
   margin-top: 8px;
 }
+
+/* Dont change cursor on back button hover */
+.back-button,
+.back-button:hover,
+.back-button:active {
+  cursor: url('../background/cursor.png') 0 0, auto;
+}
