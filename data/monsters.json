@@ -5477,9 +5477,28 @@
     "hp": "1900",
     "mp": "100",
     "exp": "88",
-    "drops": "",
+    "drops": [
+      "Red Bubble",
+      "Garnet Ore",
+      "Bronze Ore",
+      "Gold Ore",
+      "Wisdom Crystal Ore",
+      "Dark Shadow (Male)",
+      "Dark Shadow Pants (Female)",
+      "Emerald Dome",
+      "Skull Earrings",
+      "Brown Guiltian",
+      "Scroll for Helmet for HP 60%",
+      "Scroll for Overall Armor for DEX 10%",
+      "Lunar Shooter",
+      "Cutlus",
+      "Jeweled Katar",
+      "Fireman\u2019s Axe",
+      "Metal Bar",
+      "Yellow Umbrella"
+    ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Inorganic\nSpecial Trait : -50% Fire Attribute Damage. Vulnerable to Ice Attribute Attacks.\n\nOne of the milk tea monsters wandering in the Night Market area. Its level is not too high, but it is good at long-distance attacks, and will spit our pearls to attack the enemy.",
     "image": "red-bubble-tea.png"
   },
   {
@@ -8018,7 +8037,29 @@
     "hp": "6000",
     "mp": "400",
     "exp": "280",
-    "drops": "",
+    "drops": [
+      "Mushroom Doll",
+      "Elixir",
+      "Wizard Potion",
+      "The Summoning Rock",
+      "Mokbi Throwing-Stars",
+      "Red Cross Shield",
+      "Red Magic Cape",
+      "Red Anakarune (Female)",
+      "Blue Anakarune (Female)",
+      "Holy Cross Earrings",
+      "Brown Royce",
+      "Scroll for Staff for Magic Att. 60%",
+      "Scroll for Crossbow for ATT 10%",
+      "The Shining",
+      "Scroll for Gun for ATT 10%",
+      "Golden River",
+      "Bronze Gigantic",
+      "Shinkita",
+      "Psycho Claw",
+      "Jacker",
+      "Star Rock"
+    ],
     "notes": "",
     "episode": "Form : Inorganic\n\nThe transformed, second form of the Claw Machine. It has come to life, and has begun to move, and its vitality and magic powers have increased significantly. Players must be very careful when crossing it.",
     "image": "doll-vending-machine.png"
@@ -10187,7 +10228,7 @@
       "Blood Camel Boots",
       "Blue Nightfox",
       "Bloody Platina (Female)",
-      "Blood Platine Pants (Female)",
+      "Blood Platina Pants (Female)",
       "Blue Linnex (Male)",
       "Brown Lorin",
       "Gold Ancient Shield",
@@ -11521,7 +11562,7 @@
       "Scroll for One-Handed Sword for ATT 10%",
       "Scroll for Shield for DEF 10%"
     ],
-    "notes": "",
+    "notes": "Resists Fire. Weak to Lightning.",
     "episode": "Form : Devil\n\nThere are particular entities that linger the infinitude of the space-time continuum, where no ordinary creature can reach by ordinary means; Gigantic Spirit Viking is one of them. The Spirit Viking has reached the Clocktower while wandering in the lost time, and wishes to go back to the world from which it came. It wears a flag on its back to find its lost family and attacks any person it encounters, believing that people are responsible for the confusion which the Temporal Schism has created.",
     "image": "gigantic-spirit-viking.png"
   },
@@ -11608,7 +11649,7 @@
       "Shiny Bullet",
       "[Mastery Book] Energy Orb 30"
     ],
-    "notes": "Cornian's Marrow is in the drop list but only appears when the secret medicine quest is active",
+    "notes": "Cornian's Marrow is in the drop list but only appears when the secret medicine quest is active.",
     "episode": "Form : Reptile\nSpecial Trait : -50% Poison Attribute Damage.\n\nA ferocious dragon that lives in the Dragon Canyon. It is of the middle rank in the family of dragons, and its notable traits include high intelligence level and useful limbs that can freely move. With its threatening horn and soft skin, as well as long legs, this monster is physically strong; however, its flexibility and adaptability in using human tools to attack is one of the unique characteristics that render this monster a formidable enemy to defeat. People claim that the family of Green Cornians are the closest to humans.",
     "image": "green-cornian.png"
   },
@@ -12461,7 +12502,7 @@
       "Mr. Rasfelt",
       "Serpent\u2019s Tongue"
     ],
-    "notes": "",
+    "notes": "Inflicts darkness (lower accuracy).",
     "episode": "Form : Fish\n\nA gigantic clam that likes to hide. It is shy and reserved, but desires to satiate its vanity by coloring its shell with bright colors. It is not very fond of crowd, and will attack by ejecting its pearl when disturbed. A recent rumor has it that a prince picked up the said pearl which led him to a windfall gain.",
     "image": "seruf.png"
   },
@@ -13221,7 +13262,7 @@
       "Scroll for Two-Handed BW for Accuracy 60%",
       "Hwabi Throwing-Stars"
     ],
-    "notes": "",
+    "notes": "Not confirmed but I believe the encounter rate for this enemy while traveling by Orbis/Ellinia boat is 40%.",
     "episode": "Form : Devil\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nA monster that attacks the ship of adventurers near the continent of Ossyria. It looks similar to the Jr. Balrogs that are found near Victoria Island, but the Crimson Balrogs fly using their huge wings. Some say that the habitat of Crimson Balrogs is an island like Orbis, but such claim has not been confirmed. Due to its force of attack and magic skills that will surpass your expectation, it is suggested that you evade to a safe area rather than hastily attack back should you find yourself in the midst of their attack. They are vulnerable to sanctity attribute.",
     "image": "crimson-balrog.png"
   },
@@ -13424,8 +13465,8 @@
     "mp": "3000000",
     "exp": "?",
     "drops": "",
-    "notes": "Summons \"Bloody Boom\" bombs which are stationary and passive. However, they will explode and deal upwards of 9000 damage if they are defeated. Bombs are immune to Lightning and Fire.",
-    "episode": "",
+    "notes": "The monster book entry seems to only show data for Right Pianus and not Left Pianus. Summons \"Bloody Boom\" bombs which are stationary and passive. However, they will explode and deal upwards of 9000 damage if they are defeated. Bombs are immune to Lightning and Fire.",
+    "episode": "Form : Fish\nSpecial Trait : Vulnerable to Fire Attribute Attacks.\n\nA ferocious fish monster that lives in the cave under the ocean. It sticks its head out from a tiny hole in the cave, which is why its size remains a mystery. Some suspect that this monster has not fully come out of the cave because it's stuck, but no evidences support such a rumor. Although it does not move, it is the king of the deep sea that attacks by shooting a laser beam out of its mouth.",
     "image": "pianus.png"
   },
   {
