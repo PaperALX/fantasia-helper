@@ -5243,7 +5243,7 @@
       "Scroll for Dagger for ATT 10%",
       "Blue Moon Earring"
     ],
-    "notes": "",
+    "notes": "Not weak to Holy in this version. Only has Lightning weakness.",
     "episode": "Form : Devil\nSpecial Trait : Vulnerable to Lightning Attribute Attacks.\n\nWild fox whose cause of death remains unknown. What is known is that is has absorbed the power of darkness and has come back to life. Just like before its death, it wears a leaf on its forehead that it can use to perform magic.",
     "image": "dark-cloud-fox.png"
   },
@@ -8081,7 +8081,7 @@
       "Tobi Throwing-Stars"
     ],
     "notes": "",
-    "episode": "",
+    "episode": "Form : Mammal\n\nThe editor-in-chief of Orange News. Like to ride a heavy motorcycle in a majestic and pompous manner. News of any size must be reviewed by him, and news that is not spicy enough will be rejected by him. The car ran over, and even the vicious paparazzi had to give in three points when they saw him\u2026.",
     "image": "biker-monkey.png"
   },
   {
@@ -8444,7 +8444,7 @@
       "Gold Moon Shoes",
       "Dark Calaf (Female)"
     ],
-    "notes": "",
+    "notes": "Shares the exact same episode lore as Crimson Tree.",
     "episode": "Form : Plant\nSpecial Trait : Vulnerable to Fire Attribute Attacks.\n\nThe Crimson Trees are all that remain of the once beloved tres that made up the Crimsonwood Forest. After the war between the Keep and the Krakians, the trees became haunted by the spirits of Krakians who sought refuge in them. By cutting down the trees, and taking their seeds, perhaps one can help cleanse the forest of this terrible curse\u2026?",
     "image": "phantom-tree.png"
   },
@@ -10416,7 +10416,7 @@
       "Scroll for Dagger for ATT 60%",
       "Beia Crash"
     ],
-    "notes": "Drops \"Windraider Badge\" despite not being listed.",
+    "notes": "Auto-aggressive. Attack range is increased on Fantasia. Drops \"Windraider Badge\" despite not being listed.",
     "episode": "Form : Enchanted\n\nOne of the strange soldiers of the Corrupted Army that Jack Barricade documented whilst exploring the Crimsonwood Keep. It seems to mimic the tactics of the ancient Windreavers, but without finesse. It uses a crossbow and strange magics to deliver very powerful attacks on anyone who gets too close.",
     "image": "windraider.png"
   },
@@ -10426,9 +10426,18 @@
     "hp": "3500",
     "mp": "50",
     "exp": "122",
-    "drops": "",
-    "notes": "",
-    "episode": "",
+    "drops": [
+      "Sap of Ancient Tree",
+      "Power Elixir",
+      "Black Crystal Ore",
+      "Garnet Ore",
+      "The Magic Rock",
+      "Black Voyson Shoes",
+      "Dark Lorin",
+      "Dark Elf Shoes"
+    ],
+    "notes": "Shares the exact same episode lore as Phantom Tree.",
+    "episode": "Form : Plant\nVulnerable to Fire Attribute Attacks.\n\nThe Crimson Trees are all that remain of the once beloved trees that made up the Crimsonwood Forest. These red trees are a particularly resilient specimen of the Crimson Tree family. After the war between the Keep and the Krakians, the trees became haunted by the spirits of Krakians who sought refuge in them. By cutting down the trees, and taking their seeds, perhaps one can help cleanse the forest of this terrible curse\u2026?",
     "image": "crimson-tree.png"
   },
   {
@@ -12490,7 +12499,7 @@
       "Scroll for Claw for ATT 10%",
       "Infinity's Wrath"
     ],
-    "notes": "Drops \"Nightshadow Badge\" despite not being listed. Immune to Ice attacks. And immune to poison? (needs confirmation)",
+    "notes": "Auto-aggressive. Drops \"Nightshadow Badge\" despite not being listed. Immune to Ice attacks. And immune to poison? (needs confirmation)",
     "episode": "Form : Enchanted\n\nOne of the strange soldiers of the Corrupted Army that Jack Barricade documented whilst exploring the Crimsonwood Keep. It seems to mimic the tactics of the ancient Shadowknights, but without finesse. It uses great stealth to slip in and out of the shadows, and delivers devastating blows to its enemies' weak spots.",
     "image": "nightshadow.png"
   },
@@ -12739,6 +12748,7 @@
       "Arrow for Crossbow",
       "Blue Snail Shell",
       "Red Snail Shell",
+      "Sunrise Dew",
       "Snail Shell",
       "Bronze Ore",
       "Garnet Ore",
@@ -13531,7 +13541,47 @@
     "hp": "50000",
     "mp": "500",
     "exp": "2000",
-    "drops": "",
+    "drops": [
+      "Power Elixir",
+      "Elixir",
+      "Black Crystal",
+      "Scroll for One-Handed Sword for ATT 60%",
+      "Scroll for One-Handed Axe for ATT 60%",
+      "Scroll for One-Handed BW for ATT 60%",
+      "Scroll for Dagger for ATT 60%",
+      "Scroll for Wand for Magic Att. 60%",
+      "Scroll for Staff for Magic Att. 60%",
+      "Scroll for Two-handed Sword for ATT 60%",
+      "Scroll for Two-handed Axe for ATT 60%",
+      "Scroll for Two-handed BW for ATT 60%",
+      "Scroll for Spear for ATT 60%",
+      "Scroll for Pole Arm for ATT 60%",
+      "Scroll for Bow for ATT 60%",
+      "Scroll for Crossbow for ATT 60%",
+      "Scroll for Claw for ATT 60%",
+      "Gross Jaeger",
+      "Doombringer",
+      "The Judgement",
+      "Brown Scarab",
+      "The Gold Dragon",
+      "Kandine",
+      "Red Hinkel",
+      "Evil Wings",
+      "Mikhail",
+      "Gigantic Sledge",
+      "Redemption",
+      "Red Katana",
+      "Golden River",
+      "Chrono",
+      "Silver Ancient Shield",
+      "Scroll for Knuckle for ATT 60%",
+      "Scroll for Gun for ATT 60%",
+      "Scroll for Topwear for STR 10%",
+      "Scroll for Bottomwear for HP 10%",
+      "Abyss Shooter",
+      "Beia Crash",
+      "Hwabi Throwing-Stars"
+    ],
     "notes": "",
     "episode": "Form : Devil\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nAn ancient evil spirit which possesses huge wings and sharp claws. It can be found in the Cursed Sanctuary located deep inside the Sleepywood Dungeon in central Victoria Island. It still remains unknown as to how the Jr. Balrog was released inside the dungeon, but it is no mystery that the Jr. Balrog has high attack rate as well as powerful magic skill that will well exceed your expectation, especially its lethal magic attack called Meteo Magic during which the Balrog drops meteorites it has summoned. It is the most challenging monster to defeat in Victoria Island.",
     "image": "jr-balrog.png"
