@@ -5658,7 +5658,7 @@
       "Chocolate",
       "Garnet Ore",
       "Steel Ore",
-      "Wolbi Throwing Stars",
+      "Wolbi Throwing-Stars",
       "Red Amoria Skirt (Female)",
       "Blue Amoria Skirt (Female)",
       "Green Pole-Feather Hat",
@@ -11078,7 +11078,7 @@
       "Red Pireta Hat",
       "Black Giles Cape"
     ],
-    "notes": "Only spawns when Bombing Fish House (Lv 90) is destroyed. Bombing Fish House resists Ice, Lightning, Poison, and Fire.\n\nThe fish house gives no exp, but can drop a maple leaf. Locations tab is empty for this monster, probably because it doesn't spawn naturally.",
+    "notes": "Only spawns when Bombing Fish House (Lv 90) is destroyed. Monster book text says it is weak to Ice but it is not, it only has Fire resistance and nothing else. Bombing Fish House resists Ice, Lightning, Poison, and Fire.\n\nThe fish house gives no exp, but can drop a maple leaf. Locations tab is empty for this monster, probably because it doesn't spawn naturally.",
     "episode": "Form : Fish\nSpecial Trait : -50% Fire Attribute Damage. Vulnerable to Ice Attribute Attacks.\n\nA fish monster that lived in the deep waters of Aqua Road. It used to fear just about everything, which explains its notable tendency to hide in its comfort zone. However, since the weakening of the purifying force of Aqua Road, even the young gobies have turned violent. A school of quick and tiny Gobies will attack any intruders who wreck their habitat.",
     "image": "goby.png"
   },
@@ -12501,7 +12501,7 @@
       "Kinoko Ramen(roasted pork)",
       "Elixir",
       "Crystal Flower Earrings",
-      "Orange",
+      "Orange Throwing-Stars",
       "White Justice Cape",
       "Steel Ancient Shield",
       "Green Scarab",
@@ -12825,7 +12825,7 @@
       "Brown Osfa Suit (Male)",
       "Khan"
     ],
-    "notes": "Drops \"Elder Ashes\" and \"Soiled Rags\" despite not being listed. Immune to Ice Attacks.",
+    "notes": "Drops \"Elder Ashes\" and \"Soiled Rags\" despite not being listed. Immune to Ice Attacks. Does not have invincibility frames upon being hit on Fantasia.",
     "episode": "Form : Immortal\nSpecial Trait : Vulnerable to Holy Attribute Attacks.\n\nElderwraiths are heroes of the Crimsonwood Keep who were slain in battle, but not given a proper burial. Now, they wander the scarred forest aimlessly, terrorizing anyone who has the misfortune of crossing paths with them. Perhaps, by defeating them, one can set their miserable souls free...?",
     "image": "elderwraith.png"
   },
@@ -14597,7 +14597,7 @@
       "[Mastery Book] Dragon Strike 30",
       "[Mastery Book] Rapid Fire 20"
     ],
-    "notes": "",
+    "notes": "Able to stun, dispel, and 1/1 the player.",
     "episode": "Form : Reptile\nSpecial Trait : -50% Fire Attribute Damage. Vulnerable to Ice Attribute Attacks.\n\nAn evil monster of the dragon family that lives in Manon's Forest. It is considered a high-ranking dragon, boasting various magic skills as well as high level of intelligence. Its physical strength also contributes to the challenge for adventurers battling against this monster, as it is covered by a firm outer layer and has a breath that can melt even the toughest metals. It can also fly using its small wings. The Manons had an amicable relationship with the Halflings, but for an unknown reason, they have become hostile towards one another.",
     "image": "manon.png"
   },
@@ -14666,7 +14666,7 @@
       "[Mastery Book] Energy Orb 30",
       "[Mastery Book] Demolition 20"
     ],
-    "notes": "",
+    "notes": "Able to stun, dispel, and 1/1 the player.",
     "episode": "Form : Mammal\nSpecial Trait : -50% Electricity Attribute Damage. Vulnerable to Poison Attribute Attacks.\n\nA strange race of creatures that live in Griffey Forest. They have a body of a unicorn, eagle's wings, and the tail of a lion. They rival the strength of the dignified dragons, and they have set their nests in Leafre, which is considered to be the land of the dragons. As a race of high intelligence level and respect, the Griffeys, according to a legend, are said to be loyal to heroes.",
     "image": "griffey.png"
   },
@@ -14793,7 +14793,7 @@
       "Strawberry Earrings",
       "[Mastery Book] Hypnotize 20"
     ],
-    "notes": "Drops \"Bigfoot's Toe\" despite not being listed. The stomp attack has increased power on Fantasia and will hit for 7000+ damage instead of 1 damage. Immune to Ice and Holy. Weak to Fire.",
+    "notes": "Immune to Ice and Holy. Weak to Fire. Drops \"Bigfoot's Toe\" despite not being listed. The stomp attack has increased power on Fantasia and will hit for 7000+ damage instead of 1 damage. This enemy has no invincibility frames on Fantasia, making it OK to hunt in a party.",
     "episode": "Form : Mammal\nSpecial Trait : Vulnerable to Fire Attribute Attacks.\n\nTough enough to stomp 160 Heros, 100 Nightlords, 80 Arch Mages, 190 Paladins, 90 Bowmasters, 110 Marksmen, 50 Shadowers\u2026 pretty much everyone Lita Lawless sent after it\u2026 the Bigfoot is an enormous sasquatch, named after its especially large, well, feet. Some suspect the creature is peaceful in nature, and is just being fooled into mischief by a malicious trickster.",
     "image": "bigfoot.png"
   },
@@ -14803,7 +14803,10 @@
     "hp": "17000000",
     "mp": "150000",
     "exp": "150000",
-    "drops": "Rubian",
+    "drops": [
+      "Rubian",
+      ""
+    ],
     "notes": "Resists every element. HP is edited to be higher. 17m HP in Fantasia vs 1.7m HP in vanilla. While not listed in the book, he sometimes drops Ergoth's Jawbone.",
     "episode": "",
     "image": "ergoth.png"
@@ -14884,7 +14887,7 @@
     "level": "125",
     "hp": "23000000",
     "mp": "2000000",
-    "exp": "50000",
+    "exp": "596000",
     "drops": [
       "Reindeer Milk",
       "Sunset Dew",
@@ -14946,7 +14949,7 @@
       "Scroll for Topwear for HP 60%",
       "Scroll for Knuckle for Accuracy 10%"
     ],
-    "notes": "All stuns and dispels can be avoided by staying on the top platforms. However, High Darkstar bombs may spawn on the upper platforms and deal upwards of 8000 damage.\n\nFirst form has 23,000,000 HP giving 50,000 EXP and second form has 1,590,000 HP giving 970,000 EXP.",
+    "notes": "All stuns and dispels can be avoided by staying on the top platforms. However, High Darkstar bombs may spawn on the upper platforms and deal upwards of 8000 damage.\n\nFirst form has 23,000,000 HP giving 596,000 EXP and second form has 1,590,000 HP giving 970,000 EXP.",
     "episode": "Form : Enchanted\n\nA monster from another world which landed here as a result of the Dimensional Schism. It may have numerous personalities, but all of those personalities are uniformly evil, having contributed to the progression of the Dimensional Schism with the force of Ludibrium, not to mention how it's turned all the toys of Ludibrium into monsters. They say that Papulatus is increasingly endowed with more and more power from the forces of the other world as the Dimensional Schism grows larger and larger over time.",
     "image": "papulatus.png"
   },
