@@ -6943,8 +6943,7 @@
       "Emerald Dome",
       "Dagger Forging Stimulator",
       "Red Choro (Female)",
-      "Red Polyfeather Hat",
-      ""
+      "Red Polyfeather Hat"
     ],
     "notes": "",
     "episode": "Form : Mammal\nSpecial Trait : -50% Electricity Attribute Damage. Vulnerable to Ice Attribute Attacks.\n\nA form that a full grown Jr. Lioner takes. It can be found in the Garden of Yellow in Orbis, and this mature Lioner charges all of its lightning attribute, using the horn on its head to attack. This monster is highly resistant to attacks of lightning attribute. Let's try defeating the Lioner using attacks of ice attribute.",
@@ -14804,8 +14803,7 @@
     "mp": "150000",
     "exp": "150000",
     "drops": [
-      "Rubian",
-      ""
+      "Rubian"
     ],
     "notes": "Resists every element. HP is edited to be higher. 17m HP in Fantasia vs 1.7m HP in vanilla. While not listed in the book, he sometimes drops Ergoth's Jawbone.",
     "episode": "",
@@ -15020,7 +15018,7 @@
       "Scroll for Shoes for Jump 60%",
       "Scroll for Topwear for STR 60%"
     ],
-    "notes": "This boss cannot hit the platform below him, making the entire bottom layer a safespot. If you decide not to use this then he may use a close-range attack that deals over 6000 damage.",
+    "notes": "Has a close-range attack that deals over 6000 damage.",
     "episode": "",
     "image": "scarlet-monk.png"
   },
