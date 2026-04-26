@@ -4386,7 +4386,7 @@
       "Buck",
       "Scroll for Gloves for ATT 60%"
     ],
-    "notes": "",
+    "notes": "Despite the monster book saying this resists Ice and Fire, it actually has no elemental weakness or resistance it all. Neutral to all elements but will still take damage from Cleric Heal.",
     "episode": "Form : Spirit\nSpecial Trait : -50% Ice Attribute Damage. -50% Fire Attribute Damage.\n\nIt once was a useful creature that told time, until the time stopped ticking in Ludibrium and all the wall clocks were thrown away. A force of darkness that loomed over the crack in time and space contiuum consumed the wall clocks, turning them into monsters controlled by the cursed windup spring. As the force still lingers, you can feel the cold air even when you're just near this monster. They are much stronger than regular Chronos.",
     "image": "platoon-chronos.png"
   },
@@ -14805,8 +14805,8 @@
     "drops": [
       "Rubian"
     ],
-    "notes": "Resists every element. HP is edited to be higher. 17m HP in Fantasia vs 1.7m HP in vanilla. While not listed in the book, he sometimes drops Ergoth's Jawbone.",
-    "episode": "",
+    "notes": "Custom elemental weakness for Fantasia. He has no resistances and is weak to Holy. Both Lion and Knight statues are weak to Ice and resist Holy. HP is edited to be higher. 17m HP in Fantasia vs 1.7m HP in vanilla. While not listed in the book, he sometimes drops Ergoth's Jawbone.",
+    "episode": "Form : Immortal\nSpecial Trait : Vulnerable to Holy Attribute Attacks.\n\nSharen III, the ruler of the great empire that once existed in the highlands known as Sharenian, called out this evil spirit to guard the legendary jewel, Rubian. Ergoth, whom Sharen III revived, betrayed Sharen III by using the power of Rubian to destroy Sharenian and building his own empire on top of the remains. After a long time passed, the ruins of Sharenian was discovered, and the people who went inside to explore laid their hands on Rubian; this awakened Ergoth, who had been asleep for a long time.",
     "image": "ergoth.png"
   },
   {
@@ -15062,8 +15062,8 @@
       "Scroll for Cape for DEX 60%",
       "Scroll for Cape for STR 60%"
     ],
-    "notes": "",
-    "episode": "",
+    "notes": "Bodyguard A is weak to Fire. Bodyguard B is weak to Ice. The Boss is weak to Fire.",
+    "episode": "Type: Human\nSpecial Trait : Vulnerable to Fire Attribute Attacks.\n\nThe underworld elder. Merely a vicious old man at a glance, but in face he is a very old tanuki monster that takes the shape of a human. He is especially adept at deception and lies, and after deceiving the people around Showa Town, he managed to establish the Flaming Raccoon Finance, which then began to exploit the financial situation of the villagers of Showa Town\u2026",
     "image": "the-boss.png"
   },
   {
