@@ -18,13 +18,13 @@
 ## 🖼 Images of the site
 
 <p align="center">
-  <img src="./background/preview1.png" width="45%" />
-  <img src="./background/preview2.png" width="45%" />
+  <img src="./background/preview1.png"/>
+  <img src="./background/preview2.png"/>
 </p>
 
 <p align="center">
-  <img src="./background/preview3.png" width="45%" />
-  <img src="./background/preview4.png" width="45%" />
+  <img src="./background/preview3.png"/>
+  <img src="./background/preview4.png"/>
 </p>
 
 ## 💡 Why FantasiaHelper?
