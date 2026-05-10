@@ -1,32 +1,29 @@
-function calculateRequiredAccuracy(playerLevel, monsterLevel, monsterEva) {
+function getAcc100(monsterLevel, monsterAvoid, playerLevel) {
 
-  let D = monsterLevel - playerLevel;
-  if (D < 0) D = 0;
+  let diff = monsterLevel - playerLevel;
+  if (diff < 0) diff = 0;
 
-  const avoid = monsterEva <= 0 ? 1 : monsterEva;
-
-  const requiredAccuracy =
-    101 * (1.84 + 0.07 * D) * avoid;
-
-  return requiredAccuracy;
+  return (55.2 + 2.15 * diff) * (monsterAvoid / 15.0);
 }
 
-function calculateHitRate(playerLevel, playerAccuracy, monsterLevel, monsterEva) {
+function calculateHitRate(playerAccuracy, acc100) {
 
-  let D = monsterLevel - playerLevel;
-  if (D < 0) D = 0;
+  const acc1 = acc100 * 0.5 + 1;
 
-  const avoid = monsterEva <= 0 ? 1 : monsterEva;
+  const AccPart = (playerAccuracy - acc1 + 1) / (acc100 - acc1 + 1);
 
-  const hitRate =
-    (playerAccuracy / ((1.84 + 0.07 * D) * avoid)) - 1;
+  let hitRate =
+    (-0.7011618132 * Math.pow(AccPart, 2)) +
+    (1.702139835 * AccPart);
+
+  hitRate *= 100;
 
   return Math.max(0, Math.min(100, hitRate));
 }
 
 let monsters = {};
 
-// DOM elements (IMPORTANT)
+// DOM elements
 const monsterSelect = document.getElementById("monsterSelect");
 const monsterInfo = document.getElementById("monsterInfo");
 const monsterImage = document.getElementById("monsterImage");
@@ -65,31 +62,30 @@ function updateCalculator() {
     <p>EVA: ${monster.eva}</p>
   `;
 
-  // Hit rate
-  const hitRate = calculateHitRate(
-    playerLevel,
-    playerAccuracy,
+  // Calculate acc100
+  const acc100 = getAcc100(
     monster.level,
-    monster.eva
+    monster.eva,
+    playerLevel
   );
 
+  // Calculate hit rate
+  const hitRate = calculateHitRate(
+    playerAccuracy,
+    acc100
+  );
+
+  // Display results
   hitRateDisplay.innerHTML = `
     <h3>Hit Rate: ${hitRate.toFixed(2)}%</h3>
   `;
 
-  // Required accuracy
-  const requiredAccuracy = calculateRequiredAccuracy(
-    playerLevel,
-    monster.level,
-    monster.eva
-  );
-
   requiredAccuracyDisplay.innerHTML = `
-    <h3>Accuracy Needed for 100%: ${requiredAccuracy.toFixed(2)}</h3>
+    <h3>Accuracy Needed for 100%: ${Math.round(acc100)}</h3>
   `;
 }
 
-// Load JSON
+// Load monsters
 fetch("monsterEVA.json")
   .then(response => response.json())
   .then(data => {
@@ -108,7 +104,7 @@ fetch("monsterEVA.json")
       monsterSelect.appendChild(option);
     }
 
-    // Event listeners
+    // Auto-update events
     monsterSelect.addEventListener("change", updateCalculator);
     playerLevelInput.addEventListener("input", updateCalculator);
     playerAccuracyInput.addEventListener("input", updateCalculator);
