@@ -1,0 +1,2792 @@
+{
+  "100100": {
+    "name": "Snail",
+    "level": 1,
+    "eva": 0
+  },
+  "100101": {
+    "name": "Blue Snail",
+    "level": 2,
+    "eva": 0
+  },
+  "1110100": {
+    "name": "Green Mushroom",
+    "level": 15,
+    "eva": 5
+  },
+  "1110101": {
+    "name": "Dark Stump",
+    "level": 10,
+    "eva": 0
+  },
+  "1120100": {
+    "name": "Octopus",
+    "level": 12,
+    "eva": 4
+  },
+  "1130100": {
+    "name": "Axe Stump",
+    "level": 17,
+    "eva": 5
+  },
+  "1140100": {
+    "name": "Ghost Stump",
+    "level": 19,
+    "eva": 10
+  },
+  "120100": {
+    "name": "Shroom",
+    "level": 2,
+    "eva": 0
+  },
+  "1210100": {
+    "name": "Pig",
+    "level": 7,
+    "eva": 0
+  },
+  "1210101": {
+    "name": "Ribbon Pig",
+    "level": 10,
+    "eva": 2
+  },
+  "1210102": {
+    "name": "Orange Mushroom",
+    "level": 8,
+    "eva": 1
+  },
+  "1210103": {
+    "name": "Bubbling",
+    "level": 15,
+    "eva": 10
+  },
+  "130100": {
+    "name": "Stump",
+    "level": 4,
+    "eva": 0
+  },
+  "130101": {
+    "name": "Red Snail",
+    "level": 4,
+    "eva": 0
+  },
+  "2100100": {
+    "name": "Desert Rabbit (F)",
+    "level": 20,
+    "eva": 8
+  },
+  "2100101": {
+    "name": "Desert Rabbit (M)",
+    "level": 21,
+    "eva": 9
+  },
+  "2100102": {
+    "name": "Jr. Cactus",
+    "level": 22,
+    "eva": 8
+  },
+  "2100103": {
+    "name": "Cactus",
+    "level": 25,
+    "eva": 9
+  },
+  "2100104": {
+    "name": "Royal Cactus",
+    "level": 28,
+    "eva": 10
+  },
+  "2100105": {
+    "name": "Bellamoa",
+    "level": 23,
+    "eva": 9
+  },
+  "2100106": {
+    "name": "Ear Plug Plead",
+    "level": 24,
+    "eva": 9
+  },
+  "2100107": {
+    "name": "Scarf Plead",
+    "level": 27,
+    "eva": 10
+  },
+  "2100108": {
+    "name": "Meercat",
+    "level": 29,
+    "eva": 10
+  },
+  "210100": {
+    "name": "Slime",
+    "level": 6,
+    "eva": 1
+  },
+  "2110200": {
+    "name": "Horny Mushroom",
+    "level": 22,
+    "eva": 7
+  },
+  "2110300": {
+    "name": "Sand Rat",
+    "level": 24,
+    "eva": 10
+  },
+  "2110301": {
+    "name": "Scorpion",
+    "level": 29,
+    "eva": 10
+  },
+  "2130100": {
+    "name": "Dark Axe Stump",
+    "level": 22,
+    "eva": 7
+  },
+  "2130103": {
+    "name": "Jr. Necki",
+    "level": 21,
+    "eva": 25
+  },
+  "2220000": {
+    "name": "Mano",
+    "level": 20,
+    "eva": 8
+  },
+  "2220100": {
+    "name": "Blue Mushroom",
+    "level": 20,
+    "eva": 7
+  },
+  "2230100": {
+    "name": "Evil Eye",
+    "level": 27,
+    "eva": 10
+  },
+  "2230101": {
+    "name": "Zombie Mushroom",
+    "level": 24,
+    "eva": 8
+  },
+  "2230102": {
+    "name": "Wild Boar",
+    "level": 25,
+    "eva": 8
+  },
+  "2230103": {
+    "name": "Trixter",
+    "level": 23,
+    "eva": 10
+  },
+  "2230104": {
+    "name": "Green Trixter",
+    "level": 28,
+    "eva": 12
+  },
+  "2230105": {
+    "name": "Seacle",
+    "level": 23,
+    "eva": 9
+  },
+  "2230106": {
+    "name": "Cico",
+    "level": 25,
+    "eva": 8
+  },
+  "2230107": {
+    "name": "Krappy",
+    "level": 24,
+    "eva": 8
+  },
+  "2230108": {
+    "name": "Pinboom",
+    "level": 22,
+    "eva": 7
+  },
+  "2230109": {
+    "name": "Bubble Fish",
+    "level": 28,
+    "eva": 10
+  },
+  "2230110": {
+    "name": "Wooden Mask",
+    "level": 23,
+    "eva": 10
+  },
+  "2230111": {
+    "name": "Rocky Mask",
+    "level": 24,
+    "eva": 10
+  },
+  "2230200": {
+    "name": "Flower Fish",
+    "level": 29,
+    "eva": 10
+  },
+  "2300100": {
+    "name": "Stirge",
+    "level": 20,
+    "eva": 10
+  },
+  "3000000": {
+    "name": "Sentinel",
+    "level": 30,
+    "eva": 12
+  },
+  "3000001": {
+    "name": "Fairy",
+    "level": 30,
+    "eva": 25
+  },
+  "3000002": {
+    "name": "Fairy",
+    "level": 30,
+    "eva": 25
+  },
+  "3000003": {
+    "name": "Fairy",
+    "level": 30,
+    "eva": 25
+  },
+  "3000004": {
+    "name": "Fairy",
+    "level": 30,
+    "eva": 25
+  },
+  "3000005": {
+    "name": "Brown Teddy",
+    "level": 30,
+    "eva": 12
+  },
+  "3000006": {
+    "name": "Krip",
+    "level": 30,
+    "eva": 12
+  },
+  "3100101": {
+    "name": "Sand Dwarf",
+    "level": 32,
+    "eva": 12
+  },
+  "3100102": {
+    "name": "Kiyo",
+    "level": 30,
+    "eva": 13
+  },
+  "3110100": {
+    "name": "Ligator",
+    "level": 32,
+    "eva": 12
+  },
+  "3110101": {
+    "name": "Pink Teddy",
+    "level": 32,
+    "eva": 14
+  },
+  "3110102": {
+    "name": "Ratz",
+    "level": 32,
+    "eva": 13
+  },
+  "3110300": {
+    "name": "Cube Slime",
+    "level": 32,
+    "eva": 12
+  },
+  "3110301": {
+    "name": "Dark Sand Dwarf",
+    "level": 32,
+    "eva": 12
+  },
+  "3110302": {
+    "name": "Rumo",
+    "level": 35,
+    "eva": 18
+  },
+  "3110303": {
+    "name": "Triple Rumo",
+    "level": 38,
+    "eva": 18
+  },
+  "3210100": {
+    "name": "Fire Boar",
+    "level": 32,
+    "eva": 10
+  },
+  "3210200": {
+    "name": "Jr. Cellion",
+    "level": 33,
+    "eva": 15
+  },
+  "3210201": {
+    "name": "Jr. Lioner",
+    "level": 33,
+    "eva": 15
+  },
+  "3210202": {
+    "name": "Jr. Grupin",
+    "level": 33,
+    "eva": 15
+  },
+  "3210203": {
+    "name": "Panda Teddy",
+    "level": 36,
+    "eva": 16
+  },
+  "3210204": {
+    "name": "Roloduck",
+    "level": 34,
+    "eva": 16
+  },
+  "3210205": {
+    "name": "Black Ratz",
+    "level": 34,
+    "eva": 14
+  },
+  "3210206": {
+    "name": "Helly",
+    "level": 36,
+    "eva": 17
+  },
+  "3210207": {
+    "name": "Tick",
+    "level": 34,
+    "eva": 14
+  },
+  "3210208": {
+    "name": "Retz",
+    "level": 36,
+    "eva": 18
+  },
+  "3210450": {
+    "name": "Scuba Pepe",
+    "level": 36,
+    "eva": 18
+  },
+  "3210800": {
+    "name": "Lupin",
+    "level": 37,
+    "eva": 20
+  },
+  "3220000": {
+    "name": "Stumpy",
+    "level": 35,
+    "eva": 12
+  },
+  "3220001": {
+    "name": "Deo",
+    "level": 38,
+    "eva": 18
+  },
+  "3230100": {
+    "name": "Curse Eye",
+    "level": 35,
+    "eva": 10
+  },
+  "3230101": {
+    "name": "Jr. Wraith",
+    "level": 35,
+    "eva": 17
+  },
+  "3230102": {
+    "name": "Lorang",
+    "level": 37,
+    "eva": 18
+  },
+  "3230103": {
+    "name": "King Bloctopus",
+    "level": 38,
+    "eva": 18
+  },
+  "3230104": {
+    "name": "Mask Fish",
+    "level": 32,
+    "eva": 14
+  },
+  "3230200": {
+    "name": "Star Pixie",
+    "level": 35,
+    "eva": 15
+  },
+  "3230300": {
+    "name": "Jr. Boogie 1",
+    "level": 35,
+    "eva": 27
+  },
+  "3230301": {
+    "name": "Jr. Boogie 2",
+    "level": 35,
+    "eva": 27
+  },
+  "3230302": {
+    "name": "Bloctopus",
+    "level": 35,
+    "eva": 15
+  },
+  "3230303": {
+    "name": "Propelly",
+    "level": 37,
+    "eva": 18
+  },
+  "3230304": {
+    "name": "Planey",
+    "level": 38,
+    "eva": 19
+  },
+  "3230305": {
+    "name": "Toy Trojan",
+    "level": 39,
+    "eva": 18
+  },
+  "3230306": {
+    "name": "Chronos",
+    "level": 37,
+    "eva": 20
+  },
+  "3230307": {
+    "name": "Chirppy",
+    "level": 31,
+    "eva": 10
+  },
+  "3230308": {
+    "name": "Tweeter",
+    "level": 39,
+    "eva": 17
+  },
+  "3230400": {
+    "name": "Drumming Bunny",
+    "level": 30,
+    "eva": 12
+  },
+  "3230405": {
+    "name": "Jr. Seal",
+    "level": 38,
+    "eva": 18
+  },
+  "4090000": {
+    "name": "Iron Hook",
+    "level": 42,
+    "eva": 18
+  },
+  "4110300": {
+    "name": "Iron Mutae",
+    "level": 42,
+    "eva": 12
+  },
+  "4110301": {
+    "name": "Reinforced Iron Mutae",
+    "level": 45,
+    "eva": 20
+  },
+  "4110302": {
+    "name": "Mithril Mutae",
+    "level": 47,
+    "eva": 18
+  },
+  "4130100": {
+    "name": "Copper Drake",
+    "level": 45,
+    "eva": 18
+  },
+  "4130101": {
+    "name": "Tortie",
+    "level": 46,
+    "eva": 15
+  },
+  "4130102": {
+    "name": "Dark Nependeath",
+    "level": 47,
+    "eva": 15
+  },
+  "4130103": {
+    "name": "Rombot",
+    "level": 47,
+    "eva": 16
+  },
+  "4130104": {
+    "name": "Dark Nependeath",
+    "level": 47,
+    "eva": 15
+  },
+  "4220000": {
+    "name": "Seruf",
+    "level": 45,
+    "eva": 20
+  },
+  "4220001": {
+    "name": "Seruf",
+    "level": 45,
+    "eva": 20
+  },
+  "4230100": {
+    "name": "Cold Eye",
+    "level": 40,
+    "eva": 15
+  },
+  "4230101": {
+    "name": "Zombie Lupin",
+    "level": 40,
+    "eva": 25
+  },
+  "4230102": {
+    "name": "Wraith",
+    "level": 48,
+    "eva": 20
+  },
+  "4230103": {
+    "name": "Iron Hog",
+    "level": 42,
+    "eva": 18
+  },
+  "4230104": {
+    "name": "Clang",
+    "level": 48,
+    "eva": 20
+  },
+  "4230105": {
+    "name": "Nependeath",
+    "level": 42,
+    "eva": 10
+  },
+  "4230106": {
+    "name": "Lunar Pixie",
+    "level": 45,
+    "eva": 24
+  },
+  "4230107": {
+    "name": "Flyeye",
+    "level": 41,
+    "eva": 28
+  },
+  "4230108": {
+    "name": "Jr. Cerebes",
+    "level": 43,
+    "eva": 25
+  },
+  "4230109": {
+    "name": "Block Golem",
+    "level": 42,
+    "eva": 12
+  },
+  "4230110": {
+    "name": "King Block Golem",
+    "level": 45,
+    "eva": 14
+  },
+  "4230111": {
+    "name": "Robo",
+    "level": 41,
+    "eva": 15
+  },
+  "4230112": {
+    "name": "Master Robo",
+    "level": 44,
+    "eva": 18
+  },
+  "4230113": {
+    "name": "Tick-Tock",
+    "level": 40,
+    "eva": 20
+  },
+  "4230114": {
+    "name": "Platoon Chronos",
+    "level": 41,
+    "eva": 22
+  },
+  "4230115": {
+    "name": "Master Chronos",
+    "level": 46,
+    "eva": 24
+  },
+  "4230116": {
+    "name": "Barnard Gray",
+    "level": 40,
+    "eva": 18
+  },
+  "4230117": {
+    "name": "Zeta Gray",
+    "level": 42,
+    "eva": 20
+  },
+  "4230118": {
+    "name": "Ultra Gray",
+    "level": 45,
+    "eva": 21
+  },
+  "4230119": {
+    "name": "Mateon",
+    "level": 41,
+    "eva": 16
+  },
+  "4230120": {
+    "name": "Plateon",
+    "level": 44,
+    "eva": 18
+  },
+  "4230121": {
+    "name": "Mecateon",
+    "level": 46,
+    "eva": 20
+  },
+  "4230122": {
+    "name": "Nependeath",
+    "level": 42,
+    "eva": 10
+  },
+  "4230123": {
+    "name": "Sparker",
+    "level": 43,
+    "eva": 15
+  },
+  "4230124": {
+    "name": "Freezer",
+    "level": 42,
+    "eva": 20
+  },
+  "4230125": {
+    "name": "Skeledog",
+    "level": 44,
+    "eva": 18
+  },
+  "4230126": {
+    "name": "Mummydog",
+    "level": 47,
+    "eva": 18
+  },
+  "4230200": {
+    "name": "Poopa",
+    "level": 40,
+    "eva": 18
+  },
+  "4230201": {
+    "name": "Poison Poopa",
+    "level": 40,
+    "eva": 18
+  },
+  "4230300": {
+    "name": "Moon Bunny",
+    "level": 45,
+    "eva": 20
+  },
+  "4230400": {
+    "name": "Iron Boar",
+    "level": 45,
+    "eva": 20
+  },
+  "4230500": {
+    "name": "Chipmunk",
+    "level": 40,
+    "eva": 15
+  },
+  "4230501": {
+    "name": "Red Porky",
+    "level": 41,
+    "eva": 15
+  },
+  "4230502": {
+    "name": "Black Porky",
+    "level": 43,
+    "eva": 15
+  },
+  "4230503": {
+    "name": "Blue Flower Serpent",
+    "level": 45,
+    "eva": 20
+  },
+  "4230504": {
+    "name": "Red Flower Serpent",
+    "level": 45,
+    "eva": 20
+  },
+  "4230505": {
+    "name": "Jar",
+    "level": 47,
+    "eva": 18
+  },
+  "4230506": {
+    "name": "Ginseng Jar",
+    "level": 48,
+    "eva": 20
+  },
+  "4230600": {
+    "name": "Desert Giant",
+    "level": 40,
+    "eva": 17
+  },
+  "4240000": {
+    "name": "Chief Gray",
+    "level": 49,
+    "eva": 25
+  },
+  "5100000": {
+    "name": "Jr. Yeti",
+    "level": 50,
+    "eva": 25
+  },
+  "5100001": {
+    "name": "Transforming Jr. Yeti",
+    "level": 50,
+    "eva": 25
+  },
+  "5100002": {
+    "name": "Firebomb",
+    "level": 51,
+    "eva": 28
+  },
+  "5100003": {
+    "name": "Hodori",
+    "level": 50,
+    "eva": 28
+  },
+  "5100004": {
+    "name": "Samiho",
+    "level": 56,
+    "eva": 28
+  },
+  "5100005": {
+    "name": "Hogul",
+    "level": 53,
+    "eva": 25
+  },
+  "5110300": {
+    "name": "Reinforced Mithril Mutae",
+    "level": 50,
+    "eva": 15
+  },
+  "5110301": {
+    "name": "Roid",
+    "level": 54,
+    "eva": 18
+  },
+  "5110302": {
+    "name": "Neo Huroid",
+    "level": 58,
+    "eva": 20
+  },
+  "5120000": {
+    "name": "Luster Pixie",
+    "level": 52,
+    "eva": 22
+  },
+  "5120001": {
+    "name": "Cellion",
+    "level": 53,
+    "eva": 25
+  },
+  "5120002": {
+    "name": "Lioner",
+    "level": 53,
+    "eva": 25
+  },
+  "5120003": {
+    "name": "Grupin",
+    "level": 53,
+    "eva": 25
+  },
+  "5120100": {
+    "name": "MT-09",
+    "level": 54,
+    "eva": 20
+  },
+  "5120500": {
+    "name": "Grizzly",
+    "level": 56,
+    "eva": 18
+  },
+  "5120501": {
+    "name": "Bellflower Root",
+    "level": 53,
+    "eva": 16
+  },
+  "5120502": {
+    "name": "Sr. Bellflower Root",
+    "level": 54,
+    "eva": 18
+  },
+  "5120503": {
+    "name": "Straw Target Dummy",
+    "level": 50,
+    "eva": 15
+  },
+  "5120504": {
+    "name": "Wooden Target Dummy",
+    "level": 51,
+    "eva": 18
+  },
+  "5120505": {
+    "name": "Reindeer",
+    "level": 58,
+    "eva": 20
+  },
+  "5120506": {
+    "name": "The Book Ghost",
+    "level": 55,
+    "eva": 20
+  },
+  "5130100": {
+    "name": "Drake",
+    "level": 50,
+    "eva": 18
+  },
+  "5130101": {
+    "name": "Stone Golem",
+    "level": 55,
+    "eva": 15
+  },
+  "5130102": {
+    "name": "Dark Stone Golem",
+    "level": 58,
+    "eva": 18
+  },
+  "5130103": {
+    "name": "Croco",
+    "level": 52,
+    "eva": 20
+  },
+  "5130104": {
+    "name": "Hector",
+    "level": 55,
+    "eva": 20
+  },
+  "5130105": {
+    "name": "Dark Jr. Yeti",
+    "level": 56,
+    "eva": 27
+  },
+  "5130106": {
+    "name": "Transforming Dark Jr. Yeti",
+    "level": 56,
+    "eva": 27
+  },
+  "5130107": {
+    "name": "Coolie Zombie",
+    "level": 57,
+    "eva": 25
+  },
+  "5130108": {
+    "name": "Miner Zombie",
+    "level": 57,
+    "eva": 25
+  },
+  "5140000": {
+    "name": "White Fang",
+    "level": 58,
+    "eva": 25
+  },
+  "5150000": {
+    "name": "Mixed Golem",
+    "level": 59,
+    "eva": 20
+  },
+  "5150001": {
+    "name": "Skeleton Soldier",
+    "level": 57,
+    "eva": 25
+  },
+  "5200000": {
+    "name": "Jr. Sentinel",
+    "level": 23,
+    "eva": 8
+  },
+  "5200001": {
+    "name": "Ice Sentinel",
+    "level": 30,
+    "eva": 12
+  },
+  "5200002": {
+    "name": "Fire Sentinel",
+    "level": 30,
+    "eva": 12
+  },
+  "5220000": {
+    "name": "King Clang",
+    "level": 55,
+    "eva": 20
+  },
+  "5220001": {
+    "name": "King Clang",
+    "level": 55,
+    "eva": 20
+  },
+  "5220002": {
+    "name": "Faust",
+    "level": 50,
+    "eva": 20
+  },
+  "5220003": {
+    "name": "Timer",
+    "level": 59,
+    "eva": 20
+  },
+  "5300000": {
+    "name": "Leatty",
+    "level": 32,
+    "eva": 13
+  },
+  "5300001": {
+    "name": "Dark Leatty",
+    "level": 33,
+    "eva": 15
+  },
+  "5300100": {
+    "name": "Malady",
+    "level": 55,
+    "eva": 20
+  },
+  "5400000": {
+    "name": "Jr. Pepe",
+    "level": 35,
+    "eva": 18
+  },
+  "6110300": {
+    "name": "Homun",
+    "level": 65,
+    "eva": 24
+  },
+  "6110301": {
+    "name": "Site",
+    "level": 68,
+    "eva": 26
+  },
+  "6130100": {
+    "name": "Red Drake",
+    "level": 60,
+    "eva": 22
+  },
+  "6130101": {
+    "name": "Mushmom",
+    "level": 60,
+    "eva": 27
+  },
+  "6130102": {
+    "name": "Separated Pepe",
+    "level": 60,
+    "eva": 30
+  },
+  "6130103": {
+    "name": "Pepe",
+    "level": 60,
+    "eva": 30
+  },
+  "6130104": {
+    "name": "Boogie",
+    "level": 35,
+    "eva": 35
+  },
+  "6130200": {
+    "name": "Buffy",
+    "level": 61,
+    "eva": 23
+  },
+  "6130201": {
+    "name": "Blin",
+    "level": 60,
+    "eva": 38
+  },
+  "6130202": {
+    "name": "Morphed Blin",
+    "level": 60,
+    "eva": 25
+  },
+  "6130203": {
+    "name": "Panda",
+    "level": 60,
+    "eva": 22
+  },
+  "6130204": {
+    "name": "Mr. Alli",
+    "level": 64,
+    "eva": 25
+  },
+  "6130207": {
+    "name": "Peach Monkey",
+    "level": 62,
+    "eva": 25
+  },
+  "6130208": {
+    "name": "Kru",
+    "level": 68,
+    "eva": 26
+  },
+  "6130209": {
+    "name": "Sage Cat",
+    "level": 66,
+    "eva": 24
+  },
+  "6220000": {
+    "name": "Dyle",
+    "level": 65,
+    "eva": 30
+  },
+  "6220001": {
+    "name": "Zeno",
+    "level": 65,
+    "eva": 29
+  },
+  "6230100": {
+    "name": "Wild Kargo",
+    "level": 62,
+    "eva": 20
+  },
+  "6230101": {
+    "name": "Puco",
+    "level": 63,
+    "eva": 36
+  },
+  "6230200": {
+    "name": "Dark Pepe",
+    "level": 64,
+    "eva": 31
+  },
+  "6230201": {
+    "name": "Separated Dark Pepe",
+    "level": 64,
+    "eva": 31
+  },
+  "6230300": {
+    "name": "Lazy Buffy",
+    "level": 66,
+    "eva": 26
+  },
+  "6230400": {
+    "name": "Soul Teddy",
+    "level": 63,
+    "eva": 25
+  },
+  "6230401": {
+    "name": "Jr. Lucida",
+    "level": 63,
+    "eva": 25
+  },
+  "6230500": {
+    "name": "Master Soul Teddy",
+    "level": 67,
+    "eva": 27
+  },
+  "6230600": {
+    "name": "Ice Drake",
+    "level": 64,
+    "eva": 25
+  },
+  "6230601": {
+    "name": "Dark Drake",
+    "level": 68,
+    "eva": 27
+  },
+  "6230602": {
+    "name": "Officer Skeleton",
+    "level": 63,
+    "eva": 25
+  },
+  "6300000": {
+    "name": "Yeti",
+    "level": 65,
+    "eva": 24
+  },
+  "6300001": {
+    "name": "Transformed Yeti",
+    "level": 65,
+    "eva": 24
+  },
+  "6300002": {
+    "name": "Separated Yeti",
+    "level": 65,
+    "eva": 24
+  },
+  "6300003": {
+    "name": "Punco",
+    "level": 67,
+    "eva": 37
+  },
+  "6300004": {
+    "name": "Pachu",
+    "level": 66,
+    "eva": 35
+  },
+  "6300005": {
+    "name": "Zombie Mushmom",
+    "level": 65,
+    "eva": 30
+  },
+  "6300100": {
+    "name": "Buffoon",
+    "level": 74,
+    "eva": 27
+  },
+  "6400000": {
+    "name": "Dark Yeti",
+    "level": 68,
+    "eva": 26
+  },
+  "6400001": {
+    "name": "Transformed Dark Yeti",
+    "level": 68,
+    "eva": 26
+  },
+  "6400002": {
+    "name": "Separated Dark Yeti",
+    "level": 68,
+    "eva": 26
+  },
+  "6400003": {
+    "name": "Cuzco",
+    "level": 69,
+    "eva": 40
+  },
+  "6400004": {
+    "name": "Opachu",
+    "level": 70,
+    "eva": 50
+  },
+  "6400100": {
+    "name": "Deep Buffoon",
+    "level": 77,
+    "eva": 28
+  },
+  "7110300": {
+    "name": "D. Roy",
+    "level": 75,
+    "eva": 25
+  },
+  "7110301": {
+    "name": "Homunculus",
+    "level": 73,
+    "eva": 28
+  },
+  "7130000": {
+    "name": "Lucida",
+    "level": 73,
+    "eva": 28
+  },
+  "7130001": {
+    "name": "Cerebes",
+    "level": 72,
+    "eva": 30
+  },
+  "7130002": {
+    "name": "Beetle",
+    "level": 72,
+    "eva": 30
+  },
+  "7130003": {
+    "name": "Dual Beetle",
+    "level": 76,
+    "eva": 27
+  },
+  "7130004": {
+    "name": "Hankie",
+    "level": 78,
+    "eva": 30
+  },
+  "7130010": {
+    "name": "Death Teddy",
+    "level": 85,
+    "eva": 27
+  },
+  "7130020": {
+    "name": "Goby",
+    "level": 85,
+    "eva": 29
+  },
+  "7130100": {
+    "name": "Tauromacis",
+    "level": 70,
+    "eva": 15
+  },
+  "7130101": {
+    "name": "Taurospear",
+    "level": 75,
+    "eva": 30
+  },
+  "7130102": {
+    "name": "Yeti and Pepe",
+    "level": 78,
+    "eva": 30
+  },
+  "7130103": {
+    "name": "Commander Skeleton",
+    "level": 73,
+    "eva": 32
+  },
+  "7130104": {
+    "name": "Captain",
+    "level": 70,
+    "eva": 26
+  },
+  "7130200": {
+    "name": "Werewolf",
+    "level": 75,
+    "eva": 25
+  },
+  "7130300": {
+    "name": "Master Death Teddy",
+    "level": 89,
+    "eva": 28
+  },
+  "7130400": {
+    "name": "Yellow King Goblin",
+    "level": 70,
+    "eva": 15
+  },
+  "7130401": {
+    "name": "Blue King Goblin",
+    "level": 70,
+    "eva": 15
+  },
+  "7130402": {
+    "name": "Green King Goblin",
+    "level": 70,
+    "eva": 15
+  },
+  "7130500": {
+    "name": "Rash",
+    "level": 70,
+    "eva": 25
+  },
+  "7130501": {
+    "name": "Dark Rash",
+    "level": 74,
+    "eva": 27
+  },
+  "7130600": {
+    "name": "Hobi",
+    "level": 72,
+    "eva": 25
+  },
+  "7130601": {
+    "name": "Green Hobi",
+    "level": 76,
+    "eva": 28
+  },
+  "7130602": {
+    "name": "Thornbush",
+    "level": 76,
+    "eva": 20
+  },
+  "7140000": {
+    "name": "Ghost Pirate",
+    "level": 83,
+    "eva": 27
+  },
+  "7160000": {
+    "name": "Dual Ghost Pirate",
+    "level": 87,
+    "eva": 28
+  },
+  "7220000": {
+    "name": "Tae Roon",
+    "level": 71,
+    "eva": 30
+  },
+  "7220001": {
+    "name": "Old Fox",
+    "level": 70,
+    "eva": 25
+  },
+  "7220002": {
+    "name": "King Sage Cat",
+    "level": 77,
+    "eva": 27
+  },
+  "8110300": {
+    "name": "Homunscullo",
+    "level": 80,
+    "eva": 28
+  },
+  "8130100": {
+    "name": "Jr. Balrog",
+    "level": 80,
+    "eva": 30
+  },
+  "8140000": {
+    "name": "Lycanthrope",
+    "level": 80,
+    "eva": 28
+  },
+  "8140001": {
+    "name": "Harp",
+    "level": 80,
+    "eva": 28
+  },
+  "8140002": {
+    "name": "Blood Harp",
+    "level": 83,
+    "eva": 27
+  },
+  "8140100": {
+    "name": "Dark Yeti and Pepe",
+    "level": 82,
+    "eva": 30
+  },
+  "8140101": {
+    "name": "Black Kentaurus",
+    "level": 88,
+    "eva": 28
+  },
+  "8140102": {
+    "name": "Red Kentaurus",
+    "level": 88,
+    "eva": 28
+  },
+  "8140103": {
+    "name": "Blue Kentaurus",
+    "level": 88,
+    "eva": 28
+  },
+  "8140110": {
+    "name": "Birk",
+    "level": 85,
+    "eva": 27
+  },
+  "8140111": {
+    "name": "Dual Birk",
+    "level": 88,
+    "eva": 28
+  },
+  "8140200": {
+    "name": "Klock",
+    "level": 70,
+    "eva": 26
+  },
+  "8140300": {
+    "name": "Dark Klock",
+    "level": 76,
+    "eva": 27
+  },
+  "8140500": {
+    "name": "Bain",
+    "level": 90,
+    "eva": 38
+  },
+  "8140555": {
+    "name": "Bombing Fish House",
+    "level": 90,
+    "eva": 35
+  },
+  "8140600": {
+    "name": "Bone Fish",
+    "level": 92,
+    "eva": 38
+  },
+  "8140700": {
+    "name": "Blue Dragon Turtle",
+    "level": 90,
+    "eva": 37
+  },
+  "8140701": {
+    "name": "Red Dragon Turtle",
+    "level": 93,
+    "eva": 37
+  },
+  "8140702": {
+    "name": "Rexton",
+    "level": 95,
+    "eva": 37
+  },
+  "8140703": {
+    "name": "Brexton",
+    "level": 97,
+    "eva": 37
+  },
+  "8141000": {
+    "name": "Spirit Viking",
+    "level": 93,
+    "eva": 37
+  },
+  "8141100": {
+    "name": "Gigantic Spirit Viking",
+    "level": 98,
+    "eva": 38
+  },
+  "8141300": {
+    "name": "Squid",
+    "level": 94,
+    "eva": 37
+  },
+  "8142000": {
+    "name": "Phantom Watch",
+    "level": 95,
+    "eva": 37
+  },
+  "8142100": {
+    "name": "Risell Squid",
+    "level": 97,
+    "eva": 37
+  },
+  "8143000": {
+    "name": "Grim Phantom Watch",
+    "level": 99,
+    "eva": 38
+  },
+  "8150000": {
+    "name": "Crimson Balrog",
+    "level": 100,
+    "eva": 40
+  },
+  "8150100": {
+    "name": "Shark",
+    "level": 100,
+    "eva": 38
+  },
+  "8150101": {
+    "name": "Cold Shark",
+    "level": 102,
+    "eva": 38
+  },
+  "8150200": {
+    "name": "Green Cornian",
+    "level": 100,
+    "eva": 45
+  },
+  "8150201": {
+    "name": "Dark Cornian",
+    "level": 105,
+    "eva": 45
+  },
+  "8150300": {
+    "name": "Red Wyvern",
+    "level": 97,
+    "eva": 37
+  },
+  "8150301": {
+    "name": "Blue Wyvern",
+    "level": 101,
+    "eva": 38
+  },
+  "8150302": {
+    "name": "Dark Wyvern",
+    "level": 103,
+    "eva": 38
+  },
+  "8160000": {
+    "name": "Gatekeeper",
+    "level": 108,
+    "eva": 37
+  },
+  "8170000": {
+    "name": "Thanatos",
+    "level": 108,
+    "eva": 38
+  },
+  "8180000": {
+    "name": "Manon",
+    "level": 105,
+    "eva": 39
+  },
+  "8180001": {
+    "name": "Griffey",
+    "level": 105,
+    "eva": 39
+  },
+  "8190000": {
+    "name": "Jr. Newtie",
+    "level": 105,
+    "eva": 38
+  },
+  "8190001": {
+    "name": "Jr. Newtie",
+    "level": 105,
+    "eva": 38
+  },
+  "8190002": {
+    "name": "Nest Golem",
+    "level": 110,
+    "eva": 38
+  },
+  "8190003": {
+    "name": "Skelegon",
+    "level": 110,
+    "eva": 38
+  },
+  "8190004": {
+    "name": "Skelosaurus",
+    "level": 113,
+    "eva": 38
+  },
+  "8190005": {
+    "name": "Nest Golem",
+    "level": 110,
+    "eva": 38
+  },
+  "8220000": {
+    "name": "Eliza",
+    "level": 83,
+    "eva": 30
+  },
+  "8220001": {
+    "name": "Snowman",
+    "level": 90,
+    "eva": 38
+  },
+  "8220002": {
+    "name": "Kimera",
+    "level": 85,
+    "eva": 27
+  },
+  "8220003": {
+    "name": "Leviathan",
+    "level": 120,
+    "eva": 41
+  },
+  "8500000": {
+    "name": "Time Sphere",
+    "level": 100,
+    "eva": 12
+  },
+  "8500001": {
+    "name": "Papulatus Clock",
+    "level": 125,
+    "eva": 12
+  },
+  "8500002": {
+    "name": "Papulatus",
+    "level": 125,
+    "eva": 40
+  },
+  "8500003": {
+    "name": "High Darkstar",
+    "level": 71,
+    "eva": 23
+  },
+  "8500004": {
+    "name": "Low Darkstar",
+    "level": 80,
+    "eva": 15
+  },
+  "8510000": {
+    "name": "Pianus",
+    "level": 110,
+    "eva": 14
+  },
+  "8510100": {
+    "name": "Bloody Boom",
+    "level": 75,
+    "eva": 20
+  },
+  "8520000": {
+    "name": "Pianus",
+    "level": 110,
+    "eva": 14
+  },
+  "8800000": {
+    "name": "Zakum1",
+    "level": 140,
+    "eva": 12
+  },
+  "8800001": {
+    "name": "Zakum2",
+    "level": 140,
+    "eva": 14
+  },
+  "8800002": {
+    "name": "Zakum3",
+    "level": 140,
+    "eva": 16
+  },
+  "8800003": {
+    "name": "Zakum's Arm 1",
+    "level": 140,
+    "eva": 14
+  },
+  "8800004": {
+    "name": "Zakum's Arm 2",
+    "level": 140,
+    "eva": 14
+  },
+  "8800005": {
+    "name": "Zakum's Arm 3",
+    "level": 140,
+    "eva": 14
+  },
+  "8800006": {
+    "name": "Zakum's Arm 4",
+    "level": 140,
+    "eva": 14
+  },
+  "8800007": {
+    "name": "Zakum's Arm 5",
+    "level": 140,
+    "eva": 14
+  },
+  "8800008": {
+    "name": "Zakum's Arm 6",
+    "level": 140,
+    "eva": 14
+  },
+  "8800009": {
+    "name": "Zakum's Arm 7",
+    "level": 140,
+    "eva": 14
+  },
+  "8800010": {
+    "name": "Zakum's Arm 8",
+    "level": 140,
+    "eva": 14
+  },
+  "8810000": {
+    "name": "Horntail's Left Head",
+    "level": 160,
+    "eva": 18
+  },
+  "8810001": {
+    "name": "Horntail's Right Head",
+    "level": 160,
+    "eva": 18
+  },
+  "8810002": {
+    "name": "Horntail's Head A",
+    "level": 160,
+    "eva": 43
+  },
+  "8810003": {
+    "name": "Horntail's Head B",
+    "level": 160,
+    "eva": 45
+  },
+  "8810004": {
+    "name": "Horntail's Head C",
+    "level": 160,
+    "eva": 43
+  },
+  "8810005": {
+    "name": "Horntail's Left Hand",
+    "level": 160,
+    "eva": 40
+  },
+  "8810006": {
+    "name": "Horntail's Right Hand",
+    "level": 160,
+    "eva": 40
+  },
+  "8810007": {
+    "name": "Horntail's Wings",
+    "level": 160,
+    "eva": 42
+  },
+  "8810008": {
+    "name": "Horntail's Legs",
+    "level": 160,
+    "eva": 42
+  },
+  "8810009": {
+    "name": "Horntail's Tails",
+    "level": 160,
+    "eva": 40
+  },
+  "9001000": {
+    "name": "Dances with Balrog's Clone",
+    "level": 80,
+    "eva": 15
+  },
+  "9001001": {
+    "name": "Grendel the Really Old's Clone",
+    "level": 80,
+    "eva": 10
+  },
+  "9001002": {
+    "name": "Athena Pierce's Clone",
+    "level": 80,
+    "eva": 25
+  },
+  "9001003": {
+    "name": "Dark Lord's Clone",
+    "level": 80,
+    "eva": 32
+  },
+  "9001004": {
+    "name": "Shadow Kyrin",
+    "level": 80,
+    "eva": 18
+  },
+  "9001008": {
+    "name": "Shadow Kyrin's Clone",
+    "level": 80,
+    "eva": 15
+  },
+  "9100013": {
+    "name": "Ardin",
+    "level": 30,
+    "eva": 10
+  },
+  "9300000": {
+    "name": "Jr. Necki (KPQ)",
+    "level": 21,
+    "eva": 15
+  },
+  "9300001": {
+    "name": "Ligator (KPQ)",
+    "level": 32,
+    "eva": 10
+  },
+  "9300002": {
+    "name": "Curse Eye (KPQ)",
+    "level": 35,
+    "eva": 8
+  },
+  "9300003": {
+    "name": "King Slime (KPQ)",
+    "level": 40,
+    "eva": 10
+  },
+  "9300004": {
+    "name": "Mimic",
+    "level": 54,
+    "eva": 25
+  },
+  "9300005": {
+    "name": "Ratz from Another Dimension (LPQ)",
+    "level": 32,
+    "eva": 13
+  },
+  "9300006": {
+    "name": "Black Ratz from Another Dimension (LPQ)",
+    "level": 34,
+    "eva": 14
+  },
+  "9300007": {
+    "name": "Bloctopus from Another Dimension (LPQ)",
+    "level": 35,
+    "eva": 15
+  },
+  "9300008": {
+    "name": "Shadow Eye from Another Dimension (LPQ)",
+    "level": 43,
+    "eva": 18
+  },
+  "9300009": {
+    "name": "Block Golem from Another Dimension (LPQ)",
+    "level": 40,
+    "eva": 12
+  },
+  "9300010": {
+    "name": "Rombad from Another Dimension (LPQ)",
+    "level": 47,
+    "eva": 18
+  },
+  "9300012": {
+    "name": "Alishar (LPQ)",
+    "level": 56,
+    "eva": 26
+  },
+  "9300013": {
+    "name": "King Block Golem from Another Dimension (LPQ)",
+    "level": 200,
+    "eva": 999
+  },
+  "9300014": {
+    "name": "Dark Eye from Another Dimension (LPQ)",
+    "level": 43,
+    "eva": 18
+  },
+  "9300018": {
+    "name": "Tutorial Jr. Sentinel",
+    "level": 1,
+    "eva": 0
+  },
+  "9300019": {
+    "name": "Master Muscle Stone",
+    "level": 65,
+    "eva": 23
+  },
+  "9300020": {
+    "name": "Muscle Stone",
+    "level": 63,
+    "eva": 23
+  },
+  "9300021": {
+    "name": "Dark Muscle Stone",
+    "level": 200,
+    "eva": 999
+  },
+  "9300022": {
+    "name": "Black Knight",
+    "level": 66,
+    "eva": 25
+  },
+  "9300023": {
+    "name": "Myst Knight",
+    "level": 66,
+    "eva": 25
+  },
+  "9300024": {
+    "name": "Puppet Golem",
+    "level": 67,
+    "eva": 21
+  },
+  "9300025": {
+    "name": "Gargoyle",
+    "level": 68,
+    "eva": 20
+  },
+  "9300026": {
+    "name": "Jr. Gargoyle",
+    "level": 62,
+    "eva": 26
+  },
+  "9300027": {
+    "name": "Devil Slime",
+    "level": 23,
+    "eva": 8
+  },
+  "9300028": {
+    "name": "Ergoth",
+    "level": 115,
+    "eva": 18
+  },
+  "9300029": {
+    "name": "Lion Statue A",
+    "level": 99,
+    "eva": 13
+  },
+  "9300030": {
+    "name": "Lion Statue B",
+    "level": 99,
+    "eva": 13
+  },
+  "9300031": {
+    "name": "Knight Statue A",
+    "level": 100,
+    "eva": 14
+  },
+  "9300032": {
+    "name": "Knight Statue B",
+    "level": 100,
+    "eva": 14
+  },
+  "9300033": {
+    "name": "Jr. Gargoyle",
+    "level": 62,
+    "eva": 26
+  },
+  "9300034": {
+    "name": "Mist Knight",
+    "level": 66,
+    "eva": 25
+  },
+  "9300035": {
+    "name": "Jr. Gargoyle",
+    "level": 62,
+    "eva": 26
+  },
+  "9300036": {
+    "name": "Black Knight",
+    "level": 66,
+    "eva": 25
+  },
+  "9300037": {
+    "name": "Mist Knight",
+    "level": 66,
+    "eva": 25
+  },
+  "9300038": {
+    "name": "Ghost Pixie",
+    "level": 59,
+    "eva": 25
+  },
+  "9300039": {
+    "name": "Papa Pixie",
+    "level": 65,
+    "eva": 18
+  },
+  "9300158": {
+    "name": "Kyrin",
+    "level": 120,
+    "eva": 14
+  },
+  "9300159": {
+    "name": "Inferno Kyrin",
+    "level": 120,
+    "eva": 14
+  },
+  "9400000": {
+    "name": "Crow",
+    "level": 25,
+    "eva": 10
+  },
+  "9400001": {
+    "name": "Fire Raccoon",
+    "level": 30,
+    "eva": 12
+  },
+  "9400002": {
+    "name": "Cloud Fox",
+    "level": 30,
+    "eva": 12
+  },
+  "9400003": {
+    "name": "Nightghost",
+    "level": 60,
+    "eva": 25
+  },
+  "9400004": {
+    "name": "Dark Cloud Fox",
+    "level": 45,
+    "eva": 20
+  },
+  "9400009": {
+    "name": "Crow",
+    "level": 200,
+    "eva": 999
+  },
+  "9400010": {
+    "name": "Flaming Raccoon",
+    "level": 200,
+    "eva": 999
+  },
+  "9400011": {
+    "name": "Paper Lantern Ghost",
+    "level": 40,
+    "eva": 25
+  },
+  "9400012": {
+    "name": "Water Goblin",
+    "level": 60,
+    "eva": 22
+  },
+  "9400013": {
+    "name": "Dreamy Ghost",
+    "level": 100,
+    "eva": 40
+  },
+  "9400014": {
+    "name": "Black Crow",
+    "level": 115,
+    "eva": 39
+  },
+  "9400100": {
+    "name": "Extra A",
+    "level": 45,
+    "eva": 22
+  },
+  "9400101": {
+    "name": "Extra B",
+    "level": 47,
+    "eva": 18
+  },
+  "9400102": {
+    "name": "Extra C",
+    "level": 50,
+    "eva": 20
+  },
+  "9400103": {
+    "name": "Extra D",
+    "level": 72,
+    "eva": 18
+  },
+  "9400110": {
+    "name": "Leader A",
+    "level": 62,
+    "eva": 26
+  },
+  "9400111": {
+    "name": "Leader B",
+    "level": 64,
+    "eva": 24
+  },
+  "9400112": {
+    "name": "Bodyguard A",
+    "level": 152,
+    "eva": 40
+  },
+  "9400113": {
+    "name": "Bodyguard B",
+    "level": 155,
+    "eva": 50
+  },
+  "9400114": {
+    "name": "Slot Machine",
+    "level": 50,
+    "eva": 5
+  },
+  "9400120": {
+    "name": "Male Boss",
+    "level": 95,
+    "eva": 35
+  },
+  "9400121": {
+    "name": "Female Boss",
+    "level": 130,
+    "eva": 43
+  },
+  "9400122": {
+    "name": "Male Boss",
+    "level": 95,
+    "eva": 35
+  },
+  "9400202": {
+    "name": "Golden Slime",
+    "level": 1,
+    "eva": 1
+  },
+  "9400203": {
+    "name": "Silver Slime",
+    "level": 40,
+    "eva": 18
+  },
+  "9400204": {
+    "name": "Red Slime",
+    "level": 55,
+    "eva": 25
+  },
+  "9400205": {
+    "name": "Blue Mushmom",
+    "level": 90,
+    "eva": 64
+  },
+  "9400300": {
+    "name": "The Boss",
+    "level": 175,
+    "eva": 120
+  },
+  "9400514": {
+    "name": "Geist Balrog Phase 3",
+    "level": 95,
+    "eva": 35
+  },
+  "9400515": {
+    "name": "Indigo Eye",
+    "level": 38,
+    "eva": 15
+  },
+  "9400516": {
+    "name": "Crystal Boar",
+    "level": 40,
+    "eva": 15
+  },
+  "9400536": {
+    "name": "Geist Balrog Phase 1",
+    "level": 80,
+    "eva": 30
+  },
+  "9400537": {
+    "name": "Geist Balrog Phase 2",
+    "level": 100,
+    "eva": 40
+  },
+  "9400538": {
+    "name": "Street Slime",
+    "level": 19,
+    "eva": 15
+  },
+  "9400539": {
+    "name": "Urban Fungus",
+    "level": 21,
+    "eva": 7
+  },
+  "9400540": {
+    "name": "Killa Bee",
+    "level": 25,
+    "eva": 5
+  },
+  "9400541": {
+    "name": "Killa Bee",
+    "level": 25,
+    "eva": 5
+  },
+  "9400542": {
+    "name": "Fire Tusk",
+    "level": 36,
+    "eva": 10
+  },
+  "9400543": {
+    "name": "Electrophant",
+    "level": 41,
+    "eva": 28
+  },
+  "9400544": {
+    "name": "Gryphon",
+    "level": 50,
+    "eva": 23
+  },
+  "9400545": {
+    "name": "Wolf Spider",
+    "level": 80,
+    "eva": 30
+  },
+  "9400546": {
+    "name": "I.AM.ROBOT",
+    "level": 44,
+    "eva": 30
+  },
+  "9400547": {
+    "name": "Boomer",
+    "level": 27,
+    "eva": 10
+  },
+  "9400548": {
+    "name": "Mighty Maple Eater",
+    "level": 30,
+    "eva": 10
+  },
+  "9400549": {
+    "name": "Headless Horseman",
+    "level": 101,
+    "eva": 42
+  },
+  "9400550": {
+    "name": "Boomer",
+    "level": 27,
+    "eva": 10
+  },
+  "9400551": {
+    "name": "Bob",
+    "level": 2,
+    "eva": 0
+  },
+  "9400553": {
+    "name": "Purple Flying Book",
+    "level": 200,
+    "eva": 999
+  },
+  "9400554": {
+    "name": "Orange Flying Book",
+    "level": 200,
+    "eva": 999
+  },
+  "9400555": {
+    "name": "Blue Flying Book",
+    "level": 200,
+    "eva": 999
+  },
+  "9400556": {
+    "name": "Glutton Ghoul",
+    "level": 21,
+    "eva": 10
+  },
+  "9400557": {
+    "name": "Psycho Jack Box",
+    "level": 30,
+    "eva": 12
+  },
+  "9400558": {
+    "name": "Psycho Jack",
+    "level": 30,
+    "eva": 12
+  },
+  "9400559": {
+    "name": "Sophilia Doll Ground",
+    "level": 50,
+    "eva": 18
+  },
+  "9400560": {
+    "name": "Sophilia Doll",
+    "level": 50,
+    "eva": 19
+  },
+  "9400561": {
+    "name": "Voodoo",
+    "level": 60,
+    "eva": 22
+  },
+  "9400562": {
+    "name": "Hoodoo",
+    "level": 60,
+    "eva": 22
+  },
+  "9400563": {
+    "name": "Nightmare",
+    "level": 40,
+    "eva": 18
+  },
+  "9400565": {
+    "name": "Glutton Ghoul",
+    "level": 21,
+    "eva": 10
+  },
+  "9400571": {
+    "name": "Headless Horseman",
+    "level": 50,
+    "eva": 28
+  },
+  "9400572": {
+    "name": "Geist Balrog",
+    "level": 60,
+    "eva": 28
+  },
+  "9400573": {
+    "name": "Baby Typhon",
+    "level": 40,
+    "eva": 0
+  },
+  "9400574": {
+    "name": "Typhon",
+    "level": 100,
+    "eva": 40
+  },
+  "9400575": {
+    "name": "Bigfoot",
+    "level": 110,
+    "eva": 37
+  },
+  "9400576": {
+    "name": "Windraider",
+    "level": 70,
+    "eva": 30
+  },
+  "9400577": {
+    "name": "Firebrand",
+    "level": 90,
+    "eva": 37
+  },
+  "9400578": {
+    "name": "Firebrand",
+    "level": 90,
+    "eva": 37
+  },
+  "9400579": {
+    "name": "Nightshadow",
+    "level": 100,
+    "eva": 45
+  },
+  "9400580": {
+    "name": "Elderwraith",
+    "level": 95,
+    "eva": 38
+  },
+  "9400581": {
+    "name": "Stormbreaker",
+    "level": 80,
+    "eva": 30
+  },
+  "9400582": {
+    "name": "Crimson Guardian",
+    "level": 120,
+    "eva": 40
+  },
+  "9400583": {
+    "name": "Leprechaun",
+    "level": 45,
+    "eva": 20
+  },
+  "9400584": {
+    "name": "Leprechaun",
+    "level": 45,
+    "eva": 0
+  },
+  "9400585": {
+    "name": "Crimson Tree",
+    "level": 75,
+    "eva": 10
+  },
+  "9400587": {
+    "name": "Phantom Tree",
+    "level": 50,
+    "eva": 10
+  },
+  "9410000": {
+    "name": "Stray Dog",
+    "level": 23,
+    "eva": 7
+  },
+  "9410001": {
+    "name": "Stylish Stray Dog",
+    "level": 25,
+    "eva": 8
+  },
+  "9410002": {
+    "name": "Angry Stray Dog",
+    "level": 42,
+    "eva": 20
+  },
+  "9410003": {
+    "name": "Clown Monkey",
+    "level": 40,
+    "eva": 25
+  },
+  "9410004": {
+    "name": "Biker Monkey",
+    "level": 47,
+    "eva": 18
+  },
+  "9410005": {
+    "name": "Red Bubble Tea",
+    "level": 38,
+    "eva": 15
+  },
+  "9410006": {
+    "name": "Yellow Bubble Tea",
+    "level": 38,
+    "eva": 15
+  },
+  "9410007": {
+    "name": "Green Bubble Tea",
+    "level": 38,
+    "eva": 15
+  },
+  "9410008": {
+    "name": "Yeti UFO Catcher",
+    "level": 50,
+    "eva": 20
+  },
+  "9410009": {
+    "name": "Yeti Doll",
+    "level": 36,
+    "eva": 10
+  },
+  "9410010": {
+    "name": "Jr. Pepe UFO Catcher",
+    "level": 50,
+    "eva": 20
+  },
+  "9410011": {
+    "name": "Jr. Pepe Doll",
+    "level": 36,
+    "eva": 10
+  },
+  "9410012": {
+    "name": "UFO Catcher",
+    "level": 60,
+    "eva": 10
+  },
+  "9410013": {
+    "name": "Doll Vending Machine",
+    "level": 60,
+    "eva": 20
+  },
+  "9410014": {
+    "name": "Oden King",
+    "level": 85,
+    "eva": 10
+  },
+  "9410015": {
+    "name": "Oden King",
+    "level": 85,
+    "eva": 40
+  },
+  "9420000": {
+    "name": "Toad",
+    "level": 28,
+    "eva": 12
+  },
+  "9420001": {
+    "name": "Frog",
+    "level": 8,
+    "eva": 1
+  },
+  "9420002": {
+    "name": "Python",
+    "level": 60,
+    "eva": 22
+  },
+  "9420003": {
+    "name": "Red Lizard",
+    "level": 40,
+    "eva": 15
+  },
+  "9420004": {
+    "name": "Yellow Lizard",
+    "level": 25,
+    "eva": 8
+  },
+  "9420005": {
+    "name": "White Rooster",
+    "level": 15,
+    "eva": 5
+  },
+  "9420500": {
+    "name": "Stopnow",
+    "level": 28,
+    "eva": 10
+  },
+  "9420501": {
+    "name": "Freezer",
+    "level": 38,
+    "eva": 18
+  },
+  "9420502": {
+    "name": "Biner",
+    "level": 18,
+    "eva": 5
+  },
+  "9420503": {
+    "name": "Nospeed",
+    "level": 33,
+    "eva": 10
+  },
+  "9420504": {
+    "name": "Tippo Red",
+    "level": 50,
+    "eva": 20
+  },
+  "9420505": {
+    "name": "Tippo Blue",
+    "level": 53,
+    "eva": 18
+  },
+  "9420506": {
+    "name": "Batoo",
+    "level": 23,
+    "eva": 8
+  },
+  "9420507": {
+    "name": "Trucker",
+    "level": 48,
+    "eva": 20
+  },
+  "9420508": {
+    "name": "Octobunny",
+    "level": 43,
+    "eva": 18
+  },
+  "9420509": {
+    "name": "Pac Pinky",
+    "level": 58,
+    "eva": 18
+  },
+  "9420510": {
+    "name": "Slimy",
+    "level": 63,
+    "eva": 20
+  },
+  "9420511": {
+    "name": "Selkie Jr.",
+    "level": 60,
+    "eva": 22
+  },
+  "9420512": {
+    "name": "Mr. Anchor",
+    "level": 68,
+    "eva": 27
+  },
+  "9420513": {
+    "name": "Capt. Latanica",
+    "level": 100,
+    "eva": 12
+  },
+  "9600001": {
+    "name": "Rooster",
+    "level": 20,
+    "eva": 7
+  },
+  "9600002": {
+    "name": "Duck",
+    "level": 22,
+    "eva": 7
+  },
+  "9600003": {
+    "name": "Sheep",
+    "level": 25,
+    "eva": 8
+  },
+  "9600004": {
+    "name": "Goat",
+    "level": 30,
+    "eva": 12
+  },
+  "9600005": {
+    "name": "Black Goat",
+    "level": 35,
+    "eva": 12
+  },
+  "9600006": {
+    "name": "Cow",
+    "level": 33,
+    "eva": 12
+  },
+  "9600007": {
+    "name": "Plow Ox",
+    "level": 38,
+    "eva": 20
+  },
+  "9600008": {
+    "name": "Black Sheep",
+    "level": 37,
+    "eva": 18
+  },
+  "9600009": {
+    "name": "Giant Centipede",
+    "level": 50,
+    "eva": 27
+  },
+  "9600010": {
+    "name": "Giant Centipede",
+    "level": 50,
+    "eva": 27
+  },
+  "9300184": {
+    "name": "Mano (Dojo)",
+    "level": 20,
+    "eva": 8
+  },
+  "9300185": {
+    "name": "Stumpy (Dojo)",
+    "level": 35,
+    "eva": 12
+  },
+  "9300186": {
+    "name": "Deo (Dojo)",
+    "level": 38,
+    "eva": 18
+  },
+  "9300187": {
+    "name": "King Slime (Dojo)",
+    "level": 40,
+    "eva": 10
+  },
+  "9300188": {
+    "name": "Giant Centipede (Dojo)",
+    "level": 50,
+    "eva": 27
+  },
+  "9300189": {
+    "name": "Faust (Dojo)",
+    "level": 50,
+    "eva": 20
+  },
+  "9300190": {
+    "name": "King Clang (Dojo)",
+    "level": 55,
+    "eva": 20
+  },
+  "9300191": {
+    "name": "Mushmom (Dojo)",
+    "level": 60,
+    "eva": 27
+  },
+  "9300192": {
+    "name": "Alishar (Dojo)",
+    "level": 56,
+    "eva": 26
+  },
+  "9300193": {
+    "name": "Timer (Dojo)",
+    "level": 59,
+    "eva": 20
+  },
+  "9300194": {
+    "name": "Dyle (Dojo)",
+    "level": 65,
+    "eva": 30
+  },
+  "9300195": {
+    "name": "Papa Pixie (Dojo)",
+    "level": 65,
+    "eva": 18
+  },
+  "9300196": {
+    "name": "Zombie Mushmom (Dojo)",
+    "level": 65,
+    "eva": 30
+  },
+  "9300197": {
+    "name": "Zeno (Dojo)",
+    "level": 65,
+    "eva": 29
+  },
+  "9300198": {
+    "name": "Lord Pirate (Dojo)",
+    "level": 60,
+    "eva": 22
+  },
+  "9300199": {
+    "name": "Old Fox (Dojo)",
+    "level": 70,
+    "eva": 25
+  },
+  "9300200": {
+    "name": "Tae Roon (Dojo)",
+    "level": 71,
+    "eva": 30
+  },
+  "9300201": {
+    "name": "Super-Charged Poison Golem (Dojo)",
+    "level": 85,
+    "eva": 18
+  },
+  "9300202": {
+    "name": "King Sage Cat (Dojo)",
+    "level": 77,
+    "eva": 27
+  },
+  "9300203": {
+    "name": "Jr. Balrog (Dojo)",
+    "level": 80,
+    "eva": 30
+  },
+  "9300204": {
+    "name": "Eliza (Dojo)",
+    "level": 83,
+    "eva": 30
+  },
+  "9300205": {
+    "name": "Frankenroid (Dojo)",
+    "level": 81,
+    "eva": 28
+  },
+  "9300206": {
+    "name": "Kimera (Dojo)",
+    "level": 85,
+    "eva": 27
+  },
+  "9300207": {
+    "name": "Snack Bar (Dojo)",
+    "level": 85,
+    "eva": 40
+  },
+  "9300208": {
+    "name": "Snowman (Dojo)",
+    "level": 90,
+    "eva": 38
+  },
+  "9300209": {
+    "name": "Blue Mushmom (Dojo)",
+    "level": 90,
+    "eva": 64
+  },
+  "9300210": {
+    "name": "Crimson Balrog (Dojo)",
+    "level": 100,
+    "eva": 40
+  },
+  "9300211": {
+    "name": "Manon (Dojo)",
+    "level": 105,
+    "eva": 39
+  },
+  "9300212": {
+    "name": "Griffey (Dojo)",
+    "level": 105,
+    "eva": 39
+  },
+  "9300213": {
+    "name": "Leviathan (Dojo)",
+    "level": 120,
+    "eva": 41
+  },
+  "9300214": {
+    "name": "Papulatus (Dojo)",
+    "level": 125,
+    "eva": 12
+  },
+  "9300215": {
+    "name": "Mu Gong Merits (Dojo)",
+    "level": 150,
+    "eva": 50
+  },
+  "9300270": {
+    "name": "Mingu (Dojo)",
+    "level": 80,
+    "eva": 15
+  },
+  "9410040": {
+    "name": "Grandma Tree",
+    "level": 105,
+    "eva": 45
+  },
+  "9410023": {
+    "name": "Transformed Cool Perfume",
+    "level": 67,
+    "eva": 30
+  },
+  "9410024": {
+    "name": "Floral Perfume",
+    "level": 69,
+    "eva": 20
+  },
+  "9410025": {
+    "name": "Transformed Floral Perfume",
+    "level": 69,
+    "eva": 35
+  },
+  "9410026": {
+    "name": "Sweet Perfume",
+    "level": 65,
+    "eva": 15
+  },
+  "9410027": {
+    "name": "Transformed Sweet Perfume",
+    "level": 65,
+    "eva": 25
+  },
+  "9410028": {
+    "name": "Magic Speaker",
+    "level": 70,
+    "eva": 26
+  },
+  "9410029": {
+    "name": "Magic Amplifier",
+    "level": 74,
+    "eva": 27
+  },
+  "9410030": {
+    "name": "Trickster CD",
+    "level": 72,
+    "eva": 27
+  },
+  "9410031": {
+    "name": "Strange CD",
+    "level": 76,
+    "eva": 28
+  },
+  "9410032": {
+    "name": "Bunny Doll",
+    "level": 75,
+    "eva": 28
+  },
+  "9410033": {
+    "name": "Rose the Doll",
+    "level": 77,
+    "eva": 28
+  },
+  "9410034": {
+    "name": "Jack the Doll",
+    "level": 80,
+    "eva": 30
+  },
+  "9410035": {
+    "name": "Cray-Z Music",
+    "level": 130,
+    "eva": 45
+  },
+  "9410039": {
+    "name": "Demon Slime",
+    "level": 23,
+    "eva": 8
+  },
+  "9600012": {
+    "name": "Black Bear",
+    "level": 88,
+    "eva": 28
+  },
+  "9600013": {
+    "name": "White Tiger",
+    "level": 95,
+    "eva": 37
+  },
+  "9600014": {
+    "name": "Giant Eagle",
+    "level": 100,
+    "eva": 37
+  },
+  "9600015": {
+    "name": "Male Brigand",
+    "level": 103,
+    "eva": 38
+  },
+  "9600016": {
+    "name": "Female Brigand",
+    "level": 105,
+    "eva": 37
+  },
+  "9600017": {
+    "name": "Incense Burner",
+    "level": 110,
+    "eva": 40
+  },
+  "9600018": {
+    "name": "Wooden Fish",
+    "level": 113,
+    "eva": 38
+  },
+  "9617000": {
+    "name": "Heavenly Hawk",
+    "level": 110,
+    "eva": 42
+  },
+  "9618000": {
+    "name": "Scarlet Monk",
+    "level": 130,
+    "eva": 41
+  },
+  "9619000": {
+    "name": "Immovable Sage",
+    "level": 125,
+    "eva": 37
+  }
+}
