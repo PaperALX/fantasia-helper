@@ -9,6 +9,40 @@
 
   <h1>Accuracy Calculator</h1>
 
+  <div id="calculator">
+
+    <!-- Player Inputs -->
+    <div id="playerInputs">
+      <div>
+        <label for="playerLevel">Character Level:</label>
+        <input type="number" id="playerLevel">
+      </div>
+
+      <div>
+        <label for="playerAccuracy">Accuracy:</label>
+        <input type="number" id="playerAccuracy">
+      </div>
+    </div>
+
+    <!-- Monster Select -->
+    <div id="monsterSection">
+      <select id="monsterSelect">
+        <option value="">Select a monster</option>
+      </select>
+
+      <div id="monsterInfo"></div>
+
+      <img id="monsterImage" src="" alt="Monster Image">
+    </div>
+
+    <!-- Results -->
+    <div id="results">
+      <div id="hitRateDisplay"></div>
+      <div id="requiredAccuracyDisplay"></div>
+    </div>
+
+  </div>
+
   <script src="script.js"></script>
 </body>
 </html>
