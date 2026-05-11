@@ -8,16 +8,12 @@ function getAcc100(monsterLevel, monsterAvoid, playerLevel) {
 
 function calculateHitRate(playerAccuracy, acc100) {
 
-  const acc1 = acc100 * 0.5 + 1;
-
-  const AccPart = (playerAccuracy - acc1 + 1) / (acc100 - acc1 + 1);
-
   let hitRate =
-    (-0.7011618132 * Math.pow(AccPart, 2)) +
-    (1.702139835 * AccPart);
+    ((2 * playerAccuracy) / acc100) - 1;
 
   hitRate *= 100;
 
+  // Clamp between 0% and 100%
   return Math.max(0, Math.min(100, hitRate));
 }
 
@@ -81,7 +77,7 @@ function updateCalculator() {
   `;
 
   requiredAccuracyDisplay.innerHTML = `
-    <h3>Accuracy Needed for 100%: ${Math.round(acc100)}</h3>
+    <h3>Accuracy Needed for 100%: ${Math.ceil(acc100)}</h3>
   `;
 }
 
