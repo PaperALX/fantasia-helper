@@ -1,0 +1,314 @@
+/* =========================================================
+   FONT SETUP
+   ========================================================= */
+@font-face {
+  font-family: 'VI Hai Duong';
+  src: url('../fonts/VI-Hai-Duong-Normal.ttf') format('truetype');
+}
+
+/* =========================================================
+   GLOBAL BASE STYLES
+   ========================================================= */
+body {
+  margin: 0;
+  padding: 40px 20px;
+
+  font-family: Verdana, Geneva, sans-serif;
+  color: #2c2c2c;
+
+  cursor: url('../background/cursor.png') 0 0, auto;
+
+  background: url('../background/elliniaBG.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* =========================================================
+   MAIN LAYOUT (3-COLUMN CALCULATOR)
+   ========================================================= */
+#calculator {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px;
+
+  display: grid;
+  grid-template-columns: 320px 1fr 320px;
+  gap: 24px;
+  align-items: start;
+
+  background: linear-gradient(to bottom right, rgba(255,235,235,0.96), rgba(225,185,185,0.96));
+
+  border: 3px solid #8f4c4c;
+  border-radius: 16px;
+
+  box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+}
+
+/* =========================================================
+   TYPOGRAPHY
+   ========================================================= */
+h1 {
+  font-family: 'VI Hai Duong', sans-serif;
+  font-size: 3rem;
+  color: #4b2b2b;
+  margin: 0 0 25px;
+}
+
+/* =========================================================
+   LEFT PANEL
+   ========================================================= */
+#leftPanel {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* =========================================================
+   PLAYER INPUT BOX
+   ========================================================= */
+#playerInputs {
+  background: linear-gradient(to bottom, #ffecec, #e3bcbc);
+  border: 2px solid #9d5b5b;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+#playerInputs div {
+  margin-bottom: 14px;
+}
+
+label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: bold;
+  color: #4a2d2d;
+}
+
+/* =========================================================
+   INPUTS
+   ========================================================= */
+input[type="number"],
+input[type="text"] {
+  width: 100%;
+  box-sizing: border-box;
+
+  padding: 10px 12px;
+  font-size: 1rem;
+
+  border: 2px solid #b97b7b;
+  border-radius: 8px;
+
+  background: #fff8f8;
+  color: #2c2c2c;
+
+  outline: none;
+  text-align: center;
+}
+
+/* remove number spinners */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+/* =========================================================
+   SORT CONTROLS
+   ========================================================= */
+#sortButtons {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  flex: 1;
+
+  padding: 10px;
+
+  background: #f3d6d6;
+  border: 2px solid #b97b7b;
+  border-radius: 8px;
+
+  font-size: 0.95rem;
+
+  box-shadow: 0 0 0 2px #fff inset, 0 2px 4px rgba(0,0,0,0.15);
+
+  transition: transform 0.1s ease;
+}
+
+button:hover {
+  transform: scale(1.03);
+}
+
+button.active {
+  background: #e3bcbc;
+  border-color: #9d5b5b;
+  color: #4a2d2d;
+
+  box-shadow: 0 0 0 2px rgba(255,255,255,0.6) inset, 0 2px 6px rgba(0,0,0,0.18);
+  transform: scale(1.01);
+}
+
+/* =========================================================
+   MONSTER SELECT
+   ========================================================= */
+#monsterSelect {
+  width: 100%;
+  max-height: 260px;
+
+  border: 2px solid #9d5b5b;
+  border-radius: 10px;
+
+  background: #fff8f8;
+  font-size: 0.95rem;
+}
+
+/* =========================================================
+   CENTER PANEL
+   ========================================================= */
+#centerPanel {
+  background: linear-gradient(to bottom, #ffecec, #e3bcbc);
+  border: 2px solid #9d5b5b;
+  border-radius: 12px;
+
+  padding: 20px;
+  text-align: center;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+#monsterImage {
+  display: block;
+  margin: 20px auto;
+}
+
+/* =========================================================
+   NOTES PANEL
+   ========================================================= */
+#notesSection {
+  background: linear-gradient(to bottom, #ffecec, #e3bcbc);
+  border: 2px solid #9d5b5b;
+  border-radius: 12px;
+
+  padding: 18px;
+  line-height: 1.6;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+#notesSection h2 {
+  margin-top: 0;
+  font-family: 'VI Hai Duong', sans-serif;
+  color: #4b2b2b;
+  text-align: center;
+}
+
+#notesSection h3 {
+  margin-bottom: 6px;
+  color: #4a2d2d;
+}
+
+#notesSection ul {
+  margin-top: 0;
+  padding-left: 20px;
+  list-style: none;
+}
+
+/* =========================================================
+   NUMBER CONTROL
+   ========================================================= */
+.number-control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.number-control button {
+  width: 40px;
+  height: 40px;
+
+  flex: 0 0 auto;
+  padding: 0;
+
+  border: 2px solid #b97b7b;
+  border-radius: 6px;
+
+  background: #f3d6d6;
+
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1;
+
+  cursor: pointer;
+
+  box-shadow: 0 0 0 2px #fff inset, 0 2px 4px rgba(0,0,0,0.15);
+}
+
+/* =========================================================
+   TITLE CONTAINER
+   ========================================================= */
+.title-container {
+  width: fit-content;
+  margin: 0 auto 20px;
+
+  background: #f3d6d6;
+  padding: 12px 20px;
+
+  border: 2px solid #b97b7b;
+  border-radius: 12px;
+
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+
+  text-align: center;
+}
+
+.title-container h1 {
+  margin: 0;
+}
+
+/* =========================================================
+   STATS BADGES
+   ========================================================= */
+.stat {
+  font-weight: bold;
+  color: #fff;
+
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-right: 6px;
+
+  display: inline-block;
+}
+
+.stat-level { background-color: #7f8c8d; }
+.stat-evade { background-color: #8e6bbf; }
+
+/* =========================================================
+   RESULTS
+   ========================================================= */
+#results {
+  margin-top: 20px;
+}
+
+#results h3 {
+  margin: 10px 0;
+  font-size: 1.15rem;
+  color: #4a1f1f;
+}
+
+#results strong {
+  color: #b71c1c;
+
+  padding: 2px 6px;
+  border-radius: 6px;
+
+  background: rgba(183, 28, 28, 0.08);
+  border: 1px solid rgba(183, 28, 28, 0.25);
+
+  box-shadow: 0 0 6px rgba(183, 28, 28, 0.18);
+}

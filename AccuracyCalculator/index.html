@@ -5,44 +5,123 @@
   <title>Accuracy Calculator</title>
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-  <h1>Accuracy Calculator</h1>
+  <!-- TITLE -->
+  <div class="title-container">
+    <h1>Accuracy Calculator</h1>
+  </div>
 
+  <!-- MAIN 3-COLUMN LAYOUT -->
   <div id="calculator">
 
-    <!-- Player Inputs -->
-    <div id="playerInputs">
-      <div>
-        <label for="playerLevel">Character Level:</label>
-        <input type="number" id="playerLevel">
+    <!-- LEFT PANEL: Inputs + Controls -->
+    <div id="leftPanel">
+
+      <!-- Player Stats Inputs -->
+      <div id="playerInputs">
+
+        <!-- Level -->
+        <div class="stat-control">
+          <label for="playerLevel">Character Level:</label>
+          <div class="number-control">
+            <input type="number" id="playerLevel" value="10">
+            <button class="minus" data-target="playerLevel">-</button>
+            <button class="plus" data-target="playerLevel">+</button>
+          </div>
+        </div>
+
+        <!-- Accuracy -->
+        <div class="stat-control">
+          <label for="playerAccuracy">Accuracy:</label>
+          <div class="number-control">
+            <input type="number" id="playerAccuracy" value="4">
+            <button class="minus" data-target="playerAccuracy">-</button>
+            <button class="plus" data-target="playerAccuracy">+</button>
+          </div>
+        </div>
+
       </div>
 
-      <div>
-        <label for="playerAccuracy">Accuracy:</label>
-        <input type="number" id="playerAccuracy">
+      <!-- Sorting Controls -->
+      <div id="sortButtons">
+        <button id="sortById" class="active">Sort by ID</button>
+        <button id="sortByLevel">Sort by Level</button>
       </div>
+
+      <!-- Monster Search -->
+      <input
+        type="text"
+        id="monsterSearch"
+        placeholder="Search monsters..."
+      >
+
+      <!-- Monster List -->
+      <select id="monsterSelect" size="15"></select>
+
     </div>
 
-    <!-- Monster Select -->
-    <div id="monsterSection">
-      <select id="monsterSelect">
-        <option value="">Select a monster</option>
-      </select>
+    <!-- CENTER PANEL: Monster + Results -->
+    <div id="centerPanel">
 
       <div id="monsterInfo"></div>
 
-      <img id="monsterImage" src="" alt="Monster Image">
+      <img
+        id="monsterImage"
+        src=""
+        alt="Monster Image"
+      >
+
+      <div id="results">
+        <div id="hitRateDisplay"></div>
+        <div id="requiredAccuracyDisplay"></div>
+      </div>
+
     </div>
 
-    <!-- Results -->
-    <div id="results">
-      <div id="hitRateDisplay"></div>
-      <div id="requiredAccuracyDisplay"></div>
+    <!-- RIGHT PANEL: Notes -->
+    <div id="notesSection">
+
+      <h2>Notes</h2>
+
+      <p>
+        Hit rate is an <strong>ESTIMATE</strong>
+        and may vary wildly in gameplay,
+        especially if less than 5%.
+      </p>
+
+      <div class="jobNotes">
+
+        <h3>For Warriors</h3>
+        <ul>
+          <li>1 DEX = 0.8 accuracy</li>
+          <li>1 LUK = 0.5 accuracy</li>
+        </ul>
+
+        <h3>For Bowman and Thief</h3>
+        <ul>
+          <li>1 DEX = 0.6 accuracy</li>
+          <li>1 LUK = 0.3 accuracy</li>
+        </ul>
+
+        <h3>For Pirate</h3>
+        <ul>
+          <li>1 DEX = 0.9 accuracy</li>
+          <li>1 LUK = 0.3 accuracy</li>
+        </ul>
+
+      </div>
+
+      <p>
+        Magic attack / Magician accuracy is not available in this tool.
+      </p>
+
     </div>
 
   </div>
 
   <script src="script.js"></script>
+
 </body>
 </html>
