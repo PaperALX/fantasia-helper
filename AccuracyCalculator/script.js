@@ -169,7 +169,7 @@ function updateCalculator() {
    8. INITIALIZE APP
    ========================================================= */
 
-fetch("monsterEVA.json")
+fetch(`monsterEVA.json?v=${Date.now()}`)
   .then(res => res.json())
   .then(data => {
     monsters = data;
