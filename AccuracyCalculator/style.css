@@ -18,8 +18,23 @@ body {
 
   cursor: url('../background/cursor.png') 0 0, auto;
 
-  background: url('../background/elliniaBG.png') no-repeat center center fixed;
+  background: url('../background/mulungBG.png') no-repeat center center fixed;
   background-size: cover;
+}
+
+/* Keep custom cursor on interactive elements */
+button,
+select,
+#monsterSelect,
+#sortButtons button,
+.number-control button {
+  cursor: url('../background/cursor.png') 0 0, auto;
+}
+
+/* Only inputs should use text cursor */
+input[type="text"],
+input[type="number"] {
+  cursor: text;
 }
 
 /* =========================================================
@@ -243,8 +258,6 @@ button.active {
   font-size: 16px;
   font-weight: bold;
   line-height: 1;
-
-  cursor: pointer;
 
   box-shadow: 0 0 0 2px #fff inset, 0 2px 4px rgba(0,0,0,0.15);
 }

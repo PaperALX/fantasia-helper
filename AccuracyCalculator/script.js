@@ -80,6 +80,15 @@ document.querySelectorAll(".minus").forEach(btn =>
   )
 );
 
+/* strict number-only input */
+document.querySelectorAll('input[type="number"]').forEach(input => {
+
+  input.addEventListener("input", () => {
+    input.value = input.value.replace(/\D/g, "");
+  });
+
+});
+
 /* =========================================================
    6. MONSTER LIST RENDERING
    ========================================================= */
