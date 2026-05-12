@@ -234,21 +234,6 @@
     "level": 30,
     "eva": 25
   },
-  "3000002": {
-    "name": "Fairy",
-    "level": 30,
-    "eva": 25
-  },
-  "3000003": {
-    "name": "Fairy",
-    "level": 30,
-    "eva": 25
-  },
-  "3000004": {
-    "name": "Fairy",
-    "level": 30,
-    "eva": 25
-  },
   "3000005": {
     "name": "Brown Teddy",
     "level": 30,
@@ -409,11 +394,6 @@
     "level": 35,
     "eva": 27
   },
-  "3230301": {
-    "name": "Jr. Boogie 2",
-    "level": 35,
-    "eva": 27
-  },
   "3230302": {
     "name": "Bloctopus",
     "level": 35,
@@ -459,11 +439,6 @@
     "level": 38,
     "eva": 18
   },
-  "4090000": {
-    "name": "Iron Hook",
-    "level": 42,
-    "eva": 18
-  },
   "4110300": {
     "name": "Iron Mutae",
     "level": 42,
@@ -499,17 +474,7 @@
     "level": 47,
     "eva": 16
   },
-  "4130104": {
-    "name": "Dark Nependeath",
-    "level": 47,
-    "eva": 15
-  },
   "4220000": {
-    "name": "Seruf",
-    "level": 45,
-    "eva": 20
-  },
-  "4220001": {
     "name": "Seruf",
     "level": 45,
     "eva": 20
@@ -623,11 +588,6 @@
     "name": "Mecateon",
     "level": 46,
     "eva": 20
-  },
-  "4230122": {
-    "name": "Nependeath",
-    "level": 42,
-    "eva": 10
   },
   "4230123": {
     "name": "Sparker",
@@ -895,11 +855,6 @@
     "eva": 12
   },
   "5220000": {
-    "name": "King Clang",
-    "level": 55,
-    "eva": 20
-  },
-  "5220001": {
     "name": "King Clang",
     "level": 55,
     "eva": 20
@@ -1479,11 +1434,6 @@
     "level": 105,
     "eva": 38
   },
-  "8190001": {
-    "name": "Jr. Newtie",
-    "level": 105,
-    "eva": 38
-  },
   "8190002": {
     "name": "Nest Golem",
     "level": 110,
@@ -1497,11 +1447,6 @@
   "8190004": {
     "name": "Skelosaurus",
     "level": 113,
-    "eva": 38
-  },
-  "8190005": {
-    "name": "Nest Golem",
-    "level": 110,
     "eva": 38
   },
   "8220000": {
@@ -1550,7 +1495,7 @@
     "eva": 15
   },
   "8510000": {
-    "name": "Pianus",
+    "name": "Pianus (Right)",
     "level": 110,
     "eva": 14
   },
@@ -1560,7 +1505,7 @@
     "eva": 20
   },
   "8520000": {
-    "name": "Pianus",
+    "name": "Pianus (Left)",
     "level": 110,
     "eva": 14
   },
@@ -1729,30 +1674,10 @@
     "level": 54,
     "eva": 25
   },
-  "9300005": {
-    "name": "Ratz from Another Dimension (LPQ)",
-    "level": 32,
-    "eva": 13
-  },
-  "9300006": {
-    "name": "Black Ratz from Another Dimension (LPQ)",
-    "level": 34,
-    "eva": 14
-  },
-  "9300007": {
-    "name": "Bloctopus from Another Dimension (LPQ)",
-    "level": 35,
-    "eva": 15
-  },
   "9300008": {
     "name": "Shadow Eye from Another Dimension (LPQ)",
     "level": 43,
     "eva": 18
-  },
-  "9300009": {
-    "name": "Block Golem from Another Dimension (LPQ)",
-    "level": 40,
-    "eva": 12
   },
   "9300010": {
     "name": "Rombad from Another Dimension (LPQ)",
@@ -1773,11 +1698,6 @@
     "name": "Dark Eye from Another Dimension (LPQ)",
     "level": 43,
     "eva": 18
-  },
-  "9300018": {
-    "name": "Tutorial Jr. Sentinel",
-    "level": 1,
-    "eva": 0
   },
   "9300019": {
     "name": "Master Muscle Stone",
@@ -1849,31 +1769,6 @@
     "level": 100,
     "eva": 14
   },
-  "9300033": {
-    "name": "Jr. Gargoyle",
-    "level": 62,
-    "eva": 26
-  },
-  "9300034": {
-    "name": "Mist Knight",
-    "level": 66,
-    "eva": 25
-  },
-  "9300035": {
-    "name": "Jr. Gargoyle",
-    "level": 62,
-    "eva": 26
-  },
-  "9300036": {
-    "name": "Black Knight",
-    "level": 66,
-    "eva": 25
-  },
-  "9300037": {
-    "name": "Mist Knight",
-    "level": 66,
-    "eva": 25
-  },
   "9300038": {
     "name": "Ghost Pixie",
     "level": 59,
@@ -1918,16 +1813,6 @@
     "name": "Dark Cloud Fox",
     "level": 45,
     "eva": 20
-  },
-  "9400009": {
-    "name": "Crow",
-    "level": 200,
-    "eva": 999
-  },
-  "9400010": {
-    "name": "Flaming Raccoon",
-    "level": 200,
-    "eva": 999
   },
   "9400011": {
     "name": "Paper Lantern Ghost",
@@ -1989,11 +1874,6 @@
     "level": 155,
     "eva": 50
   },
-  "9400114": {
-    "name": "Slot Machine",
-    "level": 50,
-    "eva": 5
-  },
   "9400120": {
     "name": "Male Boss",
     "level": 95,
@@ -2003,21 +1883,6 @@
     "name": "Female Boss",
     "level": 130,
     "eva": 43
-  },
-  "9400122": {
-    "name": "Male Boss",
-    "level": 95,
-    "eva": 35
-  },
-  "9400202": {
-    "name": "Golden Slime",
-    "level": 1,
-    "eva": 1
-  },
-  "9400203": {
-    "name": "Silver Slime",
-    "level": 40,
-    "eva": 18
   },
   "9400204": {
     "name": "Red Slime",
@@ -2069,11 +1934,6 @@
     "level": 21,
     "eva": 7
   },
-  "9400540": {
-    "name": "Killa Bee",
-    "level": 25,
-    "eva": 5
-  },
   "9400541": {
     "name": "Killa Bee",
     "level": 25,
@@ -2119,11 +1979,6 @@
     "level": 101,
     "eva": 42
   },
-  "9400550": {
-    "name": "Boomer",
-    "level": 27,
-    "eva": 10
-  },
   "9400551": {
     "name": "Bob",
     "level": 2,
@@ -2143,11 +1998,6 @@
     "name": "Blue Flying Book",
     "level": 200,
     "eva": 999
-  },
-  "9400556": {
-    "name": "Glutton Ghoul",
-    "level": 21,
-    "eva": 10
   },
   "9400557": {
     "name": "Psycho Jack Box",
@@ -2225,7 +2075,7 @@
     "eva": 37
   },
   "9400578": {
-    "name": "Firebrand",
+    "name": "Firebrand (Transformed)",
     "level": 90,
     "eva": 37
   },
@@ -2255,7 +2105,7 @@
     "eva": 20
   },
   "9400584": {
-    "name": "Leprechaun",
+    "name": "Leprechaun (Disguised)",
     "level": 45,
     "eva": 0
   },
@@ -2494,165 +2344,20 @@
     "level": 50,
     "eva": 27
   },
-  "9600010": {
-    "name": "Giant Centipede",
-    "level": 50,
-    "eva": 27
-  },
-  "9300184": {
-    "name": "Mano (Dojo)",
-    "level": 20,
-    "eva": 8
-  },
-  "9300185": {
-    "name": "Stumpy (Dojo)",
-    "level": 35,
-    "eva": 12
-  },
-  "9300186": {
-    "name": "Deo (Dojo)",
-    "level": 38,
-    "eva": 18
-  },
-  "9300187": {
-    "name": "King Slime (Dojo)",
-    "level": 40,
-    "eva": 10
-  },
-  "9300188": {
-    "name": "Giant Centipede (Dojo)",
-    "level": 50,
-    "eva": 27
-  },
-  "9300189": {
-    "name": "Faust (Dojo)",
-    "level": 50,
-    "eva": 20
-  },
-  "9300190": {
-    "name": "King Clang (Dojo)",
-    "level": 55,
-    "eva": 20
-  },
-  "9300191": {
-    "name": "Mushmom (Dojo)",
-    "level": 60,
-    "eva": 27
-  },
-  "9300192": {
-    "name": "Alishar (Dojo)",
-    "level": 56,
-    "eva": 26
-  },
-  "9300193": {
-    "name": "Timer (Dojo)",
-    "level": 59,
-    "eva": 20
-  },
-  "9300194": {
-    "name": "Dyle (Dojo)",
-    "level": 65,
-    "eva": 30
-  },
-  "9300195": {
-    "name": "Papa Pixie (Dojo)",
-    "level": 65,
-    "eva": 18
-  },
-  "9300196": {
-    "name": "Zombie Mushmom (Dojo)",
-    "level": 65,
-    "eva": 30
-  },
-  "9300197": {
-    "name": "Zeno (Dojo)",
-    "level": 65,
-    "eva": 29
-  },
   "9300198": {
     "name": "Lord Pirate (Dojo)",
     "level": 60,
     "eva": 22
-  },
-  "9300199": {
-    "name": "Old Fox (Dojo)",
-    "level": 70,
-    "eva": 25
-  },
-  "9300200": {
-    "name": "Tae Roon (Dojo)",
-    "level": 71,
-    "eva": 30
   },
   "9300201": {
     "name": "Super-Charged Poison Golem (Dojo)",
     "level": 85,
     "eva": 18
   },
-  "9300202": {
-    "name": "King Sage Cat (Dojo)",
-    "level": 77,
-    "eva": 27
-  },
-  "9300203": {
-    "name": "Jr. Balrog (Dojo)",
-    "level": 80,
-    "eva": 30
-  },
-  "9300204": {
-    "name": "Eliza (Dojo)",
-    "level": 83,
-    "eva": 30
-  },
   "9300205": {
     "name": "Frankenroid (Dojo)",
     "level": 81,
     "eva": 28
-  },
-  "9300206": {
-    "name": "Kimera (Dojo)",
-    "level": 85,
-    "eva": 27
-  },
-  "9300207": {
-    "name": "Snack Bar (Dojo)",
-    "level": 85,
-    "eva": 40
-  },
-  "9300208": {
-    "name": "Snowman (Dojo)",
-    "level": 90,
-    "eva": 38
-  },
-  "9300209": {
-    "name": "Blue Mushmom (Dojo)",
-    "level": 90,
-    "eva": 64
-  },
-  "9300210": {
-    "name": "Crimson Balrog (Dojo)",
-    "level": 100,
-    "eva": 40
-  },
-  "9300211": {
-    "name": "Manon (Dojo)",
-    "level": 105,
-    "eva": 39
-  },
-  "9300212": {
-    "name": "Griffey (Dojo)",
-    "level": 105,
-    "eva": 39
-  },
-  "9300213": {
-    "name": "Leviathan (Dojo)",
-    "level": 120,
-    "eva": 41
-  },
-  "9300214": {
-    "name": "Papulatus (Dojo)",
-    "level": 125,
-    "eva": 12
   },
   "9300215": {
     "name": "Mu Gong Merits (Dojo)",
@@ -2783,10 +2488,5 @@
     "name": "Scarlet Monk",
     "level": 130,
     "eva": 41
-  },
-  "9619000": {
-    "name": "Immovable Sage",
-    "level": 125,
-    "eva": 37
   }
 }
