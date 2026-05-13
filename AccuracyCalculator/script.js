@@ -3,15 +3,36 @@
    ========================================================= */
 
 function getAcc100(monsterLevel, monsterAvoid, playerLevel) {
-  const diff = Math.max(0, monsterLevel - playerLevel);
+  const levelDiff = Math.max(0, monsterLevel - playerLevel);
 
-  return (55.2 + 2.15 * diff) * (monsterAvoid / 15);
+  return (monsterAvoid / 0.7) * ((levelDiff * 10 + 255) / 100);
 }
 
-function calculateHitRate(playerAccuracy, acc100) {
-  const raw = ((2 * playerAccuracy) / acc100 - 1) * 100;
+function calculateHitRate(playerAccuracy, monsterLevel, monsterAvoid, playerLevel) {
+  const levelDiff = Math.max(0, monsterLevel - playerLevel);
 
-  return Math.max(0, Math.min(100, raw));
+  // base accuracy rate before RNG
+  const accuracyRate =
+    (playerAccuracy * 100) / (levelDiff * 10 + 255);
+
+  // no accuracy means no chance to hit
+  if (accuracyRate <= 0) {
+    return 0;
+  }
+
+  const requiredRng = monsterAvoid / accuracyRate;
+
+  let hitChance;
+
+  if (requiredRng <= 0.7) {
+    hitChance = 100;
+  } else if (requiredRng >= 1.3) {
+    hitChance = 0;
+  } else {
+    hitChance = ((1.3 - requiredRng) / 0.6) * 100;
+  }
+
+  return Math.max(0, Math.min(100, hitChance));
 }
 
 /* =========================================================
@@ -154,7 +175,8 @@ function updateCalculator() {
   `;
 
   const acc100 = getAcc100(m.level, m.eva, playerLevel);
-  const hitRate = calculateHitRate(playerAccuracy, acc100);
+
+  const hitRate = calculateHitRate(playerAccuracy, m.level, m.eva, playerLevel);
 
   el.hitRate.innerHTML = `
     <h3>Hit Rate: <strong>${hitRate.toFixed(2)}%</strong></h3>
