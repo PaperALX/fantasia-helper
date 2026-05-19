@@ -1897,7 +1897,7 @@
   "9400300": {
     "name": "The Boss",
     "level": 175,
-    "eva": 120
+    "eva": 80
   },
   "9400514": {
     "name": "Geist Balrog Phase 3",
@@ -2444,6 +2444,11 @@
     "level": 23,
     "eva": 8
   },
+  "9600025": {
+    "name": "Wulin Yaoseng",
+    "level": 170,
+    "eva": 27
+  },
   "9600012": {
     "name": "Black Bear",
     "level": 88,
@@ -2479,6 +2484,36 @@
     "level": 113,
     "eva": 38
   },
+  "9600019": {
+    "name": "Small Gold Monk",
+    "level": 128,
+    "eva": 42
+  },
+  "9600020": {
+    "name": "Small Bronze Monk",
+    "level": 120,
+    "eva": 42
+  },
+  "9600021": {
+    "name": "Large Gold Monk",
+    "level": 130,
+    "eva": 40
+  },
+  "9600022": {
+    "name": "Large Silver Monk",
+    "level": 126,
+    "eva": 40
+  },
+  "9600023": {
+    "name": "Large Bronze Monk",
+    "level": 122,
+    "eva": 41
+  },
+  "9600024": {
+    "name": "Small Silver Monk",
+    "level": 124,
+    "eva": 41    
+  },
   "9617000": {
     "name": "Heavenly Hawk",
     "level": 110,
@@ -2488,5 +2523,10 @@
     "name": "Scarlet Monk",
     "level": 130,
     "eva": 41
+  },
+  "9600026": {
+    "name": "Clone of Wulin Yaoseng",
+    "level": 140,
+    "eva": 20
   }
 }
