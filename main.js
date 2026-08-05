@@ -39,7 +39,6 @@ const searchInput = document.getElementById('search');
 const dropdown = document.getElementById('dropdown');
 const resultDiv = document.getElementById('result');
 
-
 // ==============================
 // BACK BUTTON
 // ==============================
@@ -50,9 +49,6 @@ backButton.addEventListener('click', () => {
 
   const previous = historyStack.pop();
   showResult(previous, true);
-
-  backButton.style.display = historyStack.length === 0 ? 'none' : 'inline-block';
-
 });
 
 // ==============================
@@ -64,10 +60,16 @@ fetch(`data/monsters.json?v=${Date.now()}`)
     monsters = data.map(normalizeMonster);
     monsters.forEach(m => monsterMap.set(m.name, m));
 
-    // Build drop map for fast item lookup
+    // Build drop map for fast item lookup (normal + hidden drops)
     dropMap = {};
     monsters.forEach(m => {
-      m.dropsLower.forEach((dLower, i) => {
+      // Normal drops
+      m.dropsLower.forEach((dLower) => {
+        if (!dropMap[dLower]) dropMap[dLower] = [];
+        dropMap[dLower].push(m);
+      });
+      // Hidden drops
+      m.hiddenLower.forEach((dLower) => {
         if (!dropMap[dLower]) dropMap[dLower] = [];
         dropMap[dLower].push(m);
       });
@@ -81,21 +83,68 @@ fetch(`data/monsters.json?v=${Date.now()}`)
   });
 
 // ==============================
+// HELPER: PARSE ELEMATTR STRING
+// ==============================
+function parseElemAttr(elemAttr) {
+  if (!elemAttr) return [];
+  const elements = [];
+  const elementMap = {
+    'F': 'Fire',
+    'S': 'Poison',
+    'H': 'Holy',
+    'I': 'Ice',
+    'L': 'Lightning'
+  };
+  const statusMap = {
+    '1': 'Immune',
+    '2': 'Resist',
+    '3': 'Weak'
+  };
+
+  for (let i = 0; i < elemAttr.length; i += 2) {
+    const code = elemAttr[i];
+    const value = elemAttr[i + 1];
+    if (elementMap[code] && statusMap[value]) {
+      elements.push({
+        element: elementMap[code],
+        status: statusMap[value]
+      });
+    }
+  }
+  return elements;
+}
+
+// ==============================
 // HELPER: NORMALIZE MONSTER OBJECT
 // ==============================
 function normalizeMonster(m) {
+  const elements = parseElemAttr(m.elemAttr || '');
   return {
     name: m.name || "Unknown",
     nameLower: (m.name || "").toLowerCase(),
     image: m.image || "",
-    level: m.level || 0,
-    hp: m.hp || 0,
-    mp: m.mp || 0,
-    exp: m.exp || 0,
+    level: Number(m.level) || 0,
+    hp: Number(m.hp) || 0,
+    mp: Number(m.mp) || 0,
+    exp: Number(m.exp) || 0,
     drops: Array.isArray(m.drops) ? m.drops : [],
     dropsLower: Array.isArray(m.drops) ? m.drops.map(d => d.toLowerCase()) : [],
+    hidden: Array.isArray(m.hidden) ? m.hidden : [],
+    hiddenLower: Array.isArray(m.hidden) ? m.hidden.map(d => d.toLowerCase()) : [],
     notes: m.notes || "",
-    episode: m.episode || ""
+    episode: m.episode || "",
+    // Elemental traits
+    elements: elements,
+    healWeak: Boolean(m.undead),
+    // Other stats
+    speed: Number(m.speed) || 0,
+    PADamage: Number(m.PADamage) || 0,
+    PDDamage: Number(m.PDDamage) || 0,
+    MADamage: Number(m.MADamage) || 0,
+    MDDamage: Number(m.MDDamage) || 0,
+    acc: Number(m.acc) || 0,
+    eva: Number(m.eva) || 0,
+    pushed: Number(m.pushed) || 0
   };
 }
 
@@ -124,12 +173,20 @@ function handleAutocomplete() {
     if (m.nameLower.includes(term)) names.add(m.name);
   });
 
-  // Match drops using dropMap
+  // Match drops using dropMap (now includes hidden drops)
   for (const dropLower in dropMap) {
     if (dropLower.includes(term)) {
       dropMap[dropLower].forEach(m => {
-        const index = m.dropsLower.indexOf(dropLower);
-        if (index >= 0) names.add(m.drops[index]);
+        // Find the original display name (check normal drops first, then hidden)
+        let idx = m.dropsLower.indexOf(dropLower);
+        if (idx >= 0) {
+          names.add(m.drops[idx]);
+        } else {
+          idx = m.hiddenLower.indexOf(dropLower);
+          if (idx >= 0) {
+            names.add(m.hidden[idx]);
+          }
+        }
       });
     }
   }
@@ -246,14 +303,11 @@ function showResult(termRaw, fromHistory = false) {
 
   // Save current result before navigating
   if (!fromHistory && currentResult !== null && currentResult !== termRaw) {
-  historyStack.push(currentResult);
-}
-
+    historyStack.push(currentResult);
+  }
 
   currentResult = termRaw;
-
-backButton.style.display = historyStack.length === 0 ? 'none' : 'inline-block';
-
+  backButton.style.display = historyStack.length === 0 ? 'none' : 'inline-block';
 
   // Clear search UI
   searchInput.value = '';
@@ -280,11 +334,61 @@ backButton.style.display = historyStack.length === 0 ? 'none' : 'inline-block';
   resultDiv.innerHTML = `<p>No results found for "${termRaw}"</p>`;
 }
 
-
 // ==============================
 // RENDER MONSTER PAGE
 // ==============================
 function renderMonster(monster) {
+  // Build trait tags
+  const traitParts = [];
+
+  if (monster.healWeak) {
+    traitParts.push(`<span class="trait trait-heal">Weak to Heal</span>`);
+  }
+
+  monster.elements.forEach(e => {
+    let cssClass = '';
+    if (e.status === 'Immune') cssClass = 'trait-immune';
+    else if (e.status === 'Resist') cssClass = 'trait-resist';
+    else if (e.status === 'Weak') cssClass = 'trait-weak';
+    traitParts.push(`<span class="trait ${cssClass}">${e.element}: ${e.status}</span>`);
+  });
+
+  const traitsHTML = traitParts.length > 0
+    ? `<div class="traits">${traitParts.join(' ')}</div>`
+    : '';
+
+  // Build "Other Stats" small display
+  const otherStatsHTML = `
+    <details class="other-stats-toggle">
+      <summary>Click for Other Stats</summary>
+      <div class="other-stats-grid">
+        <span>Speed: ${monster.speed}</span>
+        <span>Wep ATK: ${monster.PADamage}</span>
+        <span>Wep DEF: ${monster.PDDamage}</span>
+        <span>Mag ATK: ${monster.MADamage}</span>
+        <span>Mag DEF: ${monster.MDDamage}</span>
+        <span>Accuracy: ${monster.acc}</span>
+        <span>Avoid: ${monster.eva}</span>
+        <span>Knockback: ${monster.pushed}</span>
+      </div>
+    </details>
+  `;
+
+  // Hidden drops section (only if monster.hidden exists and has items)
+  const hiddenDropsHTML = monster.hidden.length > 0
+    ? `
+      <p><strong>Hidden Drops:</strong></p>
+      <div class="drops-grid hidden-drops-grid">
+        ${monster.hidden.map(d => `
+          <div class="drop-item clickable-item" data-name="${d}">
+            <img src="item_icons/${itemToFilename(d)}" alt="${d}" class="thumb" onerror="this.style.display='none'">
+            <span>${d}</span>
+          </div>
+        `).join('')}
+      </div>
+    `
+    : '';
+
   resultDiv.innerHTML = `
     <div class="monster-header">
       <h2>${monster.name}</h2>
@@ -295,6 +399,8 @@ function renderMonster(monster) {
         <span class="stat stat-mp">MP: ${monster.mp}</span>
         <span class="stat stat-exp">EXP: ${monster.exp}</span>
       </p>
+      ${traitsHTML}
+      ${otherStatsHTML}
     </div>
 
     ${monster.notes ? `<div class="notes">${monster.notes}</div>` : ''}
@@ -308,6 +414,8 @@ function renderMonster(monster) {
         </div>
       `).join('')}
     </div>
+
+    ${hiddenDropsHTML}
 
     ${monster.episode ? `
       <div class="episode">

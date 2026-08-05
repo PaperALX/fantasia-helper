@@ -48,7 +48,6 @@ body {
   margin-bottom: 20px;
 }
 
-/* Header side images */
 .header-with-images .header-icon:first-child {
   position: absolute;
   left: 0;
@@ -63,7 +62,6 @@ body {
   transform: translate(-100px, -50%);
 }
 
-/* Heading typography */
 h1,
 h2 {
   font-family: 'VI Hai Duong', sans-serif;
@@ -74,7 +72,6 @@ h2 {
   margin-top: 20px;
 }
 
-/* Title text container */
 .h1-container {
   background: #f6e8d8;
   padding: 12px 20px;
@@ -103,7 +100,6 @@ h2 {
   outline: none;
 }
 
-/* Dropdown container */
 .dropdown {
   list-style: none;
   margin: 0;
@@ -124,8 +120,7 @@ h2 {
   z-index: 1000;
 }
 
-/* Dropdown items */
-.dropdown li {
+.dropdown-item {
   display: flex;
   align-items: center;
   gap: 10px;
@@ -133,30 +128,28 @@ h2 {
   cursor: pointer;
 }
 
-.dropdown li:hover {
+.dropdown-item:hover {
   background: #f0f0f0;
 }
 
-.dropdown li.highlight {
+.dropdown-item.highlight {
   background: #3498db;
   color: #fff;
 }
 
-/* Dropdown icons */
-.dropdown .thumb {
+.dropdown-item .thumb {
   width: 32px;
   height: 32px;
   object-fit: contain;
   flex-shrink: 0;
 }
 
-/* Dropdown item type indicators */
-.dropdown li.monster {
+.dropdown-item.monster {
   border-left: 4px solid #e74c3c;
   padding-left: 6px;
 }
 
-.dropdown li.item {
+.dropdown-item.item {
   border-left: 4px solid #3498db;
   padding-left: 6px;
 }
@@ -167,16 +160,6 @@ h2 {
 .result p {
   margin: 8px 0;
   line-height: 1.5;
-}
-
-.result ul {
-  list-style: disc;
-  margin-left: 20px;
-  padding-left: 0;
-}
-
-.result ul li {
-  margin: 4px 0;
 }
 
 .result img {
@@ -279,7 +262,6 @@ h2 {
   grid-template-columns: repeat(3, 1fr);
 }
 
-/* Item slot styling */
 .drop-item {
   background: #f6e8d8;
   border: 2px solid #d4b57f;
@@ -303,7 +285,6 @@ h2 {
     0 3px 6px rgba(0,0,0,0.25);
 }
 
-/* Monster icons inside item grids */
 .monster-list .drop-item img.thumb {
   max-width: 100%;
   max-height: 100px;
@@ -332,64 +313,22 @@ h2 {
   }
 }
 
-/* ==============================
-   DROPDOWN ITEM LAYOUT
-   ============================== */
-.dropdown-item {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 10px 12px;
-  cursor: pointer;
-}
-
-.dropdown-item.monster {
-  border-left: 4px solid #e74c3c; /* red border for monsters */
-  padding-left: 6px;
-}
-
-.dropdown-item.item {
-  border-left: 4px solid #3498db; /* blue border for items */
-  padding-left: 6px;
-}
-
-.dropdown-item:hover {
-  background: #f0f0f0;
-}
-
-.dropdown-item.highlight {
-  background: #3498db;
-  color: #fff;
-}
-
-.dropdown-item .thumb {
-  width: 32px;
-  height: 32px;
-  object-fit: contain;
-  flex-shrink: 0;
-}
-
 /* =========================================================
-   BACK BUTTON STYLING (REFINED)
+   BACK BUTTON STYLING
    ========================================================= */
 .back-button {
-  display: none; /* JS controls visibility */
+  display: none;
   margin: 6px 0 0px 0;
   padding: 6px 12px;
-
   font-size: 1rem;
   font-family: inherit;
-
   background: #f6e8d8;
   color: #2c2c2c;
-
   border: 2px solid #d4b57f;
   border-radius: 8px;
-
   box-shadow:
     0 0 0 2px #ffffff inset,
     0 2px 4px rgba(0,0,0,0.2);
-
   transition:
     transform 0.1s ease,
     box-shadow 0.1s ease;
@@ -408,15 +347,138 @@ h2 {
     0 0 0 2px #ffffff inset,
     0 1px 3px rgba(0,0,0,0.25);
 }
-/* If it comes right after the back button, don’t add extra top margin */
+
 .back-button + .result h2,
 .back-button + .result .monster-header {
   margin-top: 8px;
 }
 
-/* Dont change cursor on back button hover */
 .back-button,
 .back-button:hover,
 .back-button:active {
   cursor: url('../background/cursor.png') 0 0, auto;
+}
+
+/* =========================================================
+   ALSO CHECK OUT – TOP LINKS SECTION
+   ========================================================= */
+.also-check-out {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 4px 12px;
+  background: #f6e8d8;
+  border: 2px solid #d4b57f;
+  border-radius: 8px;
+  padding: 5px 14px;
+  width: fit-content;
+  margin: 0 auto 12px auto;
+  box-shadow:
+    0 0 0 2px #ffffff inset,
+    0 3px 6px rgba(0,0,0,0.15);
+}
+
+.also-label {
+  color: #323b5e;
+  margin-right: 2px;
+  font-size: 0.8rem;
+}
+
+.also-check-out a {
+  display: inline-block;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  padding: 2px 8px;
+  border-radius: 4px;
+  transition: transform 0.12s ease, filter 0.12s ease;
+  background-color: #85C1E9;
+  font-size: 0.8rem;
+}
+
+.also-check-out a:hover {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
+
+/* =========================================================
+   ELEMENTAL TRAITS
+   ========================================================= */
+.traits {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+}
+
+.trait {
+  font-size: 0.85rem;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: #f0e6d3;
+  border: 1px solid #b08d57;
+  color: #3f2f1f;
+}
+
+.trait-resist {
+  background: #ffe0b2;
+  border-color: #f57c00;
+  color: #e65100;
+}
+
+.trait-weak {
+  background: #E0F2F1;
+  border-color: #4DB6AC;
+  color: #004D40;
+}
+
+.trait-immune {
+  background: #D7CCC8;
+  border-color: #795548;
+  color: #3E2723;
+}
+
+.trait-heal {
+  background: #E0F2F1;
+  border-color: #4DB6AC;
+  color: #004D40;
+}
+
+/* =========================================================
+   OTHER STATS (COLLAPSIBLE)
+   ========================================================= */
+.other-stats-toggle {
+  margin-top: 6px;
+  font-size: 0.8rem;
+  color: #6b5a4a;
+  text-align: center;
+}
+
+.other-stats-toggle summary {
+  cursor: pointer;
+  display: inline-block;
+  color: #8b7355;
+  font-weight: 500;
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: background 0.1s ease;
+}
+
+.other-stats-toggle summary:hover {
+  background: rgba(180, 150, 120, 0.15);
+}
+
+.other-stats-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px 14px;
+  margin-top: 6px;
+  padding: 6px 10px;
+  background: rgba(245, 240, 230, 0.8);
+  border: 1px solid #d4b57f;
+  border-radius: 6px;
+  font-size: 0.78rem;
 }
