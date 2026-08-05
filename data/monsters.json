@@ -8256,6 +8256,9 @@
       "Scroll for Bottomwear for DEF 10%",
       "Scroll for Dagger for ATT 10%"
     ],
+    "hidden": [
+      "Coat Hanger"
+    ],
     "notes": "",
     "episode": "Form : Enchanted\n\nThe best selling children's toy… 1000 years ago. The rocking horse was a staple in every child's room, and a staple in every room in the Haunted Mansion before its fall. Today these toys have been given new life, and have been fitted with horrible weapons totally unbefitting of a child's toy.",
     "image": "nightmare.png"
