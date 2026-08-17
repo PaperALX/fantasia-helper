@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GPQ Stage 3 Solver</title>
+<link rel="icon" href="../background/gpq_favicon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="app">
+
+    <div class="title-container">
+      <h1>GPQ Stage 3 Solver</h1>
+    </div>
+
+    <main>
+
+      <section id="suggestion-panel" class="panel">
+        <h2>Suggested Offering <span id="attempt-number"></span></h2>
+        <div id="guess-display" class="peg-row"></div>
+
+        <button type="button" id="shuffle-button" class="hidden">Shuffle Starter</button>
+
+        <div id="solved-banner" class="hidden">
+          This is the only remaining combination!
+        </div>
+
+        <form id="feedback-form">
+          <div class="field-group">
+            <label for="correct-input">Correct offerings</label>
+            <div class="number-control">
+              <input type="number" id="correct-input" min="0" max="4" value="0" required>
+              <div class="stepper">
+                <button type="button" class="stepper-btn down" data-target="correct-input" aria-label="Decrease correct offerings">−</button>
+                <button type="button" class="stepper-btn up" data-target="correct-input" aria-label="Increase correct offerings">+</button>
+              </div>
+            </div>
+          </div>
+          <div class="field-group">
+            <label for="incorrect-input">Incorrect offerings</label>
+            <div class="number-control">
+              <input type="number" id="incorrect-input" min="0" max="4" value="0" required>
+              <div class="stepper">
+                <button type="button" class="stepper-btn down" data-target="incorrect-input" aria-label="Decrease incorrect offerings">−</button>
+                <button type="button" class="stepper-btn up" data-target="incorrect-input" aria-label="Increase incorrect offerings">+</button>
+              </div>
+            </div>
+          </div>
+          <button type="submit">Submit Result</button>
+        </form>
+
+        <div id="error-message" class="error hidden"></div>
+      </section>
+
+      <section id="history-panel" class="panel">
+        <div class="history-header">
+          <h2>History</h2>
+          <button id="reset-button" type="button">Reset</button>
+        </div>
+        <table id="history-table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Offering</th>
+              <th>Correct</th>
+              <th>Incorrect</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="history-body"></tbody>
+        </table>
+      </section>
+
+    </main>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
