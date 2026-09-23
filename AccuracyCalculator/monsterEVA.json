@@ -1897,7 +1897,7 @@
   "9400300": {
     "name": "The Boss",
     "level": 175,
-    "eva": 80
+    "eva": 60
   },
   "9400514": {
     "name": "Geist Balrog Phase 3",
@@ -2528,5 +2528,100 @@
     "name": "Clone of Wulin Yaoseng",
     "level": 140,
     "eva": 20
+  },
+  "9420007": {
+    "name": "Wild Monkey",
+    "level": 50,
+    "eva": 14
+  },
+  "9420008": {
+    "name": "Mama Monkey",
+    "level": 55,
+    "eva": 17
+  },
+  "9420010": {
+    "name": "White Mama Monkey",
+    "level": 65,
+    "eva": 24
+  },
+  "9420011": {
+    "name": "Ruby Goblin",
+    "level": 80,
+    "eva": 30
+  },
+  "9420012": {
+    "name": "Sapphire Goblin",
+    "level": 71,
+    "eva": 30
+  },
+  "9420013": {
+    "name": "Stone Goblin",
+    "level": 99,
+    "eva": 40
+  },
+  "9420014": {
+    "name": "Ravana",
+    "level": 120,
+    "eva": 20
+  },
+  "9420015": {
+    "name": "Strong Stone Goblin",
+    "level": 105,
+    "eva": 45
+  },
+  "9420016": {
+    "name": "Ganapati",
+    "level": 115,
+    "eva": 43
+  },
+  "9420017": {
+    "name": "SnowFro",
+    "level": 65,
+    "eva": 25
+  },
+  "9420018": {
+    "name": "White Baby Monkey",
+    "level": 20,
+    "eva": 10
+  },
+  "9420019": {
+    "name": "Sapphire Goblin of Despair",
+    "level": 71,
+    "eva": 30
+  },
+  "9420020": {
+    "name": "Ruby Goblin of Despair",
+    "level": 80,
+    "eva": 30
+  },
+  "9420021": {
+    "name": "Ganapati of Despair",
+    "level": 115,
+    "eva": 43
+  },
+  "9400728": {
+    "name": "Red the Grumpy",
+    "level": 11,
+    "eva": 0
+  },
+  "9400729": {
+    "name": "Green the Smelly",
+    "level": 11,
+    "eva": 0
+  },
+  "9400730": {
+    "name": "Blue the Dopey",
+    "level": 11,
+    "eva": 0
+  },
+  "9999904": {
+    "name": "Candle Monster",
+    "level": 10,
+    "eva": 7
+  },
+  "9420022": {
+    "name": "Strong Goblin of Despair",
+    "level": 105,
+    "eva": 45
   }
 }
